@@ -1,0 +1,44 @@
+{
+  "leagues": [
+    {
+      "id": 1,
+      "name": "Premier League",
+      "country": "England",
+      "founded": 1992,
+      "teams": 20,
+      "logo": "https://upload.wikimedia.org/wikipedia/en/f/f2/Premier_League_Logo.svg"
+    },
+    {
+      "id": 2,
+      "name": "La Liga",
+      "country": "Spain",
+      "founded": 1929,
+      "teams": 20,
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm8MfAf99Ncc-HZQm95_W1euKDFhCrLWOvkw&s"
+    },
+    {
+      "id": 3,
+      "name": "Serie A",
+      "country": "Italy",
+      "founded": 1898,
+      "teams": 20,
+      "logo": "https://1000logos.net/wp-content/uploads/2021/10/Serie-A-logo.png"
+    },
+    {
+      "id": 4,
+      "name": "Bundesliga",
+      "country": "Germany",
+      "founded": 1963,
+      "teams": 18,
+      "logo": "https://upload.wikimedia.org/wikipedia/en/d/df/Bundesliga_logo_%282017%29.svg"
+    },
+    {
+      "id": 5,
+      "name": "Ligue 1",
+      "country": "France",
+      "founded": 1932,
+      "teams": 18,
+      "logo": "https://media.api-sports.io/football/leagues/61.png"
+    }
+  ]
+}

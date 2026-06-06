@@ -1,0 +1,4509 @@
+{
+  "players": [
+  {
+    "id": 1,
+    "name": "Lionel Messi",
+    "country": "Argentina",
+    "position": "Forward",
+    "club": "Inter Miami",
+    "photo": "https://i.pinimg.com/474x/70/b7/9a/70b79aad49da741bae24581edd365a42.jpg"
+  },
+  {
+    "id": 2,
+    "name": " Ronaldo",
+    "country": "Portugal",
+    "position": "Forward",
+    "club": "Al Nassr",
+    "photo": "https://i.pinimg.com/236x/21/8f/e5/218fe5d949f74a7308881b1be773d452.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Neymar Jr",
+    "country": "Brazil",
+    "position": "Forward",
+    "club": "Santos",
+    "photo": "https://cdn.sofifa.net/players/190/871/25_120.png"
+  },
+  {
+    "id": 4,
+    "name": "Kylian Mbappé",
+    "country": "France",
+    "position": "Forward",
+    "club": "Real Madrid",
+    "photo": "https://cdn.sofifa.net/players/231/747/25_120.png"
+  },
+  {
+    "id": 5,
+    "name": "Mohamed Salah",
+    "country": "Egypt",
+    "position": "Forward",
+    "club": "Liverpool",
+    "photo": "https://cdn.sofifa.net/players/209/331/25_120.png"
+  },
+  {
+    "id": 6,
+    "name": "Kevin De Bruyne",
+    "country": "Belgium",
+    "position": "Midfielder",
+    "club": "Manchester City",
+    "photo": "https://cdn.sofifa.net/players/192/985/25_120.png"
+  },
+  {
+    "id": 7,
+    "name": "Erling Haaland",
+    "country": "Norway",
+    "position": "Striker",
+    "club": "Manchester City",
+    "photo": "https://cdn.sofifa.net/players/239/085/25_120.png"
+  },
+  {
+    "id": 8,
+    "name": "Vinícius Júnior",
+    "country": "Brazil",
+    "position": "Winger",
+    "club": "Real Madrid",
+    "photo": "https://cdn.sofifa.net/players/238/794/25_120.png"
+  },
+  {
+    "id": 9,
+    "name": " Lewandowski",
+    "country": "Poland",
+    "position": "Striker",
+    "club": "Barcelona",
+    "photo": "https://cdn.sofifa.net/players/188/545/25_120.png"
+  },
+  {
+    "id": 10,
+    "name": "Luka Modrić",
+    "country": "Croatia",
+    "position": "Midfielder",
+    "club": "Real Madrid",
+    "photo": "https://cdn.sofifa.net/players/177/003/25_120.png"
+  },
+  {
+    "id": 11,
+    "name": "Harry Kane",
+    "country": "England",
+    "position": "Striker",
+    "club": "Bayern Munich",
+    "photo": "https://cdn.sofifa.net/players/202/126/25_120.png"
+  },
+  {
+    "id": 12,
+    "name": "Karim Benzema",
+    "country": "France",
+    "position": "Striker",
+    "club": "Al Ittihad",
+    "photo": "https://cdn.sofifa.net/players/165/153/25_120.png"
+  },
+  {
+    "id": 13,
+    "name": "Jude Bellingham",
+    "country": "England",
+    "position": "Midfielder",
+    "club": "Real Madrid",
+    "photo": "https://cdn.sofifa.net/players/252/371/25_120.png"
+  },
+  {
+    "id": 14,
+    "name": "Pedri",
+    "country": "Spain",
+    "position": "Midfielder",
+    "club": "Barcelona",
+    "photo": "https://cdn.sofifa.net/players/251/854/25_120.png"
+  },
+  {
+    "id": 15,
+    "name": "Bukayo Saka",
+    "country": "England",
+    "position": "Winger",
+    "club": "Arsenal",
+    "photo": "https://cdn.sofifa.net/players/246/669/25_120.png"
+  },
+  {
+    "id": 16,
+    "name": "Phil Foden",
+    "country": "England",
+    "position": "Midfielder",
+    "club": "Manchester City",
+    "photo": "https://cdn.sofifa.net/players/237/692/25_120.png"
+  },
+  {
+    "id": 17,
+    "name": "Rodri",
+    "country": "Spain",
+    "position": "Midfielder",
+    "club": "Manchester City",
+    "photo": "https://cdn.sofifa.net/players/231/866/25_120.png"
+  },
+  {
+    "id": 18,
+    "name": "Virgil van Dijk",
+    "country": "Netherlands",
+    "position": "Defender",
+    "club": "Liverpool",
+    "photo": "https://cdn.sofifa.net/players/203/376/25_120.png"
+  },
+  {
+    "id": 19,
+    "name": "Sergio Ramos",
+    "country": "Spain",
+    "position": "Defender",
+    "club": "Sevilla",
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQAQRp-JaiF8hHQDVJlh9KF3TXGMBKA6bxCQ&s"
+  },
+  {
+    "id": 20,
+    "name": "Thibaut Courtois",
+    "country": "Belgium",
+    "position": "Goalkeeper",
+    "club": "Real Madrid",
+    "photo": "https://cdn.sofifa.net/players/192/119/25_120.png"
+  }
+,
+  {
+    "id": 21,
+    "name": "Ter Stegen",
+    "country": "Germany",
+    "position": "Goalkeeper",
+    "club": "Barcelona",
+    "photo": "https://cdn.sofifa.net/players/192/448/25_120.png"
+  },
+  {
+    "id": 22,
+    "name": " Griezmann",
+    "country": "France",
+    "position": "Forward",
+    "club": "Atletico Madrid",
+    "photo": "https://cdn.sofifa.net/players/194/765/25_120.png"
+  },
+  {
+    "id": 23,
+    "name": "Luis Suárez",
+    "country": "Uruguay",
+    "position": "Striker",
+    "club": "Inter Miami",
+    "photo": "https://cdn.sofifa.net/players/176/580/25_120.png"
+  },
+  {
+    "id": 24,
+    "name": "Paulo Dybala",
+    "country": "Argentina",
+    "position": "Forward",
+    "club": "AS Roma",
+    "photo": "https://cdn.sofifa.net/players/211/110/25_120.png"
+  },
+  {
+    "id": 25,
+    "name": "Angel Di María",
+    "country": "Argentina",
+    "position": "Winger",
+    "club": "Benfica",
+    "photo": "https://cdn.sofifa.net/players/183/898/25_120.png"
+  },
+  {
+    "id": 26,
+    "name": "Son Heung-min",
+    "country": "South Korea",
+    "position": "Forward",
+    "club": "Tottenham",
+    "photo": "https://cdn.sofifa.net/players/200/104/25_120.png"
+  },
+  {
+    "id": 27,
+    "name": "Bruno Fernandes",
+    "country": "Portugal",
+    "position": "Midfielder",
+    "club": "Manchester United",
+    "photo": "https://cdn.sofifa.net/players/212/198/25_120.png"
+  },
+  {
+    "id": 28,
+    "name": "Casemiro",
+    "country": "Brazil",
+    "position": "Midfielder",
+    "club": "Manchester United",
+    "photo": "https://cdn.sofifa.net/players/200/145/25_120.png"
+  },
+  {
+    "id": 29,
+    "name": "Riyad Mahrez",
+    "country": "Algeria",
+    "position": "Winger",
+    "club": "Al Ahli",
+    "photo": "https://cdn.sofifa.net/players/204/485/25_120.png"
+  },
+  {
+    "id": 30,
+    "name": "Bernardo Silva",
+    "country": "Portugal",
+    "position": "Midfielder",
+    "club": "Manchester City",
+    "photo": "https://cdn.sofifa.net/players/218/667/25_120.png"
+  },
+  {
+    "id": 31,
+    "name": "João Félix",
+    "country": "Portugal",
+    "position": "Forward",
+    "club": "Barcelona",
+    "photo": "https://cdn.sofifa.net/players/242/444/25_120.png"
+  },
+  {
+    "id": 32,
+    "name": "Jamal Musiala",
+    "country": "Germany",
+    "position": "Midfielder",
+    "club": "Bayern Munich",
+    "photo": "https://cdn.sofifa.net/players/256/790/25_120.png"
+  },
+  {
+    "id": 33,
+    "name": "Alphonso Davies",
+    "country": "Canada",
+    "position": "Defender",
+    "club": "Bayern Munich",
+    "photo": "https://cdn.sofifa.net/players/234/396/25_120.png"
+  },
+  {
+    "id": 34,
+    "name": "Joshua Kimmich",
+    "country": "Germany",
+    "position": "Midfielder",
+    "club": "Bayern Munich",
+    "photo": "https://cdn.sofifa.net/players/212/622/25_120.png"
+  },
+  {
+    "id": 35,
+    "name": "Thomas Müller",
+    "country": "Germany",
+    "position": "Forward",
+    "club": "Bayern Munich",
+    "photo": "https://cdn.sofifa.net/players/189/596/25_120.png"
+  },
+  {
+    "id": 36,
+    "name": "Manuel Neuer",
+    "country": "Germany",
+    "position": "Goalkeeper",
+    "club": "Bayern Munich",
+    "photo": "https://cdn.sofifa.net/players/167/495/25_120.png"
+  },
+  {
+    "id": 37,
+    "name": "Declan Rice",
+    "country": "England",
+    "position": "Midfielder",
+    "club": "Arsenal",
+    "photo": "https://cdn.sofifa.net/players/234/378/25_120.png"
+  },
+  {
+    "id": 38,
+    "name": "Martin Ødegaard",
+    "country": "Norway",
+    "position": "Midfielder",
+    "club": "Arsenal",
+    "photo": "https://cdn.sofifa.net/players/222/665/25_120.png"
+  },
+  {
+    "id": 39,
+    "name": "Gabriel Jesus",
+    "country": "Brazil",
+    "position": "Forward",
+    "club": "Arsenal",
+    "photo": "https://cdn.sofifa.net/players/230/666/25_120.png"
+  },
+  {
+    "id": 40,
+    "name": "Victor Osimhen",
+    "country": "Nigeria",
+    "position": "Striker",
+    "club": "Galatasaray",
+    "photo": "https://cdn.sofifa.net/players/232/293/25_120.png"
+  },
+  {
+    "id": 41,
+    "name": "Kvaratskhelia",
+    "country": "Georgia",
+    "position": "Winger",
+    "club": "PSG",
+    "photo": "https://cdn.sofifa.net/players/247/635/25_120.png"
+  },
+  {
+    "id": 42,
+    "name": "Rafael Leão",
+    "country": "Portugal",
+    "position": "Winger",
+    "club": "AC Milan",
+    "photo": "https://cdn.sofifa.net/players/241/721/25_120.png"
+  },
+  {
+    "id": 43,
+    "name": "Theo Hernández",
+    "country": "France",
+    "position": "Defender",
+    "club": "AC Milan",
+    "photo": "https://cdn.sofifa.net/players/232/656/25_120.png"
+  },
+  {
+    "id": 44,
+    "name": " Valverde",
+    "country": "Uruguay",
+    "position": "Midfielder",
+    "club": "Real Madrid",
+    "photo": "https://cdn.sofifa.net/players/239/053/25_120.png"
+  },
+  {
+    "id": 45,
+    "name": "Achraf Hakimi",
+    "country": "Morocco",
+    "position": "Defender",
+    "club": "PSG",
+    "photo": "https://cdn.sofifa.net/players/235/212/25_120.png"
+  },
+  {
+    "id": 46,
+    "name": "Dembélé",
+    "country": "France",
+    "position": "Winger",
+    "club": "PSG",
+    "photo": "https://cdn.sofifa.net/players/231/443/25_120.png"
+  },
+  {
+    "id": 47,
+    "name": "Gavi",
+    "country": "Spain",
+    "position": "Midfielder",
+    "club": "Barcelona",
+    "photo": "https://cdn.sofifa.net/players/264/240/25_120.png"
+  },
+  {
+    "id": 48,
+    "name": "Ronald Araújo",
+    "country": "Uruguay",
+    "position": "Defender",
+    "club": "Barcelona",
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzqBNzxsPLSsG5yFO2Bzi39A0o9vqwqnuODA&s"
+  },
+  {
+    "id": 49,
+    "name": "Frenkie de Jong",
+    "country": "Netherlands",
+    "position": "Midfielder",
+    "club": "Barcelona",
+    "photo": "https://cdn.sofifa.net/players/228/702/25_120.png"
+  },
+  {
+    "id": 50,
+    "name": "İlkay Gündoğan",
+    "country": "Germany",
+    "position": "Midfielder",
+    "club": "Barcelona",
+    "photo": "https://cdn.sofifa.net/players/186/942/25_120.png"
+  },
+  {
+    "id": 51,
+    "name": "Julian Alvarez",
+    "country": "Argentina",
+    "position": "Forward",
+    "club": "Atletico Madrid",
+    "photo": "https://cdn.sofifa.net/players/246/191/25_120.png"
+  },
+  {
+    "id": 52,
+    "name": "Lautaro Martínez",
+    "country": "Argentina",
+    "position": "Striker",
+    "club": "Inter Milan",
+    "photo": "https://cdn.sofifa.net/players/231/478/25_120.png"
+  },
+  {
+    "id": 53,
+    "name": "Nicolò Barella",
+    "country": "Italy",
+    "position": "Midfielder",
+    "club": "Inter Milan",
+    "photo": "https://cdn.sofifa.net/players/224/232/25_120.png"
+  },
+  {
+    "id": 54,
+    "name": " Çalhanoğlu",
+    "country": "Turkey",
+    "position": "Midfielder",
+    "club": "Inter Milan",
+    "photo": "https://img.uefa.com/imgml/TP/players/1/2026/324x324/250022829.jpg"
+  },
+  {
+    "id": 55,
+    "name": "Dušan Vlahović",
+    "country": "Serbia",
+    "position": "Striker",
+    "club": "Juventus",
+    "photo": "https://img.uefa.com/imgml/TP/players/1/2026/324x324/250099180.jpg"
+  },
+  {
+    "id": 56,
+    "name": "Adrien Rabiot",
+    "country": "France",
+    "position": "Midfielder",
+    "club": "Juventus",
+    "photo": "https://cdn.sofifa.net/players/210/008/25_120.png"
+  },
+  {
+    "id": 57,
+    "name": "Mike Maignan",
+    "country": "France",
+    "position": "Goalkeeper",
+    "club": "AC Milan",
+    "photo": "https://cdn.sofifa.net/players/215/698/25_120.png"
+  },
+  {
+    "id": 58,
+    "name": "Rodrygo",
+    "country": "Brazil",
+    "position": "Forward",
+    "club": "Real Madrid",
+    "photo": "https://cdn.sofifa.net/players/243/715/25_120.png"
+  },
+  {
+    "id": 59,
+    "name": "Antonio Rüdiger",
+    "country": "Germany",
+    "position": "Defender",
+    "club": "Real Madrid",
+    "photo": "https://cdn.sofifa.net/players/205/452/25_120.png"
+  },
+  {
+    "id": 60,
+    "name": "Eduardo Camavinga",
+    "country": "France",
+    "position": "Midfielder",
+    "club": "Real Madrid",
+    "photo": "https://cdn.sofifa.net/players/248/243/25_120.png"
+  },
+  {
+    "id": 61,
+    "name": "Tchouaméni",
+    "country": "France",
+    "position": "Midfielder",
+    "club": "Real Madrid",
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGCECr6K19Eo_kJyZpmK91kJUH6dPKPpaXnA&s"
+  },
+  {
+    "id": 62,
+    "name": "Joško Gvardiol",
+    "country": "Croatia",
+    "position": "Defender",
+    "club": "Manchester City",
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9-77ni07D39ITSP8ULBk9BfZR5CxRKGjajA&s"
+  },
+  {
+    "id": 63,
+    "name": "Jack Grealish",
+    "country": "England",
+    "position": "Winger",
+    "club": "Manchester City",
+    "photo": "https://cdn.sofifa.net/players/206/517/25_120.png"
+  },
+  {
+    "id": 64,
+    "name": "John Stones",
+    "country": "England",
+    "position": "Defender",
+    "club": "Manchester City",
+    "photo": "https://cdn.sofifa.net/players/203/574/25_120.png"
+  },
+  {
+    "id": 65,
+    "name": "Rúben Dias",
+    "country": "Portugal",
+    "position": "Defender",
+    "club": "Manchester City",
+    "photo": "https://cdn.sofifa.net/players/239/818/25_120.png"
+  },
+  {
+    "id": 66,
+    "name": "Marcus Rashford",
+    "country": "England",
+    "position": "Forward",
+    "club": "Manchester United",
+    "photo": "https://wallpapers.com/images/hd/marcus-rashford-portrait-tnxrk1juc3pk9igw.jpg"
+  },
+  {
+    "id": 67,
+    "name": "Garnacho",
+    "country": "Argentina",
+    "position": "Winger",
+    "club": "Manchester United",
+    "photo": "https://cdn.sofifa.net/players/268/438/25_120.png"
+  },
+  {
+    "id": 68,
+    "name": "Martínez",
+    "country": "Argentina",
+    "position": "Defender",
+    "club": "Manchester United",
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtNzuOBLGm1058OrD_rphCRbLveZxV3t7N4w&s"
+  },
+  {
+    "id": 69,
+    "name": "Enzo Fernández",
+    "country": "Argentina",
+    "position": "Midfielder",
+    "club": "Chelsea",
+    "photo": "https://www.fifarosters.com/assets/players/fifa24/faces/247090.png"
+  },
+  {
+    "id": 70,
+    "name": "Cole Palmer",
+    "country": "England",
+    "position": "Attacking Midfielder",
+    "club": "Chelsea",
+    "photo": "https://cdn.sofifa.net/players/257/534/25_120.png"
+    
+  },
+  {
+    "id": 71,
+    "name": "Moisés Caicedo",
+    "country": "Ecuador",
+    "position": "Midfielder",
+    "club": "Chelsea",
+    "photo": "https://cdn.sofifa.net/players/241/852/25_120.png"
+  },
+  {
+    "id": 72,
+    "name": "Darwin Núñez",
+    "country": "Uruguay",
+    "position": "Striker",
+    "club": "Liverpool",
+    "photo": "data:image/jpeg;base64,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"
+  },
+  {
+    "id": 73,
+    "name": "Alexander-Arnold",
+    "country": "England",
+    "position": "Defender",
+    "club": "Liverpool",
+    "photo": "https://cdn.sofifa.net/players/231/281/25_120.png"
+  },
+  {
+    "id": 74,
+    "name": "Alisson Becker",
+    "country": "Brazil",
+    "position": "Goalkeeper",
+    "club": "Liverpool",
+    "photo": "https://cdn.sofifa.net/players/212/831/25_120.png"
+  },
+  {
+    "id": 75,
+    "name": "Robertson",
+    "country": "Scotland",
+    "position": "Defender",
+    "club": "Liverpool",
+    "photo": "https://cdn.sofifa.net/players/216/267/25_120.png"
+  },
+  {
+    "id": 76,
+    "name": "Kai Havertz",
+    "country": "Germany",
+    "position": "Forward",
+    "club": "Arsenal",
+    "photo": "https://cdn.sofifa.net/players/235/790/25_120.png"
+  },
+  {
+    "id": 77,
+    "name": "William Saliba",
+    "country": "France",
+    "position": "Defender",
+    "club": "Arsenal",
+    "photo": "https://img.uefa.com/imgml/TP/players/1/2026/324x324/250127439.jpg"
+  },
+  {
+    "id": 78,
+    "name": "Gabriel Martinelli",
+    "country": "Brazil",
+    "position": "Winger",
+    "club": "Arsenal",
+    "photo": "https://img.uefa.com/imgml/TP/players/1/2026/324x324/250134304.jpg"
+  },
+  {
+    "id": 79,
+    "name": "Cristian Romero",
+    "country": "Argentina",
+    "position": "Defender",
+    "club": "Tottenham",
+    "photo": "https://cdn.sofifa.net/players/232/488/25_120.png"
+  },
+  {
+    "id": 80,
+    "name": "James Maddison",
+    "country": "England",
+    "position": "Midfielder",
+    "club": "Tottenham",
+    "photo": "https://cdn.sofifa.net/players/220/697/25_120.png"
+  },
+  {
+    "id": 81,
+    "name": "Mikel Oyarzabal",
+    "country": "Spain",
+    "position": "Forward",
+    "club": "Real Sociedad",
+    "photo": "data:image/jpeg;base64,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"
+  },
+  {
+    "id": 82,
+    "name": "Takefusa Kubo",
+    "country": "Japan",
+    "position": "Winger",
+    "club": "Real Sociedad",
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbg0K8BOAQLCxPB0bmLtW0I6tJLGu9uDz77g&s"
+  },
+  {
+    "id": 83,
+    "name": "Memphis Depay",
+    "country": "Netherlands",
+    "position": "Forward",
+    "club": "Atletico Madrid",
+    "photo": "https://cdn.sofifa.net/players/202/556/25_120.png"
+  },
+  {
+    "id": 84,
+    "name": "Jan Oblak",
+    "country": "Slovenia",
+    "position": "Goalkeeper",
+    "club": "Atletico Madrid",
+    "photo": "https://cdn.sofifa.net/players/200/389/25_120.png"
+  },
+  {
+    "id": 85,
+    "name": "Ciro Immobile",
+    "country": "Italy",
+    "position": "Striker",
+    "club": "Lazio",
+    "photo": "https://cdn.sofifa.net/players/192/387/25_120.png"
+  },
+  {
+    "id": 86,
+    "name": "Milinković-Savić",
+    "country": "Serbia",
+    "position": "Midfielder",
+    "club": "Al Hilal",
+    "photo": "https://cdn.sofifa.net/players/223/848/25_120.png"
+  },
+  {
+    "id": 87,
+    "name": "Yassine Bounou",
+    "country": "Morocco",
+    "position": "Goalkeeper",
+    "club": "Al Hilal",
+    "photo": "https://cdn.sofifa.net/players/209/981/25_120.png"
+  },
+  {
+    "id": 88,
+    "name": "Sadio Mané",
+    "country": "Senegal",
+    "position": "Forward",
+    "club": "Al Nassr",
+    "photo": "https://cdn.sofifa.net/players/208/722/25_120.png"
+  },
+  {
+    "id": 89,
+    "name": "Kalidou Koulibaly",
+    "country": "Senegal",
+    "position": "Defender",
+    "club": "Al Hilal",
+    "photo": "https://cdn.sofifa.net/players/201/024/25_120.png"
+  },
+  {
+    "id": 90,
+    "name": "Marcelo Brozović",
+    "country": "Croatia",
+    "position": "Midfielder",
+    "club": "Al Nassr",
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTU73Z5LcrJcGzvX5akram2YdDFFuoT6OIRA&s"
+  },
+  {
+    "id": 91,
+    "name": "Ederson",
+    "country": "Brazil",
+    "position": "Goalkeeper",
+    "club": "Manchester City",
+    "photo": "https://cdn.sofifa.net/players/210/257/25_120.png"
+  },
+  {
+    "id": 92,
+    "name": "David Alaba",
+    "country": "Austria",
+    "position": "Defender",
+    "club": "Real Madrid",
+    "photo": "https://cdn.sofifa.net/players/197/445/25_120.png"
+  },
+  {
+    "id": 93,
+    "name": "Pepe",
+    "country": "Portugal",
+    "position": "Defender",
+    "club": "Retired",
+    "photo": "https://cdn.sofifa.net/players/120/533/25_120.png"
+  },
+  {
+    "id": 94,
+    "name": "Mesut Özil",
+    "country": "Germany",
+    "position": "Attacking Midfielder",
+    "club": "Retired",
+    "photo": "https://img.a.transfermarkt.technology/portrait/big/35664-1401958641.png?lm=1"
+  },
+  {
+    "id": 95,
+    "name": "Eden Hazard",
+    "country": "Belgium",
+    "position": "Winger",
+    "club": "Retired",
+    "photo": "https://cdn.sofifa.net/players/183/277/25_120.png"
+  },
+  {
+    "id": 96,
+    "name": "Ibrahimović",
+    "country": "Sweden",
+    "position": "Striker",
+    "club": "Retired",
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSux8ebXcBZHEu1Hrlj-0kr9kQPlxxBl9Mv3A&s"
+  },
+  {
+    "id": 97,
+    "name": "Wayne Rooney",
+    "country": "England",
+    "position": "Forward",
+    "club": "Retired",
+    "photo": "https://longpuntupfield.wordpress.com/wp-content/uploads/2012/05/5108390.png"
+},
+{
+    "id": 98,
+    "name": "Andrea Pirlo",
+    "country": "Italy",
+    "position": "Midfielder",
+    "club": "Retired",
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDvndaoshw1rBNJ11en0S2NEyO50Ien3qhdA&s"
+  },
+  {
+    "id": 99,
+    "name": "Xavi",
+    "country": "Spain",
+    "position": "Midfielder",
+    "club": "Retired",
+    "photo": "https://bestplayersineurope.weebly.com/uploads/2/4/1/3/24136709/7679074_orig.jpg"
+  },
+  {
+    "id": 100,
+    "name": "Andrés Iniesta",
+    "country": "Spain",
+    "position": "Midfielder",
+    "club": "Retired",
+    "photo": "https://bestplayersineurope.weebly.com/uploads/2/4/1/3/24136709/6771396_orig.jpg"
+  }
+],
+
+ "playerDetails": [
+  {
+    "id": 1,
+    "name": "Lionel Messi",
+    "photo": "https://i.pinimg.com/474x/70/b7/9a/70b79aad49da741bae24581edd365a42.jpg",
+    "number": 10,
+    "position": "Forward",
+    "nationality": "Argentina",
+    "age": 37,
+    "height": "1.70 m",
+    "weight": "72 kg",
+    "team": "Inter Miami",
+    "birthday": "June 24, 1987",
+    "image": "messi.jpg",
+    "appearances": 1000,
+    "goals": 850,
+    "assists": 380,
+    "cards": "70 / 0",
+    "bio": "Lionel Messi is widely regarded as one of the greatest footballers of all time, known for his dribbling, vision, and goal-scoring ability.",
+    "seasons": [
+      { "year": 2022, "team": "PSG", "goals": 21, "assists": 20, "yellow": 2, "red": 0 },
+      { "year": 2023, "team": "Inter Miami", "goals": 11, "assists": 6, "yellow": 1, "red": 0 },
+      { "year": 2024, "team": "Inter Miami", "goals": 18, "assists": 12, "yellow": 2, "red": 0 },
+      { "year": 2025, "team": "Inter Miami", "goals": 14, "assists": 9, "yellow": 1, "red": 0 },
+      { "year": 2026, "team": "Inter Miami", "goals": 8, "assists": 5, "yellow": 1, "red": 0 }
+    ],
+    "clubsPlayed": ["Barcelona (2004–2021)", "PSG (2021–2023)", "Inter Miami (2023–present)"],
+    "trophies": [
+      { "title": "World Cup Winner", "year": "2022" },
+      { "title": "Champions League", "year": "2015" },
+      { "title": "La Liga Champion", "year": "2019" }
+    ],
+    "awards": [
+      { "title": "Ballon d'Or", "year": "2023" },
+      { "title": "Golden Boot World Cup", "year": "2022" },
+      { "title": "Best Player FIFA", "year": "2022" }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Cristiano Ronaldo",
+    "photo": "https://i.pinimg.com/236x/21/8f/e5/218fe5d949f74a7308881b1be773d452.jpg",
+    "number": 7,
+    "position": "Forward",
+    "nationality": "Portugal",
+    "age": 39,
+    "height": "1.87 m",
+    "weight": "83 kg",
+    "team": "Al Nassr",
+    "birthday": "February 5, 1985",
+    "image": "ronaldo.jpg",
+    "appearances": 1100,
+    "goals": 900,
+    "assists": 250,
+    "cards": "130 / 11",
+    "bio": "Cristiano Ronaldo is a legendary forward known for his athleticism, goal-scoring records, and relentless work ethic.",
+    "seasons": [
+      { "year": 2022, "team": "Manchester United", "goals": 24, "assists": 3, "yellow": 4, "red": 0 },
+      { "year": 2023, "team": "Al Nassr", "goals": 35, "assists": 11, "yellow": 3, "red": 0 },
+      { "year": 2024, "team": "Al Nassr", "goals": 42, "assists": 8, "yellow": 2, "red": 0 },
+      { "year": 2025, "team": "Al Nassr", "goals": 38, "assists": 7, "yellow": 3, "red": 0 },
+      { "year": 2026, "team": "Al Nassr", "goals": 20, "assists": 4, "yellow": 1, "red": 0 }
+    ],
+    "clubsPlayed": ["Sporting CP (2002–2003)", "Manchester United (2003–2009)", "Real Madrid (2009–2018)", "Juventus (2018–2021)", "Manchester United (2021–2022)", "Al Nassr (2023–present)"],
+    "trophies": [
+      { "title": "Champions League", "year": "2018" },
+      { "title": "Euro Cup Winner", "year": "2016" },
+      { "title": "Saudi Pro League", "year": "2024" }
+    ],
+    "awards": [
+      { "title": "Ballon d'Or", "year": "2017" },
+      { "title": "Golden Boot", "year": "2021" },
+      { "title": "Best Player FIFA", "year": "2017" }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Neymar Jr",
+    "photo": "https://cdn.sofifa.net/players/190/871/25_120.png",
+    "number": 10,
+    "position": "Forward",
+    "nationality": "Brazil",
+    "age": 32,
+    "height": "1.75 m",
+    "weight": "68 kg",
+    "team": "Santos",
+    "birthday": "February 5, 1992",
+    "image": "neymar.jpg",
+    "appearances": 650,
+    "goals": 400,
+    "assists": 280,
+    "cards": "90 / 2",
+    "bio": "Neymar Jr is a creative forward known for his flair, dribbling, and ability to conjure moments of magic.",
+    "seasons": [
+      { "year": 2022, "team": "PSG", "goals": 13, "assists": 8, "yellow": 6, "red": 0 },
+      { "year": 2023, "team": "Al Hilal", "goals": 1, "assists": 0, "yellow": 0, "red": 0 },
+      { "year": 2024, "team": "Santos", "goals": 6, "assists": 4, "yellow": 2, "red": 0 },
+      { "year": 2025, "team": "Santos", "goals": 9, "assists": 5, "yellow": 3, "red": 0 },
+      { "year": 2026, "team": "Santos", "goals": 4, "assists": 3, "yellow": 1, "red": 0 }
+    ],
+    "clubsPlayed": ["Santos (2009–2013)", "Barcelona (2013–2017)", "PSG (2017–2023)", "Al Hilal (2023–2024)", "Santos (2025–present)"],
+    "trophies": [
+      { "title": "Champions League", "year": "2015" },
+      { "title": "Olympic Gold Medal", "year": "2016" },
+      { "title": "Ligue 1 Champion", "year": "2022" }
+    ],
+    "awards": [
+      { "title": "Best Player Copa America", "year": "2011" },
+      { "title": "Golden Boy", "year": "2012" },
+      { "title": "Puskas Award", "year": "2011" }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Kylian Mbappé",
+    "photo": "https://cdn.sofifa.net/players/231/747/25_120.png",
+    "number": 9,
+    "position": "Forward",
+    "nationality": "France",
+    "age": 25,
+    "height": "1.78 m",
+    "weight": "73 kg",
+    "team": "Real Madrid",
+    "birthday": "December 20, 1998",
+    "image": "mbappe.jpg",
+    "appearances": 450,
+    "goals": 320,
+    "assists": 140,
+    "cards": "40 / 1",
+    "bio": "Kylian Mbappé is a lightning-fast forward who combines pace, technical skill, and clinical finishing.",
+    "seasons": [
+      { "year": 2022, "team": "PSG", "goals": 29, "assists": 18, "yellow": 4, "red": 0 },
+      { "year": 2023, "team": "PSG", "goals": 27, "assists": 8, "yellow": 3, "red": 0 },
+      { "year": 2024, "team": "Real Madrid", "goals": 18, "assists": 5, "yellow": 2, "red": 0 },
+      { "year": 2025, "team": "Real Madrid", "goals": 24, "assists": 9, "yellow": 3, "red": 0 },
+      { "year": 2026, "team": "Real Madrid", "goals": 12, "assists": 6, "yellow": 2, "red": 0 }
+    ],
+    "clubsPlayed": ["Monaco (2016–2017)", "PSG (2017–2024)", "Real Madrid (2024–present)"],
+    "trophies": [
+      { "title": "World Cup Winner", "year": "2018" },
+      { "title": "Ligue 1 Champion", "year": "2023" },
+      { "title": "La Liga Champion", "year": "2025" }
+    ],
+    "awards": [
+      { "title": "Best Young Player World Cup", "year": "2018" },
+      { "title": "Ligue 1 Top Scorer", "year": "2023" },
+      { "title": "Golden Boy", "year": "2017" }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Mohamed Salah",
+    "photo": "https://cdn.sofifa.net/players/209/331/25_120.png",
+    "number": 11,
+    "position": "Forward",
+    "nationality": "Egypt",
+    "age": 32,
+    "height": "1.75 m",
+    "weight": "71 kg",
+    "team": "Liverpool",
+    "birthday": "June 15, 1992",
+    "image": "salah.jpg",
+    "appearances": 550,
+    "goals": 380,
+    "assists": 170,
+    "cards": "35 / 1",
+    "bio": "Mohamed Salah is a prolific winger renowned for his speed, finishing, and consistency at the highest level.",
+    "seasons": [
+      { "year": 2022, "team": "Liverpool", "goals": 23, "assists": 13, "yellow": 2, "red": 0 },
+      { "year": 2023, "team": "Liverpool", "goals": 19, "assists": 10, "yellow": 3, "red": 0 },
+      { "year": 2024, "team": "Liverpool", "goals": 24, "assists": 12, "yellow": 2, "red": 0 },
+      { "year": 2025, "team": "Liverpool", "goals": 26, "assists": 14, "yellow": 2, "red": 0 },
+      { "year": 2026, "team": "Liverpool", "goals": 13, "assists": 7, "yellow": 1, "red": 0 }
+    ],
+    "clubsPlayed": ["Basel (2012–2014)", "Chelsea (2014–2016)", "Roma (2016–2017)", "Liverpool (2017–present)"],
+    "trophies": [
+      { "title": "Champions League", "year": "2019" },
+      { "title": "Premier League", "year": "2020" },
+      { "title": "Premier League", "year": "2025" }
+    ],
+    "awards": [
+      { "title": "Premier League Golden Boot", "year": "2025" },
+      { "title": "African Player of the Year", "year": "2023" },
+      { "title": "PFA Players Player of the Year", "year": "2018" }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Kevin De Bruyne",
+    "photo": "https://cdn.sofifa.net/players/192/985/25_120.png",
+    "number": 17,
+    "position": "Midfielder",
+    "nationality": "Belgium",
+    "age": 33,
+    "height": "1.81 m",
+    "weight": "70 kg",
+    "team": "Manchester City",
+    "birthday": "June 28, 1991",
+    "image": "debruyne.jpg",
+    "appearances": 480,
+    "goals": 110,
+    "assists": 280,
+    "cards": "60 / 2",
+    "bio": "Kevin De Bruyne is one of the best playmakers in football history, known for his passing range, vision, and work rate.",
+    "seasons": [
+      { "year": 2022, "team": "Manchester City", "goals": 15, "assists": 17, "yellow": 4, "red": 0 },
+      { "year": 2023, "team": "Manchester City", "goals": 7, "assists": 12, "yellow": 3, "red": 0 },
+      { "year": 2024, "team": "Manchester City", "goals": 4, "assists": 9, "yellow": 2, "red": 0 },
+      { "year": 2025, "team": "Manchester City", "goals": 6, "assists": 11, "yellow": 3, "red": 0 },
+      { "year": 2026, "team": "Manchester City", "goals": 3, "assists": 6, "yellow": 2, "red": 0 }
+    ],
+    "clubsPlayed": ["Genk (2008–2012)", "Chelsea (2012–2014)", "Wolfsburg (2014–2015)", "Manchester City (2015–present)"],
+    "trophies": [
+      { "title": "Premier League", "year": "2023" },
+      { "title": "Champions League", "year": "2023" },
+      { "title": "FA Cup", "year": "2023" }
+    ],
+    "awards": [
+      { "title": "PFA Players Player of the Year", "year": "2020" },
+      { "title": "Premier League Player of the Season", "year": "2022" },
+      { "title": "UEFA Champions League Midfielder of the Season", "year": "2023" }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Erling Haaland",
+    "photo": "https://cdn.sofifa.net/players/239/085/25_120.png",
+    "number": 9,
+    "position": "Striker",
+    "nationality": "Norway",
+    "age": 24,
+    "height": "1.94 m",
+    "weight": "88 kg",
+    "team": "Manchester City",
+    "birthday": "July 21, 2000",
+    "image": "haaland.jpg",
+    "appearances": 280,
+    "goals": 260,
+    "assists": 60,
+    "cards": "20 / 1",
+    "bio": "Erling Haaland is a physically dominant striker with exceptional pace, strength, and finishing ability.",
+    "seasons": [
+      { "year": 2022, "team": "Manchester City", "goals": 52, "assists": 9, "yellow": 3, "red": 0 },
+      { "year": 2023, "team": "Manchester City", "goals": 27, "assists": 5, "yellow": 2, "red": 0 },
+      { "year": 2024, "team": "Manchester City", "goals": 22, "assists": 4, "yellow": 2, "red": 0 },
+      { "year": 2025, "team": "Manchester City", "goals": 30, "assists": 7, "yellow": 3, "red": 0 },
+      { "year": 2026, "team": "Manchester City", "goals": 16, "assists": 3, "yellow": 1, "red": 0 }
+    ],
+    "clubsPlayed": ["Bryne (2016–2017)", "Molde (2017–2019)", "Salzburg (2019–2020)", "Dortmund (2020–2022)", "Manchester City (2022–present)"],
+    "trophies": [
+      { "title": "Premier League", "year": "2023" },
+      { "title": "Champions League", "year": "2023" },
+      { "title": "Premier League", "year": "2025" }
+    ],
+    "awards": [
+      { "title": "Premier League Golden Boot", "year": "2023" },
+      { "title": "Champions League Top Scorer", "year": "2023" },
+      { "title": "UEFA Player of the Year", "year": "2023" }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Vinícius Júnior",
+    "photo": "https://cdn.sofifa.net/players/238/794/25_120.png",
+    "number": 7,
+    "position": "Winger",
+    "nationality": "Brazil",
+    "age": 24,
+    "height": "1.76 m",
+    "weight": "73 kg",
+    "team": "Real Madrid",
+    "birthday": "July 12, 2000",
+    "image": "vinicius.jpg",
+    "appearances": 320,
+    "goals": 120,
+    "assists": 90,
+    "cards": "50 / 2",
+    "bio": "Vinícius Júnior is an explosive winger whose skill, speed, and direct style have made him one of football's most exciting players.",
+    "seasons": [
+      { "year": 2022, "team": "Real Madrid", "goals": 22, "assists": 20, "yellow": 8, "red": 0 },
+      { "year": 2023, "team": "Real Madrid", "goals": 24, "assists": 11, "yellow": 7, "red": 1 },
+      { "year": 2024, "team": "Real Madrid", "goals": 11, "assists": 8, "yellow": 5, "red": 0 },
+      { "year": 2025, "team": "Real Madrid", "goals": 18, "assists": 13, "yellow": 6, "red": 0 },
+      { "year": 2026, "team": "Real Madrid", "goals": 9, "assists": 6, "yellow": 3, "red": 0 }
+    ],
+    "clubsPlayed": ["Flamengo (2017–2018)", "Real Madrid (2018–present)"],
+    "trophies": [
+      { "title": "Champions League", "year": "2022" },
+      { "title": "La Liga Champion", "year": "2022" },
+      { "title": "Champions League", "year": "2024" }
+    ],
+    "awards": [
+      { "title": "Ballon d'Or", "year": "2024" },
+      { "title": "Champions League Final Man of the Match", "year": "2022" },
+      { "title": "La Liga Best Winger", "year": "2023" }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Robert Lewandowski",
+    "photo": "https://cdn.sofifa.net/players/188/545/25_120.png",
+    "number": 9,
+    "position": "Striker",
+    "nationality": "Poland",
+    "age": 36,
+    "height": "1.85 m",
+    "weight": "80 kg",
+    "team": "Barcelona",
+    "birthday": "August 21, 1988",
+    "image": "lewandowski.jpg",
+    "appearances": 750,
+    "goals": 620,
+    "assists": 180,
+    "cards": "50 / 2",
+    "bio": "Robert Lewandowski is a world-class striker known for his clinical finishing, movement, and consistency over many years.",
+    "seasons": [
+      { "year": 2022, "team": "Barcelona", "goals": 23, "assists": 9, "yellow": 3, "red": 0 },
+      { "year": 2023, "team": "Barcelona", "goals": 19, "assists": 8, "yellow": 2, "red": 0 },
+      { "year": 2024, "team": "Barcelona", "goals": 25, "assists": 7, "yellow": 2, "red": 0 },
+      { "year": 2025, "team": "Barcelona", "goals": 21, "assists": 6, "yellow": 3, "red": 0 },
+      { "year": 2026, "team": "Barcelona", "goals": 10, "assists": 4, "yellow": 1, "red": 0 }
+    ],
+    "clubsPlayed": ["Lech Poznan (2008–2010)", "Dortmund (2010–2014)", "Bayern Munich (2014–2022)", "Barcelona (2022–present)"],
+    "trophies": [
+      { "title": "Bundesliga", "year": "2021" },
+      { "title": "Champions League", "year": "2020" },
+      { "title": "La Liga Champion", "year": "2023" }
+    ],
+    "awards": [
+      { "title": "FIFA Best Men's Player", "year": "2021" },
+      { "title": "Bundesliga Top Scorer", "year": "2021" },
+      { "title": "Champions League Top Scorer", "year": "2020" }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Luka Modrić",
+    "photo": "https://cdn.sofifa.net/players/177/003/25_120.png",
+    "number": 10,
+    "position": "Midfielder",
+    "nationality": "Croatia",
+    "age": 39,
+    "height": "1.72 m",
+    "weight": "66 kg",
+    "team": "Real Madrid",
+    "birthday": "September 9, 1985",
+    "image": "modric.jpg",
+    "appearances": 700,
+    "goals": 100,
+    "assists": 200,
+    "cards": "80 / 2",
+    "bio": "Luka Modrić is an elegant and tireless midfielder, celebrated for his passing, dribbling, and leadership.",
+    "seasons": [
+      { "year": 2022, "team": "Real Madrid", "goals": 3, "assists": 9, "yellow": 4, "red": 0 },
+      { "year": 2023, "team": "Real Madrid", "goals": 5, "assists": 6, "yellow": 3, "red": 0 },
+      { "year": 2024, "team": "Real Madrid", "goals": 2, "assists": 5, "yellow": 3, "red": 0 },
+      { "year": 2025, "team": "Real Madrid", "goals": 3, "assists": 7, "yellow": 2, "red": 0 },
+      { "year": 2026, "team": "Real Madrid", "goals": 1, "assists": 3, "yellow": 2, "red": 0 }
+    ],
+    "clubsPlayed": ["Dinamo Zagreb (2003–2008)", "Tottenham (2008–2012)", "Real Madrid (2012–present)"],
+    "trophies": [
+      { "title": "Champions League", "year": "2022" },
+      { "title": "La Liga Champion", "year": "2022" },
+      { "title": "Champions League", "year": "2024" }
+    ],
+    "awards": [
+      { "title": "Ballon d'Or", "year": "2018" },
+      { "title": "FIFA Best Men's Player", "year": "2018" },
+      { "title": "World Cup Golden Ball", "year": "2018" }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Harry Kane",
+    "photo": "https://cdn.sofifa.net/players/202/126/25_120.png",
+    "number": 9,
+    "position": "Striker",
+    "nationality": "England",
+    "age": 31,
+    "height": "1.88 m",
+    "weight": "86 kg",
+    "team": "Bayern Munich",
+    "birthday": "July 28, 1993",
+    "image": "kane.jpg",
+    "appearances": 550,
+    "goals": 380,
+    "assists": 100,
+    "cards": "40 / 1",
+    "bio": "Harry Kane is a prolific striker known for his intelligent movement, aerial ability, and remarkable consistency in front of goal.",
+    "seasons": [
+      { "year": 2022, "team": "Tottenham", "goals": 17, "assists": 3, "yellow": 3, "red": 0 },
+      { "year": 2023, "team": "Bayern Munich", "goals": 36, "assists": 8, "yellow": 4, "red": 0 },
+      { "year": 2024, "team": "Bayern Munich", "goals": 25, "assists": 7, "yellow": 3, "red": 0 },
+      { "year": 2025, "team": "Bayern Munich", "goals": 28, "assists": 9, "yellow": 2, "red": 0 },
+      { "year": 2026, "team": "Bayern Munich", "goals": 14, "assists": 4, "yellow": 1, "red": 0 }
+    ],
+    "clubsPlayed": ["Tottenham (2009–2023)", "Bayern Munich (2023–present)"],
+    "trophies": [
+      { "title": "Bundesliga", "year": "2025" },
+      { "title": "Euro Runner-Up", "year": "2020" },
+      { "title": "World Cup Golden Boot", "year": "2018" }
+    ],
+    "awards": [
+      { "title": "Premier League Golden Boot", "year": "2021" },
+      { "title": "Bundesliga Top Scorer", "year": "2024" },
+      { "title": "World Cup Golden Boot", "year": "2018" }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Karim Benzema",
+    "photo": "https://cdn.sofifa.net/players/165/153/25_120.png",
+    "number": 9,
+    "position": "Striker",
+    "nationality": "France",
+    "age": 36,
+    "height": "1.85 m",
+    "weight": "81 kg",
+    "team": "Al Ittihad",
+    "birthday": "December 19, 1987",
+    "image": "benzema.jpg",
+    "appearances": 750,
+    "goals": 520,
+    "assists": 230,
+    "cards": "90 / 2",
+    "bio": "Karim Benzema is a technically gifted striker renowned for his link-up play, intelligent runs, and clutch performances.",
+    "seasons": [
+      { "year": 2022, "team": "Real Madrid", "goals": 44, "assists": 15, "yellow": 4, "red": 0 },
+      { "year": 2023, "team": "Al Ittihad", "goals": 19, "assists": 7, "yellow": 3, "red": 0 },
+      { "year": 2024, "team": "Al Ittihad", "goals": 12, "assists": 5, "yellow": 2, "red": 0 },
+      { "year": 2025, "team": "Al Ittihad", "goals": 15, "assists": 6, "yellow": 2, "red": 0 },
+      { "year": 2026, "team": "Al Ittihad", "goals": 7, "assists": 3, "yellow": 1, "red": 0 }
+    ],
+    "clubsPlayed": ["Lyon (2004–2009)", "Real Madrid (2009–2023)", "Al Ittihad (2023–present)"],
+    "trophies": [
+      { "title": "Champions League", "year": "2022" },
+      { "title": "La Liga Champion", "year": "2022" },
+      { "title": "Saudi Pro League", "year": "2024" }
+    ],
+    "awards": [
+      { "title": "Ballon d'Or", "year": "2022" },
+      { "title": "Champions League Top Scorer", "year": "2022" },
+      { "title": "La Liga Best Player", "year": "2022" }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Jude Bellingham",
+    "photo": "https://cdn.sofifa.net/players/252/371/25_120.png",
+    "number": 5,
+    "position": "Midfielder",
+    "nationality": "England",
+    "age": 21,
+    "height": "1.86 m",
+    "weight": "75 kg",
+    "team": "Real Madrid",
+    "birthday": "June 29, 2003",
+    "image": "bellingham.jpg",
+    "appearances": 220,
+    "goals": 70,
+    "assists": 60,
+    "cards": "25 / 1",
+    "bio": "Jude Bellingham is a dynamic and complete midfielder who excels at scoring, creating, and pressing from box to box.",
+    "seasons": [
+      { "year": 2022, "team": "Dortmund", "goals": 14, "assists": 7, "yellow": 5, "red": 0 },
+      { "year": 2023, "team": "Real Madrid", "goals": 23, "assists": 13, "yellow": 4, "red": 0 },
+      { "year": 2024, "team": "Real Madrid", "goals": 10, "assists": 8, "yellow": 3, "red": 0 },
+      { "year": 2025, "team": "Real Madrid", "goals": 14, "assists": 10, "yellow": 3, "red": 0 },
+      { "year": 2026, "team": "Real Madrid", "goals": 7, "assists": 5, "yellow": 2, "red": 0 }
+    ],
+    "clubsPlayed": ["Birmingham City (2019–2020)", "Dortmund (2020–2023)", "Real Madrid (2023–present)"],
+    "trophies": [
+      { "title": "Champions League", "year": "2024" },
+      { "title": "La Liga Champion", "year": "2024" },
+      { "title": "La Liga Champion", "year": "2025" }
+    ],
+    "awards": [
+      { "title": "Golden Boy", "year": "2023" },
+      { "title": "La Liga Best Midfielder", "year": "2024" },
+      { "title": "UEFA Young Player of the Year", "year": "2023" }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Pedri",
+    "photo": "https://cdn.sofifa.net/players/251/854/25_120.png",
+    "number": 8,
+    "position": "Midfielder",
+    "nationality": "Spain",
+    "age": 22,
+    "height": "1.74 m",
+    "weight": "60 kg",
+    "team": "Barcelona",
+    "birthday": "November 25, 2002",
+    "image": "pedri.jpg",
+    "appearances": 180,
+    "goals": 25,
+    "assists": 40,
+    "cards": "20 / 0",
+    "bio": "Pedri is a technically brilliant central midfielder with an extraordinary ability to control games beyond his years.",
+    "seasons": [
+      { "year": 2022, "team": "Barcelona", "goals": 4, "assists": 5, "yellow": 3, "red": 0 },
+      { "year": 2023, "team": "Barcelona", "goals": 5, "assists": 8, "yellow": 2, "red": 0 },
+      { "year": 2024, "team": "Barcelona", "goals": 7, "assists": 9, "yellow": 3, "red": 0 },
+      { "year": 2025, "team": "Barcelona", "goals": 8, "assists": 11, "yellow": 2, "red": 0 },
+      { "year": 2026, "team": "Barcelona", "goals": 4, "assists": 5, "yellow": 1, "red": 0 }
+    ],
+    "clubsPlayed": ["Las Palmas (2019–2020)", "Barcelona (2020–present)"],
+    "trophies": [
+      { "title": "Euro Winner", "year": "2024" },
+      { "title": "La Liga Champion", "year": "2023" },
+      { "title": "La Liga Champion", "year": "2025" }
+    ],
+    "awards": [
+      { "title": "Golden Boy", "year": "2021" },
+      { "title": "Kopa Trophy", "year": "2021" },
+      { "title": "Euro Best Young Player", "year": "2024" }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Bukayo Saka",
+    "photo": "https://cdn.sofifa.net/players/246/669/25_120.png",
+    "number": 7,
+    "position": "Winger",
+    "nationality": "England",
+    "age": 23,
+    "height": "1.78 m",
+    "weight": "72 kg",
+    "team": "Arsenal",
+    "birthday": "September 5, 2001",
+    "image": "saka.jpg",
+    "appearances": 220,
+    "goals": 70,
+    "assists": 80,
+    "cards": "20 / 0",
+    "bio": "Bukayo Saka is a versatile and energetic winger with exceptional technical ability and a mature understanding of the game.",
+    "seasons": [
+      { "year": 2022, "team": "Arsenal", "goals": 14, "assists": 11, "yellow": 2, "red": 0 },
+      { "year": 2023, "team": "Arsenal", "goals": 16, "assists": 9, "yellow": 3, "red": 0 },
+      { "year": 2024, "team": "Arsenal", "goals": 13, "assists": 10, "yellow": 2, "red": 0 },
+      { "year": 2025, "team": "Arsenal", "goals": 18, "assists": 12, "yellow": 2, "red": 0 },
+      { "year": 2026, "team": "Arsenal", "goals": 9, "assists": 6, "yellow": 1, "red": 0 }
+    ],
+    "clubsPlayed": ["Arsenal (2018–present)"],
+    "trophies": [
+      { "title": "FA Cup", "year": "2020" },
+      { "title": "Premier League", "year": "2025" },
+      { "title": "Community Shield", "year": "2020" }
+    ],
+    "awards": [
+      { "title": "PFA Young Player of the Year", "year": "2022" },
+      { "title": "Arsenal Player of the Season", "year": "2025" },
+      { "title": "Premier League Player of the Month", "year": "2024" }
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Phil Foden",
+    "photo": "https://cdn.sofifa.net/players/237/692/25_120.png",
+    "number": 47,
+    "position": "Midfielder",
+    "nationality": "England",
+    "age": 24,
+    "height": "1.71 m",
+    "weight": "69 kg",
+    "team": "Manchester City",
+    "birthday": "May 28, 2000",
+    "image": "foden.jpg",
+    "appearances": 260,
+    "goals": 85,
+    "assists": 75,
+    "cards": "25 / 0",
+    "bio": "Phil Foden is a gifted and creative midfielder who brings creativity, pace, and goals from midfield.",
+    "seasons": [
+      { "year": 2022, "team": "Manchester City", "goals": 14, "assists": 9, "yellow": 3, "red": 0 },
+      { "year": 2023, "team": "Manchester City", "goals": 20, "assists": 10, "yellow": 2, "red": 0 },
+      { "year": 2024, "team": "Manchester City", "goals": 16, "assists": 8, "yellow": 3, "red": 0 },
+      { "year": 2025, "team": "Manchester City", "goals": 18, "assists": 11, "yellow": 2, "red": 0 },
+      { "year": 2026, "team": "Manchester City", "goals": 9, "assists": 5, "yellow": 1, "red": 0 }
+    ],
+    "clubsPlayed": ["Manchester City (2016–present)"],
+    "trophies": [
+      { "title": "Premier League", "year": "2023" },
+      { "title": "Champions League", "year": "2023" },
+      { "title": "Premier League", "year": "2025" }
+    ],
+    "awards": [
+      { "title": "PFA Young Player of the Year", "year": "2023" },
+      { "title": "Premier League Player of the Season", "year": "2023" },
+      { "title": "Euro Best Young Player", "year": "2024" }
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Rodri",
+    "photo": "https://cdn.sofifa.net/players/231/866/25_120.png",
+    "number": 16,
+    "position": "Midfielder",
+    "nationality": "Spain",
+    "age": 27,
+    "height": "1.91 m",
+    "weight": "82 kg",
+    "team": "Manchester City",
+    "birthday": "June 22, 1996",
+    "image": "rodri.jpg",
+    "appearances": 280,
+    "goals": 35,
+    "assists": 45,
+    "cards": "55 / 1",
+    "bio": "Rodri is a dominant defensive midfielder known for his composure, positional awareness, and leadership.",
+    "seasons": [
+      { "year": 2022, "team": "Manchester City", "goals": 7, "assists": 8, "yellow": 8, "red": 0 },
+      { "year": 2023, "team": "Manchester City", "goals": 8, "assists": 9, "yellow": 9, "red": 0 },
+      { "year": 2024, "team": "Manchester City", "goals": 6, "assists": 7, "yellow": 7, "red": 0 },
+      { "year": 2025, "team": "Manchester City", "goals": 5, "assists": 6, "yellow": 6, "red": 0 },
+      { "year": 2026, "team": "Manchester City", "goals": 3, "assists": 4, "yellow": 4, "red": 0 }
+    ],
+    "clubsPlayed": ["Villarreal (2017–2018)", "Atletico Madrid (2018–2019)", "Manchester City (2019–present)"],
+    "trophies": [
+      { "title": "Premier League", "year": "2023" },
+      { "title": "Champions League", "year": "2023" },
+      { "title": "Euro Winner", "year": "2024" }
+    ],
+    "awards": [
+      { "title": "Ballon d'Or", "year": "2024" },
+      { "title": "UEFA Best Midfielder", "year": "2023" },
+      { "title": "Euro Best Player", "year": "2024" }
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Virgil van Dijk",
+    "photo": "https://cdn.sofifa.net/players/203/376/25_120.png",
+    "number": 4,
+    "position": "Defender",
+    "nationality": "Netherlands",
+    "age": 32,
+    "height": "1.93 m",
+    "weight": "92 kg",
+    "team": "Liverpool",
+    "birthday": "July 8, 1991",
+    "image": "vandijk.jpg",
+    "appearances": 380,
+    "goals": 40,
+    "assists": 25,
+    "cards": "35 / 1",
+    "bio": "Virgil van Dijk is a commanding centre-back known for his aerial dominance, composure on the ball, and leadership.",
+    "seasons": [
+      { "year": 2022, "team": "Liverpool", "goals": 3, "assists": 2, "yellow": 4, "red": 0 },
+      { "year": 2023, "team": "Liverpool", "goals": 5, "assists": 3, "yellow": 3, "red": 0 },
+      { "year": 2024, "team": "Liverpool", "goals": 4, "assists": 2, "yellow": 4, "red": 0 },
+      { "year": 2025, "team": "Liverpool", "goals": 5, "assists": 3, "yellow": 3, "red": 0 },
+      { "year": 2026, "team": "Liverpool", "goals": 2, "assists": 1, "yellow": 2, "red": 0 }
+    ],
+    "clubsPlayed": ["Groningen (2010–2013)", "Celtic (2013–2015)", "Southampton (2015–2018)", "Liverpool (2018–present)"],
+    "trophies": [
+      { "title": "Champions League", "year": "2019" },
+      { "title": "Premier League", "year": "2020" },
+      { "title": "Premier League", "year": "2025" }
+    ],
+    "awards": [
+      { "title": "UEFA Men's Player of the Year", "year": "2019" },
+      { "title": "PFA Players Player of the Year", "year": "2019" },
+      { "title": "Premier League Best Defender", "year": "2020" }
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Sergio Ramos",
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQAQRp-JaiF8hHQDVJlh9KF3TXGMBKA6bxCQ&s",
+    "number": 4,
+    "position": "Defender",
+    "nationality": "Spain",
+    "age": 37,
+    "height": "1.84 m",
+    "weight": "82 kg",
+    "team": "Sevilla",
+    "birthday": "March 30, 1986",
+    "image": "ramos.jpg",
+    "appearances": 950,
+    "goals": 130,
+    "assists": 50,
+    "cards": "270 / 26",
+    "bio": "Sergio Ramos is a legendary defender known for his leadership, aerial ability, and big-game performances.",
+    "seasons": [
+      { "year": 2022, "team": "PSG", "goals": 1, "assists": 0, "yellow": 5, "red": 1 },
+      { "year": 2023, "team": "Sevilla", "goals": 2, "assists": 1, "yellow": 6, "red": 0 },
+      { "year": 2024, "team": "Sevilla", "goals": 3, "assists": 1, "yellow": 5, "red": 0 },
+      { "year": 2025, "team": "Sevilla", "goals": 2, "assists": 1, "yellow": 4, "red": 0 },
+      { "year": 2026, "team": "Sevilla", "goals": 1, "assists": 0, "yellow": 3, "red": 0 }
+    ],
+    "clubsPlayed": ["Sevilla (2003–2005)", "Real Madrid (2005–2021)", "PSG (2021–2023)", "Sevilla (2023–present)"],
+    "trophies": [
+      { "title": "Champions League", "year": "2018" },
+      { "title": "La Liga Champion", "year": "2020" },
+      { "title": "World Cup Winner", "year": "2010" }
+    ],
+    "awards": [
+      { "title": "UEFA Team of the Year", "year": "2016" },
+      { "title": "Best Defender La Liga", "year": "2012" },
+      { "title": "World Cup Team of the Tournament", "year": "2010" }
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Thibaut Courtois",
+    "photo": "https://cdn.sofifa.net/players/192/119/25_120.png",
+    "number": 1,
+    "position": "Goalkeeper",
+    "nationality": "Belgium",
+    "age": 31,
+    "height": "1.99 m",
+    "weight": "96 kg",
+    "team": "Real Madrid",
+    "birthday": "May 11, 1992",
+    "image": "courtois.jpg",
+    "appearances": 550,
+    "goals": 0,
+    "assists": 2,
+    "cards": "20 / 1",
+    "bio": "Thibaut Courtois is one of the best goalkeepers in the world, known for his reflexes, shot-stopping, and commanding presence.",
+    "seasons": [
+      { "year": 2022, "team": "Real Madrid", "goals": 0, "assists": 0, "yellow": 2, "red": 0 },
+      { "year": 2023, "team": "Real Madrid", "goals": 0, "assists": 0, "yellow": 1, "red": 0 },
+      { "year": 2024, "team": "Real Madrid", "goals": 0, "assists": 1, "yellow": 2, "red": 0 },
+      { "year": 2025, "team": "Real Madrid", "goals": 0, "assists": 1, "yellow": 1, "red": 0 },
+      { "year": 2026, "team": "Real Madrid", "goals": 0, "assists": 0, "yellow": 1, "red": 0 }
+    ],
+    "clubsPlayed": ["Genk (2008–2011)", "Chelsea (2011–2018)", "Real Madrid (2018–present)"],
+    "trophies": [
+      { "title": "Champions League", "year": "2022" },
+      { "title": "La Liga Champion", "year": "2022" },
+      { "title": "Champions League", "year": "2024" }
+    ],
+    "awards": [
+      { "title": "Champions League Final Best Player", "year": "2022" },
+      { "title": "Yashin Trophy", "year": "2022" },
+      { "title": "Best Goalkeeper FIFA", "year": "2022" }
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Marc-André ter Stegen",
+    "photo": "https://cdn.sofifa.net/players/192/448/25_120.png",
+    "number": 1,
+    "position": "Goalkeeper",
+    "nationality": "Germany",
+    "age": 32,
+    "height": "1.87 m",
+    "weight": "85 kg",
+    "team": "Barcelona",
+    "birthday": "April 30, 1992",
+    "image": "terstegen.jpg",
+    "appearances": 420,
+    "goals": 0,
+    "assists": 1,
+    "cards": "15 / 0",
+    "bio": "Marc-André ter Stegen is a modern goalkeeper renowned for his ball-playing ability and shot-stopping reflexes.",
+    "seasons": [
+      { "year": 2022, "team": "Barcelona", "goals": 0, "assists": 0, "yellow": 2, "red": 0 },
+      { "year": 2023, "team": "Barcelona", "goals": 0, "assists": 0, "yellow": 2, "red": 0 },
+      { "year": 2024, "team": "Barcelona", "goals": 0, "assists": 1, "yellow": 1, "red": 0 },
+      { "year": 2025, "team": "Barcelona", "goals": 0, "assists": 0, "yellow": 2, "red": 0 },
+      { "year": 2026, "team": "Barcelona", "goals": 0, "assists": 0, "yellow": 1, "red": 0 }
+    ],
+    "clubsPlayed": ["Borussia Mönchengladbach (2010–2014)", "Barcelona (2014–present)"],
+    "trophies": [
+      { "title": "La Liga Champion", "year": "2023" },
+      { "title": "Copa del Rey", "year": "2023" },
+      { "title": "La Liga Champion", "year": "2025" }
+    ],
+    "awards": [
+      { "title": "La Liga Best Goalkeeper", "year": "2023" },
+      { "title": "UEFA Team of the Year", "year": "2019" },
+      { "title": "Yashin Trophy Nominee", "year": "2023" }
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Antoine Griezmann",
+    "photo": "https://cdn.sofifa.net/players/194/765/25_120.png",
+    "number": 7,
+    "position": "Forward",
+    "nationality": "France",
+    "age": 32,
+    "height": "1.76 m",
+    "weight": "73 kg",
+    "team": "Atletico Madrid",
+    "birthday": "March 21, 1991",
+    "image": "griezmann.jpg",
+    "appearances": 650,
+    "goals": 300,
+    "assists": 180,
+    "cards": "70 / 3",
+    "bio": "Antoine Griezmann is a versatile forward known for his technical skill, work rate, and ability to deliver in big moments.",
+    "seasons": [
+      { "year": 2022, "team": "Atletico Madrid", "goals": 15, "assists": 11, "yellow": 4, "red": 0 },
+      { "year": 2023, "team": "Atletico Madrid", "goals": 17, "assists": 13, "yellow": 5, "red": 0 },
+      { "year": 2024, "team": "Atletico Madrid", "goals": 14, "assists": 10, "yellow": 4, "red": 0 },
+      { "year": 2025, "team": "Atletico Madrid", "goals": 12, "assists": 8, "yellow": 3, "red": 0 },
+      { "year": 2026, "team": "Atletico Madrid", "goals": 6, "assists": 4, "yellow": 2, "red": 0 }
+    ],
+    "clubsPlayed": ["Real Sociedad (2009–2014)", "Atletico Madrid (2014–2019)", "Barcelona (2019–2021)", "Atletico Madrid (2021–present)"],
+    "trophies": [
+      { "title": "World Cup Winner", "year": "2018" },
+      { "title": "Europa League", "year": "2018" },
+      { "title": "Euro Winner", "year": "2024" }
+    ],
+    "awards": [
+      { "title": "Europa League Best Player", "year": "2018" },
+      { "title": "La Liga Best Player", "year": "2023" },
+      { "title": "Euro Best Player", "year": "2024" }
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Luis Suárez",
+    "photo": "https://cdn.sofifa.net/players/176/580/25_120.png",
+    "number": 9,
+    "position": "Striker",
+    "nationality": "Uruguay",
+    "age": 37,
+    "height": "1.82 m",
+    "weight": "86 kg",
+    "team": "Inter Miami",
+    "birthday": "January 24, 1987",
+    "image": "suarez.jpg",
+    "appearances": 750,
+    "goals": 520,
+    "assists": 230,
+    "cards": "200 / 10",
+    "bio": "Luis Suárez is one of the most complete strikers of his generation, combining intelligence, technique, and finishing.",
+    "seasons": [
+      { "year": 2022, "team": "Nacional", "goals": 10, "assists": 4, "yellow": 5, "red": 0 },
+      { "year": 2023, "team": "Inter Miami", "goals": 7, "assists": 3, "yellow": 3, "red": 0 },
+      { "year": 2024, "team": "Inter Miami", "goals": 9, "assists": 5, "yellow": 4, "red": 0 },
+      { "year": 2025, "team": "Inter Miami", "goals": 6, "assists": 3, "yellow": 3, "red": 0 },
+      { "year": 2026, "team": "Inter Miami", "goals": 3, "assists": 2, "yellow": 2, "red": 0 }
+    ],
+    "clubsPlayed": ["Ajax (2007–2011)", "Liverpool (2011–2014)", "Barcelona (2014–2020)", "Atletico Madrid (2020–2022)", "Nacional (2022–2023)", "Inter Miami (2023–present)"],
+    "trophies": [
+      { "title": "La Liga Champion", "year": "2019" },
+      { "title": "Champions League", "year": "2015" },
+      { "title": "MLS Cup", "year": "2024" }
+    ],
+    "awards": [
+      { "title": "Premier League Golden Boot", "year": "2014" },
+      { "title": "La Liga Top Scorer", "year": "2016" },
+      { "title": "Copa America Best Player", "year": "2011" }
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Paulo Dybala",
+    "photo": "https://cdn.sofifa.net/players/211/110/25_120.png",
+    "number": 21,
+    "position": "Forward",
+    "nationality": "Argentina",
+    "age": 30,
+    "height": "1.77 m",
+    "weight": "75 kg",
+    "team": "AS Roma",
+    "birthday": "November 15, 1993",
+    "image": "dybala.jpg",
+    "appearances": 480,
+    "goals": 180,
+    "assists": 120,
+    "cards": "60 / 2",
+    "bio": "Paulo Dybala is a creative forward known for his technique, dribbling, and eye for goal in tight situations.",
+    "seasons": [
+      { "year": 2022, "team": "AS Roma", "goals": 13, "assists": 5, "yellow": 4, "red": 0 },
+      { "year": 2023, "team": "AS Roma", "goals": 15, "assists": 7, "yellow": 5, "red": 0 },
+      { "year": 2024, "team": "AS Roma", "goals": 12, "assists": 6, "yellow": 4, "red": 0 },
+      { "year": 2025, "team": "AS Roma", "goals": 10, "assists": 5, "yellow": 3, "red": 0 },
+      { "year": 2026, "team": "AS Roma", "goals": 5, "assists": 3, "yellow": 2, "red": 0 }
+    ],
+    "clubsPlayed": ["Instituto (2011–2012)", "Palermo (2012–2015)", "Juventus (2015–2022)", "AS Roma (2022–present)"],
+    "trophies": [
+      { "title": "World Cup Winner", "year": "2022" },
+      { "title": "Serie A Champion", "year": "2020" },
+      { "title": "Europa League", "year": "2023" }
+    ],
+    "awards": [
+      { "title": "Serie A Best Foreign Player", "year": "2020" },
+      { "title": "Serie A Player of the Year", "year": "2020" },
+      { "title": "Europa Conference League Top Scorer", "year": "2022" }
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Angel Di María",
+    "photo": "https://cdn.sofifa.net/players/183/898/25_120.png",
+    "number": 11,
+    "position": "Winger",
+    "nationality": "Argentina",
+    "age": 35,
+    "height": "1.78 m",
+    "weight": "75 kg",
+    "team": "Benfica",
+    "birthday": "February 14, 1988",
+    "image": "dimaria.jpg",
+    "appearances": 750,
+    "goals": 180,
+    "assists": 280,
+    "cards": "100 / 5",
+    "bio": "Angel Di María is a dynamic winger renowned for his crossing, dribbling, and ability to deliver in high-pressure moments.",
+    "seasons": [
+      { "year": 2022, "team": "Juventus", "goals": 5, "assists": 6, "yellow": 5, "red": 0 },
+      { "year": 2023, "team": "Benfica", "goals": 8, "assists": 9, "yellow": 4, "red": 0 },
+      { "year": 2024, "team": "Benfica", "goals": 7, "assists": 8, "yellow": 3, "red": 0 },
+      { "year": 2025, "team": "Benfica", "goals": 5, "assists": 7, "yellow": 3, "red": 0 },
+      { "year": 2026, "team": "Benfica", "goals": 3, "assists": 4, "yellow": 2, "red": 0 }
+    ],
+    "clubsPlayed": ["Rosario Central (2005–2007)", "Benfica (2007–2010)", "Real Madrid (2010–2015)", "Manchester United (2015–2016)", "PSG (2015–2022)", "Juventus (2022–2023)", "Benfica (2023–present)"],
+    "trophies": [
+      { "title": "World Cup Winner", "year": "2022" },
+      { "title": "Champions League", "year": "2022" },
+      { "title": "Copa America", "year": "2021" }
+    ],
+    "awards": [
+      { "title": "World Cup Final Man of the Match", "year": "2022" },
+      { "title": "Copa America Best Assist Provider", "year": "2021" },
+      { "title": "Ligue 1 Best Winger", "year": "2020" }
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Son Heung-min",
+    "photo": "https://cdn.sofifa.net/players/200/104/25_120.png",
+    "number": 7,
+    "position": "Forward",
+    "nationality": "South Korea",
+    "age": 31,
+    "height": "1.83 m",
+    "weight": "78 kg",
+    "team": "Tottenham",
+    "birthday": "July 8, 1992",
+    "image": "son.jpg",
+    "appearances": 420,
+    "goals": 180,
+    "assists": 100,
+    "cards": "40 / 1",
+    "bio": "Son Heung-min is a versatile forward who combines speed, technical skill, and an eye for spectacular goals.",
+    "seasons": [
+      { "year": 2022, "team": "Tottenham", "goals": 23, "assists": 7, "yellow": 2, "red": 0 },
+      { "year": 2023, "team": "Tottenham", "goals": 10, "assists": 6, "yellow": 3, "red": 0 },
+      { "year": 2024, "team": "Tottenham", "goals": 14, "assists": 8, "yellow": 2, "red": 0 },
+      { "year": 2025, "team": "Tottenham", "goals": 16, "assists": 9, "yellow": 2, "red": 0 },
+      { "year": 2026, "team": "Tottenham", "goals": 8, "assists": 4, "yellow": 1, "red": 0 }
+    ],
+    "clubsPlayed": ["Hamburg (2010–2013)", "Bayer Leverkusen (2013–2015)", "Tottenham (2015–present)"],
+    "trophies": [
+      { "title": "Premier League Golden Boot", "year": "2022" },
+      { "title": "Asian Games Gold Medal", "year": "2018" },
+      { "title": "Korean FA Cup", "year": "2023" }
+    ],
+    "awards": [
+      { "title": "Premier League Golden Boot", "year": "2022" },
+      { "title": "Asian Footballer of the Year", "year": "2023" },
+      { "title": "Tottenham Player of the Season", "year": "2025" }
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Bruno Fernandes",
+    "photo": "https://cdn.sofifa.net/players/212/198/25_120.png",
+    "number": 8,
+    "position": "Midfielder",
+    "nationality": "Portugal",
+    "age": 29,
+    "height": "1.79 m",
+    "weight": "69 kg",
+    "team": "Manchester United",
+    "birthday": "September 8, 1994",
+    "image": "brunofernandes.jpg",
+    "appearances": 360,
+    "goals": 100,
+    "assists": 120,
+    "cards": "80 / 2",
+    "bio": "Bruno Fernandes is a creative and energetic attacking midfielder known for his leadership, passing, and goal-scoring contributions.",
+    "seasons": [
+      { "year": 2022, "team": "Manchester United", "goals": 14, "assists": 11, "yellow": 9, "red": 0 },
+      { "year": 2023, "team": "Manchester United", "goals": 10, "assists": 8, "yellow": 8, "red": 0 },
+      { "year": 2024, "team": "Manchester United", "goals": 12, "assists": 10, "yellow": 7, "red": 0 },
+      { "year": 2025, "team": "Manchester United", "goals": 11, "assists": 9, "yellow": 6, "red": 0 },
+      { "year": 2026, "team": "Manchester United", "goals": 6, "assists": 5, "yellow": 4, "red": 0 }
+    ],
+    "clubsPlayed": ["Novara (2012–2013)", "Udinese (2013–2016)", "Sampdoria (2016–2017)", "Sporting CP (2017–2020)", "Manchester United (2020–present)"],
+    "trophies": [
+      { "title": "League Cup", "year": "2023" },
+      { "title": "Europa League Runner-Up", "year": "2021" },
+      { "title": "FA Cup", "year": "2024" }
+    ],
+    "awards": [
+      { "title": "Manchester United Player of the Year", "year": "2021" },
+      { "title": "Premier League Player of the Month", "year": "2023" },
+      { "title": "Portugal Player of the Year", "year": "2023" }
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Casemiro",
+    "photo": "https://cdn.sofifa.net/players/200/145/25_120.png",
+    "number": 18,
+    "position": "Midfielder",
+    "nationality": "Brazil",
+    "age": 32,
+    "height": "1.85 m",
+    "weight": "84 kg",
+    "team": "Manchester United",
+    "birthday": "February 23, 1992",
+    "image": "casemiro.jpg",
+    "appearances": 550,
+    "goals": 50,
+    "assists": 60,
+    "cards": "180 / 8",
+    "bio": "Casemiro is a tenacious defensive midfielder renowned for his ball-winning, positioning, and big-game experience.",
+    "seasons": [
+      { "year": 2022, "team": "Manchester United", "goals": 6, "assists": 4, "yellow": 12, "red": 1 },
+      { "year": 2023, "team": "Manchester United", "goals": 5, "assists": 3, "yellow": 10, "red": 0 },
+      { "year": 2024, "team": "Manchester United", "goals": 4, "assists": 3, "yellow": 9, "red": 0 },
+      { "year": 2025, "team": "Manchester United", "goals": 3, "assists": 2, "yellow": 8, "red": 0 },
+      { "year": 2026, "team": "Manchester United", "goals": 2, "assists": 1, "yellow": 5, "red": 0 }
+    ],
+    "clubsPlayed": ["Sao Paulo (2009–2013)", "Real Madrid (2013–2022)", "Manchester United (2022–present)"],
+    "trophies": [
+      { "title": "Champions League", "year": "2022" },
+      { "title": "La Liga Champion", "year": "2022" },
+      { "title": "League Cup", "year": "2023" }
+    ],
+    "awards": [
+      { "title": "Champions League Best Defensive Midfielder", "year": "2018" },
+      { "title": "UEFA Team of the Year", "year": "2020" },
+      { "title": "Brazil Player of the Year", "year": "2019" }
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Riyad Mahrez",
+    "photo": "https://cdn.sofifa.net/players/204/485/25_120.png",
+    "number": 26,
+    "position": "Winger",
+    "nationality": "Algeria",
+    "age": 33,
+    "height": "1.79 m",
+    "weight": "67 kg",
+    "team": "Al Ahli",
+    "birthday": "February 21, 1991",
+    "image": "mahrez.jpg",
+    "appearances": 480,
+    "goals": 130,
+    "assists": 140,
+    "cards": "50 / 2",
+    "bio": "Riyad Mahrez is a tricky winger known for his dribbling, creativity, and ability to unlock defences.",
+    "seasons": [
+      { "year": 2022, "team": "Manchester City", "goals": 11, "assists": 8, "yellow": 3, "red": 0 },
+      { "year": 2023, "team": "Al Ahli", "goals": 14, "assists": 9, "yellow": 2, "red": 0 },
+      { "year": 2024, "team": "Al Ahli", "goals": 12, "assists": 8, "yellow": 2, "red": 0 },
+      { "year": 2025, "team": "Al Ahli", "goals": 10, "assists": 7, "yellow": 2, "red": 0 },
+      { "year": 2026, "team": "Al Ahli", "goals": 5, "assists": 4, "yellow": 1, "red": 0 }
+    ],
+    "clubsPlayed": ["Le Havre (2009–2014)", "Leicester City (2014–2018)", "Manchester City (2018–2023)", "Al Ahli (2023–present)"],
+    "trophies": [
+      { "title": "Premier League", "year": "2022" },
+      { "title": "Champions League", "year": "2023" },
+      { "title": "Africa Cup of Nations", "year": "2019" }
+    ],
+    "awards": [
+      { "title": "Africa Cup of Nations Best Player", "year": "2019" },
+      { "title": "African Player of the Year", "year": "2019" },
+      { "title": "PFA Team of the Year", "year": "2021" }
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Bernardo Silva",
+    "photo": "https://cdn.sofifa.net/players/218/667/25_120.png",
+    "number": 20,
+    "position": "Midfielder",
+    "nationality": "Portugal",
+    "age": 29,
+    "height": "1.73 m",
+    "weight": "64 kg",
+    "team": "Manchester City",
+    "birthday": "August 10, 1994",
+    "image": "bernardosilva.jpg",
+    "appearances": 380,
+    "goals": 60,
+    "assists": 90,
+    "cards": "40 / 1",
+    "bio": "Bernardo Silva is a tireless and creative midfielder known for his technical excellence, work rate, and adaptability.",
+    "seasons": [
+      { "year": 2022, "team": "Manchester City", "goals": 13, "assists": 10, "yellow": 3, "red": 0 },
+      { "year": 2023, "team": "Manchester City", "goals": 8, "assists": 9, "yellow": 4, "red": 0 },
+      { "year": 2024, "team": "Manchester City", "goals": 7, "assists": 8, "yellow": 3, "red": 0 },
+      { "year": 2025, "team": "Manchester City", "goals": 9, "assists": 10, "yellow": 3, "red": 0 },
+      { "year": 2026, "team": "Manchester City", "goals": 4, "assists": 5, "yellow": 2, "red": 0 }
+    ],
+    "clubsPlayed": ["Benfica (2012–2015)", "Monaco (2015–2017)", "Manchester City (2017–present)"],
+    "trophies": [
+      { "title": "Premier League", "year": "2023" },
+      { "title": "Champions League", "year": "2023" },
+      { "title": "Euro Winner", "year": "2016" }
+    ],
+    "awards": [
+      { "title": "Premier League Player of the Season", "year": "2023" },
+      { "title": "UEFA Team of the Year", "year": "2023" },
+      { "title": "Portugal Player of the Year", "year": "2022" }
+    ]
+  },
+  {
+    "id": 31,
+    "name": "João Félix",
+    "photo": "https://cdn.sofifa.net/players/242/444/25_120.png",
+    "number": 14,
+    "position": "Forward",
+    "nationality": "Portugal",
+    "age": 24,
+    "height": "1.81 m",
+    "weight": "70 kg",
+    "team": "Barcelona",
+    "birthday": "November 10, 1999",
+    "image": "joaofelix.jpg",
+    "appearances": 220,
+    "goals": 60,
+    "assists": 45,
+    "cards": "40 / 2",
+    "bio": "João Félix is a gifted attacking player with exceptional technical ability, agility, and creativity.",
+    "seasons": [
+      { "year": 2022, "team": "Chelsea", "goals": 4, "assists": 2, "yellow": 5, "red": 1 },
+      { "year": 2023, "team": "Barcelona", "goals": 9, "assists": 6, "yellow": 4, "red": 0 },
+      { "year": 2024, "team": "Barcelona", "goals": 11, "assists": 7, "yellow": 3, "red": 0 },
+      { "year": 2025, "team": "Barcelona", "goals": 13, "assists": 8, "yellow": 3, "red": 0 },
+      { "year": 2026, "team": "Barcelona", "goals": 7, "assists": 4, "yellow": 2, "red": 0 }
+    ],
+    "clubsPlayed": ["Benfica (2018–2019)", "Atletico Madrid (2019–2023)", "Chelsea (2023, loan)", "Barcelona (2023–present)"],
+    "trophies": [
+      { "title": "La Liga Champion", "year": "2025" },
+      { "title": "Copa del Rey", "year": "2023" },
+      { "title": "Primeira Liga", "year": "2019" }
+    ],
+    "awards": [
+      { "title": "Golden Boy", "year": "2019" },
+      { "title": "Primeira Liga Best Young Player", "year": "2019" },
+      { "title": "La Liga Best Young Player", "year": "2024" }
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Jamal Musiala",
+    "photo": "https://cdn.sofifa.net/players/256/790/25_120.png",
+    "number": 42,
+    "position": "Midfielder",
+    "nationality": "Germany",
+    "age": 21,
+    "height": "1.80 m",
+    "weight": "70 kg",
+    "team": "Bayern Munich",
+    "birthday": "February 26, 2003",
+    "image": "musiala.jpg",
+    "appearances": 180,
+    "goals": 55,
+    "assists": 45,
+    "cards": "15 / 0",
+    "bio": "Jamal Musiala is an electrifying and technically gifted midfielder whose creativity and dribbling make him one of Europe's brightest talents.",
+    "seasons": [
+      { "year": 2022, "team": "Bayern Munich", "goals": 12, "assists": 9, "yellow": 2, "red": 0 },
+      { "year": 2023, "team": "Bayern Munich", "goals": 14, "assists": 10, "yellow": 2, "red": 0 },
+      { "year": 2024, "team": "Bayern Munich", "goals": 15, "assists": 11, "yellow": 3, "red": 0 },
+      { "year": 2025, "team": "Bayern Munich", "goals": 18, "assists": 12, "yellow": 2, "red": 0 },
+      { "year": 2026, "team": "Bayern Munich", "goals": 9, "assists": 6, "yellow": 1, "red": 0 }
+    ],
+    "clubsPlayed": ["Chelsea Academy (2011–2019)", "Bayern Munich (2019–present)"],
+    "trophies": [
+      { "title": "Bundesliga", "year": "2022" },
+      { "title": "Bundesliga", "year": "2023" },
+      { "title": "Champions League", "year": "2025" }
+    ],
+    "awards": [
+      { "title": "Golden Boy", "year": "2023" },
+      { "title": "Bundesliga Young Player of the Year", "year": "2023" },
+      { "title": "Euro Best Young Player", "year": "2024" }
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Alphonso Davies",
+    "photo": "https://cdn.sofifa.net/players/234/396/25_120.png",
+    "number": 19,
+    "position": "Defender",
+    "nationality": "Canada",
+    "age": 23,
+    "height": "1.82 m",
+    "weight": "76 kg",
+    "team": "Bayern Munich",
+    "birthday": "November 2, 2000",
+    "image": "davies.jpg",
+    "appearances": 200,
+    "goals": 15,
+    "assists": 45,
+    "cards": "25 / 0",
+    "bio": "Alphonso Davies is one of the fastest players in world football, excelling as an attacking left-back with exceptional crossing ability.",
+    "seasons": [
+      { "year": 2022, "team": "Bayern Munich", "goals": 2, "assists": 9, "yellow": 3, "red": 0 },
+      { "year": 2023, "team": "Bayern Munich", "goals": 3, "assists": 8, "yellow": 4, "red": 0 },
+      { "year": 2024, "team": "Bayern Munich", "goals": 2, "assists": 7, "yellow": 3, "red": 0 },
+      { "year": 2025, "team": "Bayern Munich", "goals": 3, "assists": 9, "yellow": 3, "red": 0 },
+      { "year": 2026, "team": "Bayern Munich", "goals": 2, "assists": 5, "yellow": 2, "red": 0 }
+    ],
+    "clubsPlayed": ["Vancouver Whitecaps (2016–2018)", "Bayern Munich (2019–present)"],
+    "trophies": [
+      { "title": "Bundesliga", "year": "2022" },
+      { "title": "Champions League", "year": "2020" },
+      { "title": "CONCACAF Gold Cup", "year": "2022" }
+    ],
+    "awards": [
+      { "title": "Bundesliga Best Left-Back", "year": "2022" },
+      { "title": "Canadian Player of the Year", "year": "2023" },
+      { "title": "UEFA Team of the Year", "year": "2020" }
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Joshua Kimmich",
+    "photo": "https://cdn.sofifa.net/players/212/622/25_120.png",
+    "number": 6,
+    "position": "Midfielder",
+    "nationality": "Germany",
+    "age": 29,
+    "height": "1.77 m",
+    "weight": "75 kg",
+    "team": "Bayern Munich",
+    "birthday": "February 8, 1995",
+    "image": "kimmich.jpg",
+    "appearances": 380,
+    "goals": 50,
+    "assists": 100,
+    "cards": "80 / 2",
+    "bio": "Joshua Kimmich is a versatile and intelligent player who excels as a central midfielder and right-back with excellent passing and leadership.",
+    "seasons": [
+      { "year": 2022, "team": "Bayern Munich", "goals": 6, "assists": 14, "yellow": 7, "red": 0 },
+      { "year": 2023, "team": "Bayern Munich", "goals": 5, "assists": 13, "yellow": 8, "red": 0 },
+      { "year": 2024, "team": "Bayern Munich", "goals": 7, "assists": 12, "yellow": 6, "red": 0 },
+      { "year": 2025, "team": "Bayern Munich", "goals": 6, "assists": 11, "yellow": 5, "red": 0 },
+      { "year": 2026, "team": "Bayern Munich", "goals": 3, "assists": 6, "yellow": 3, "red": 0 }
+    ],
+    "clubsPlayed": ["Stuttgart (2013–2015)", "Bayern Munich (2015–present)"],
+    "trophies": [
+      { "title": "Bundesliga", "year": "2023" },
+      { "title": "Champions League", "year": "2020" },
+      { "title": "Bundesliga", "year": "2025" }
+    ],
+    "awards": [
+      { "title": "Bundesliga Best Midfielder", "year": "2022" },
+      { "title": "UEFA Team of the Year", "year": "2021" },
+      { "title": "Germany Player of the Year", "year": "2023" }
+    ]
+  },
+  {
+    "id": 35,
+    "name": "Thomas Müller",
+    "photo": "https://cdn.sofifa.net/players/189/596/25_120.png",
+    "number": 25,
+    "position": "Forward",
+    "nationality": "Germany",
+    "age": 34,
+    "height": "1.86 m",
+    "weight": "75 kg",
+    "team": "Bayern Munich",
+    "birthday": "September 13, 1989",
+    "image": "muller.jpg",
+    "appearances": 750,
+    "goals": 250,
+    "assists": 300,
+    "cards": "80 / 2",
+    "bio": "Thomas Müller is a unique and intelligent forward known for his movement, positional play, and ability to create space.",
+    "seasons": [
+      { "year": 2022, "team": "Bayern Munich", "goals": 9, "assists": 16, "yellow": 4, "red": 0 },
+      { "year": 2023, "team": "Bayern Munich", "goals": 7, "assists": 15, "yellow": 3, "red": 0 },
+      { "year": 2024, "team": "Bayern Munich", "goals": 8, "assists": 13, "yellow": 3, "red": 0 },
+      { "year": 2025, "team": "Bayern Munich", "goals": 6, "assists": 11, "yellow": 2, "red": 0 },
+      { "year": 2026, "team": "Bayern Munich", "goals": 3, "assists": 6, "yellow": 2, "red": 0 }
+    ],
+    "clubsPlayed": ["Bayern Munich (2008–present)"],
+    "trophies": [
+      { "title": "Bundesliga", "year": "2023" },
+      { "title": "Champions League", "year": "2020" },
+      { "title": "World Cup Winner", "year": "2014" }
+    ],
+    "awards": [
+      { "title": "World Cup Golden Boot", "year": "2010" },
+      { "title": "Bundesliga Best Assist Provider", "year": "2023" },
+      { "title": "World Cup All-Star Team", "year": "2014" }
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Manuel Neuer",
+    "photo": "https://cdn.sofifa.net/players/167/495/25_120.png",
+    "number": 1,
+    "position": "Goalkeeper",
+    "nationality": "Germany",
+    "age": 38,
+    "height": "1.93 m",
+    "weight": "93 kg",
+    "team": "Bayern Munich",
+    "birthday": "March 27, 1986",
+    "image": "neuer.jpg",
+    "appearances": 750,
+    "goals": 0,
+    "assists": 0,
+    "cards": "30 / 1",
+    "bio": "Manuel Neuer revolutionised goalkeeping with his sweeper-keeper style, combining reflexes with an extraordinary ability on the ball.",
+    "seasons": [
+      { "year": 2022, "team": "Bayern Munich", "goals": 0, "assists": 0, "yellow": 2, "red": 0 },
+      { "year": 2023, "team": "Bayern Munich", "goals": 0, "assists": 0, "yellow": 1, "red": 0 },
+      { "year": 2024, "team": "Bayern Munich", "goals": 0, "assists": 0, "yellow": 2, "red": 0 },
+      { "year": 2025, "team": "Bayern Munich", "goals": 0, "assists": 0, "yellow": 1, "red": 0 },
+      { "year": 2026, "team": "Bayern Munich", "goals": 0, "assists": 0, "yellow": 1, "red": 0 }
+    ],
+    "clubsPlayed": ["Schalke 04 (2005–2011)", "Bayern Munich (2011–present)"],
+    "trophies": [
+      { "title": "Bundesliga", "year": "2023" },
+      { "title": "Champions League", "year": "2020" },
+      { "title": "World Cup Winner", "year": "2014" }
+    ],
+    "awards": [
+      { "title": "Yashin Trophy", "year": "2020" },
+      { "title": "FIFA Best Goalkeeper", "year": "2021" },
+      { "title": "World Cup Best Goalkeeper", "year": "2014" }
+    ]
+  },
+  {
+    "id": 37,
+    "name": "Declan Rice",
+    "photo": "https://cdn.sofifa.net/players/234/378/25_120.png",
+    "number": 41,
+    "position": "Midfielder",
+    "nationality": "England",
+    "age": 25,
+    "height": "1.88 m",
+    "weight": "82 kg",
+    "team": "Arsenal",
+    "birthday": "January 14, 1999",
+    "image": "rice.jpg",
+    "appearances": 280,
+    "goals": 30,
+    "assists": 40,
+    "cards": "65 / 2",
+    "bio": "Declan Rice is a dominant and versatile midfielder who combines defensive excellence with impressive ball progression.",
+    "seasons": [
+      { "year": 2022, "team": "West Ham", "goals": 3, "assists": 5, "yellow": 8, "red": 0 },
+      { "year": 2023, "team": "Arsenal", "goals": 7, "assists": 8, "yellow": 7, "red": 0 },
+      { "year": 2024, "team": "Arsenal", "goals": 8, "assists": 9, "yellow": 6, "red": 0 },
+      { "year": 2025, "team": "Arsenal", "goals": 9, "assists": 10, "yellow": 5, "red": 0 },
+      { "year": 2026, "team": "Arsenal", "goals": 4, "assists": 5, "yellow": 3, "red": 0 }
+    ],
+    "clubsPlayed": ["West Ham (2017–2023)", "Arsenal (2023–present)"],
+    "trophies": [
+      { "title": "Europa Conference League", "year": "2023" },
+      { "title": "Premier League", "year": "2025" },
+      { "title": "FA Cup", "year": "2025" }
+    ],
+    "awards": [
+      { "title": "West Ham Player of the Year", "year": "2022" },
+      { "title": "Arsenal Player of the Season", "year": "2024" },
+      { "title": "Premier League Best Midfielder", "year": "2025" }
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Martin Ødegaard",
+    "photo": "https://cdn.sofifa.net/players/222/665/25_120.png",
+    "number": 8,
+    "position": "Midfielder",
+    "nationality": "Norway",
+    "age": 26,
+    "height": "1.78 m",
+    "weight": "68 kg",
+    "team": "Arsenal",
+    "birthday": "December 17, 1998",
+    "image": "odegaard.jpg",
+    "appearances": 260,
+    "goals": 60,
+    "assists": 80,
+    "cards": "30 / 0",
+    "bio": "Martin Ødegaard is an elegant and technically brilliant attacking midfielder who dictates play with exceptional vision and passing.",
+    "seasons": [
+      { "year": 2022, "team": "Arsenal", "goals": 15, "assists": 7, "yellow": 4, "red": 0 },
+      { "year": 2023, "team": "Arsenal", "goals": 11, "assists": 9, "yellow": 3, "red": 0 },
+      { "year": 2024, "team": "Arsenal", "goals": 13, "assists": 10, "yellow": 3, "red": 0 },
+      { "year": 2025, "team": "Arsenal", "goals": 16, "assists": 12, "yellow": 4, "red": 0 },
+      { "year": 2026, "team": "Arsenal", "goals": 8, "assists": 6, "yellow": 2, "red": 0 }
+    ],
+    "clubsPlayed": ["Stromsgodset (2014–2015)", "Real Madrid (2015–2021)", "Arsenal (2021–present)"],
+    "trophies": [
+      { "title": "Premier League", "year": "2025" },
+      { "title": "FA Cup", "year": "2025" },
+      { "title": "Community Shield", "year": "2023" }
+    ],
+    "awards": [
+      { "title": "Arsenal Player of the Season", "year": "2022" },
+      { "title": "Premier League Best Midfielder", "year": "2023" },
+      { "title": "Norway Player of the Year", "year": "2024" }
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Gabriel Jesus",
+    "photo": "https://cdn.sofifa.net/players/230/666/25_120.png",
+    "number": 9,
+    "position": "Forward",
+    "nationality": "Brazil",
+    "age": 27,
+    "height": "1.75 m",
+    "weight": "73 kg",
+    "team": "Arsenal",
+    "birthday": "April 3, 1997",
+    "image": "gabrieljesus.jpg",
+    "appearances": 320,
+    "goals": 110,
+    "assists": 80,
+    "cards": "40 / 1",
+    "bio": "Gabriel Jesus is an energetic and versatile forward known for his pressing, movement, and ability to play across multiple positions.",
+    "seasons": [
+      { "year": 2022, "team": "Arsenal", "goals": 11, "assists": 5, "yellow": 4, "red": 0 },
+      { "year": 2023, "team": "Arsenal", "goals": 7, "assists": 6, "yellow": 3, "red": 0 },
+      { "year": 2024, "team": "Arsenal", "goals": 9, "assists": 7, "yellow": 3, "red": 0 },
+      { "year": 2025, "team": "Arsenal", "goals": 12, "assists": 8, "yellow": 4, "red": 0 },
+      { "year": 2026, "team": "Arsenal", "goals": 6, "assists": 4, "yellow": 2, "red": 0 }
+    ],
+    "clubsPlayed": ["Palmeiras (2015–2016)", "Manchester City (2017–2022)", "Arsenal (2022–present)"],
+    "trophies": [
+      { "title": "Premier League", "year": "2025" },
+      { "title": "Copa America", "year": "2019" },
+      { "title": "Olympic Gold Medal", "year": "2016" }
+    ],
+    "awards": [
+      { "title": "Copa America Best Young Player", "year": "2016" },
+      { "title": "Arsenal Player of the Month", "year": "2023" },
+      { "title": "Brazil Player of the Year", "year": "2022" }
+    ]
+  },
+  {
+    "id": 40,
+    "name": "Victor Osimhen",
+    "photo": "https://cdn.sofifa.net/players/232/293/25_120.png",
+    "number": 9,
+    "position": "Striker",
+    "nationality": "Nigeria",
+    "age": 25,
+    "height": "1.85 m",
+    "weight": "78 kg",
+    "team": "Galatasaray",
+    "birthday": "December 29, 1998",
+    "image": "osimhen.jpg",
+    "appearances": 220,
+    "goals": 130,
+    "assists": 35,
+    "cards": "35 / 2",
+    "bio": "Victor Osimhen is a powerful and explosive striker known for his pace, aerial ability, and clinical finishing.",
+    "seasons": [
+      { "year": 2022, "team": "Napoli", "goals": 26, "assists": 5, "yellow": 4, "red": 0 },
+      { "year": 2023, "team": "Napoli", "goals": 15, "assists": 3, "yellow": 3, "red": 0 },
+      { "year": 2024, "team": "Galatasaray", "goals": 18, "assists": 4, "yellow": 4, "red": 0 },
+      { "year": 2025, "team": "Galatasaray", "goals": 22, "assists": 6, "yellow": 5, "red": 0 },
+      { "year": 2026, "team": "Galatasaray", "goals": 11, "assists": 3, "yellow": 3, "red": 0 }
+    ],
+    "clubsPlayed": ["Wolfsburg (2017–2018)", "Charleroi (2018–2019)", "Lille (2019–2020)", "Napoli (2020–2024)", "Galatasaray (2024–present)"],
+    "trophies": [
+      { "title": "Serie A Champion", "year": "2023" },
+      { "title": "Turkish Super Lig", "year": "2025" },
+      { "title": "Africa Cup of Nations", "year": "2023" }
+    ],
+    "awards": [
+      { "title": "Serie A Top Scorer", "year": "2023" },
+      { "title": "African Player of the Year", "year": "2023" },
+      { "title": "Turkish Super Lig Top Scorer", "year": "2025" }
+    ]
+  },
+  {
+    "id": 41,
+    "name": "Khvicha Kvaratskhelia",
+    "photo": "https://cdn.sofifa.net/players/247/635/25_120.png",
+    "number": 77,
+    "position": "Winger",
+    "nationality": "Georgia",
+    "age": 23,
+    "height": "1.83 m",
+    "weight": "76 kg",
+    "team": "PSG",
+    "birthday": "February 12, 2001",
+    "image": "kvaratskhelia.jpg",
+    "appearances": 160,
+    "goals": 55,
+    "assists": 50,
+    "cards": "20 / 0",
+    "bio": "Khvicha Kvaratskhelia is an exciting and unpredictable winger whose dribbling and creativity have made him one of Europe's most exciting players.",
+    "seasons": [
+      { "year": 2022, "team": "Napoli", "goals": 12, "assists": 14, "yellow": 3, "red": 0 },
+      { "year": 2023, "team": "Napoli", "goals": 11, "assists": 10, "yellow": 3, "red": 0 },
+      { "year": 2024, "team": "PSG", "goals": 10, "assists": 9, "yellow": 2, "red": 0 },
+      { "year": 2025, "team": "PSG", "goals": 14, "assists": 12, "yellow": 2, "red": 0 },
+      { "year": 2026, "team": "PSG", "goals": 7, "assists": 6, "yellow": 1, "red": 0 }
+    ],
+    "clubsPlayed": ["Rubin Kazan (2021–2022)", "Napoli (2022–2024)", "PSG (2024–present)"],
+    "trophies": [
+      { "title": "Serie A Champion", "year": "2023" },
+      { "title": "Ligue 1 Champion", "year": "2025" },
+      { "title": "French Cup", "year": "2025" }
+    ],
+    "awards": [
+      { "title": "Serie A Best Young Player", "year": "2023" },
+      { "title": "Golden Boy", "year": "2023" },
+      { "title": "Ligue 1 Best Winger", "year": "2025" }
+    ]
+  },
+  {
+    "id": 42,
+    "name": "Rafael Leão",
+    "photo": "https://cdn.sofifa.net/players/241/721/25_120.png",
+    "number": 10,
+    "position": "Winger",
+    "nationality": "Portugal",
+    "age": 25,
+    "height": "1.88 m",
+    "weight": "76 kg",
+    "team": "AC Milan",
+    "birthday": "June 10, 1999",
+    "image": "leao.jpg",
+    "appearances": 220,
+    "goals": 80,
+    "assists": 60,
+    "cards": "30 / 1",
+    "bio": "Rafael Leão is an explosive winger with blistering pace, exceptional dribbling, and an eye for goal.",
+    "seasons": [
+      { "year": 2022, "team": "AC Milan", "goals": 14, "assists": 12, "yellow": 4, "red": 0 },
+      { "year": 2023, "team": "AC Milan", "goals": 12, "assists": 9, "yellow": 4, "red": 0 },
+      { "year": 2024, "team": "AC Milan", "goals": 15, "assists": 11, "yellow": 3, "red": 0 },
+      { "year": 2025, "team": "AC Milan", "goals": 17, "assists": 13, "yellow": 3, "red": 0 },
+      { "year": 2026, "team": "AC Milan", "goals": 8, "assists": 6, "yellow": 2, "red": 0 }
+    ],
+    "clubsPlayed": ["Sporting CP (2018–2019)", "Lille (2019)", "AC Milan (2019–present)"],
+    "trophies": [
+      { "title": "Serie A Champion", "year": "2022" },
+      { "title": "Supercoppa Italiana", "year": "2023" },
+      { "title": "Euro Winner", "year": "2024" }
+    ],
+    "awards": [
+      { "title": "Serie A Best Winger", "year": "2022" },
+      { "title": "Serie A Young Player of the Year", "year": "2022" },
+      { "title": "Euro Best Winger", "year": "2024" }
+    ]
+  },
+  {
+    "id": 43,
+    "name": "Theo Hernández",
+    "photo": "https://cdn.sofifa.net/players/232/656/25_120.png",
+    "number": 19,
+    "position": "Defender",
+    "nationality": "France",
+    "age": 27,
+    "height": "1.84 m",
+    "weight": "82 kg",
+    "team": "AC Milan",
+    "birthday": "October 6, 1997",
+    "image": "theohernandez.jpg",
+    "appearances": 280,
+    "goals": 40,
+    "assists": 55,
+    "cards": "70 / 3",
+    "bio": "Theo Hernández is an attack-minded left-back known for his pace, overlapping runs, and powerful shooting.",
+    "seasons": [
+      { "year": 2022, "team": "AC Milan", "goals": 8, "assists": 10, "yellow": 9, "red": 0 },
+      { "year": 2023, "team": "AC Milan", "goals": 6, "assists": 8, "yellow": 8, "red": 0 },
+      { "year": 2024, "team": "AC Milan", "goals": 7, "assists": 9, "yellow": 7, "red": 1 },
+      { "year": 2025, "team": "AC Milan", "goals": 8, "assists": 10, "yellow": 6, "red": 0 },
+      { "year": 2026, "team": "AC Milan", "goals": 4, "assists": 5, "yellow": 3, "red": 0 }
+    ],
+    "clubsPlayed": ["Atletico Madrid (2015–2017)", "Real Madrid (2017–2019)", "AC Milan (2019–present)"],
+    "trophies": [
+      { "title": "Serie A Champion", "year": "2022" },
+      { "title": "Nations League", "year": "2021" },
+      { "title": "Euro Winner", "year": "2024" }
+    ],
+    "awards": [
+      { "title": "Serie A Best Left-Back", "year": "2022" },
+      { "title": "UEFA Team of the Year", "year": "2022" },
+      { "title": "France Player of the Year", "year": "2023" }
+    ]
+  },
+  {
+    "id": 44,
+    "name": "Federico Valverde",
+    "photo": "https://cdn.sofifa.net/players/239/053/25_120.png",
+    "number": 15,
+    "position": "Midfielder",
+    "nationality": "Uruguay",
+    "age": 25,
+    "height": "1.82 m",
+    "weight": "75 kg",
+    "team": "Real Madrid",
+    "birthday": "July 22, 1998",
+    "image": "valverde.jpg",
+    "appearances": 260,
+    "goals": 30,
+    "assists": 40,
+    "cards": "50 / 1",
+    "bio": "Federico Valverde is an energetic and dynamic box-to-box midfielder who combines exceptional stamina with technical quality.",
+    "seasons": [
+      { "year": 2022, "team": "Real Madrid", "goals": 8, "assists": 9, "yellow": 6, "red": 0 },
+      { "year": 2023, "team": "Real Madrid", "goals": 6, "assists": 7, "yellow": 7, "red": 0 },
+      { "year": 2024, "team": "Real Madrid", "goals": 5, "assists": 8, "yellow": 5, "red": 0 },
+      { "year": 2025, "team": "Real Madrid", "goals": 7, "assists": 9, "yellow": 5, "red": 0 },
+      { "year": 2026, "team": "Real Madrid", "goals": 4, "assists": 5, "yellow": 3, "red": 0 }
+    ],
+    "clubsPlayed": ["Penarol (2015–2016)", "Real Madrid (2016–present)"],
+    "trophies": [
+      { "title": "Champions League", "year": "2022" },
+      { "title": "La Liga Champion", "year": "2022" },
+      { "title": "Champions League", "year": "2024" }
+    ],
+    "awards": [
+      { "title": "La Liga Best Midfielder", "year": "2023" },
+      { "title": "Copa America Best Young Player", "year": "2021" },
+      { "title": "Uruguay Player of the Year", "year": "2023" }
+    ]
+  },
+  {
+    "id": 45,
+    "name": "Achraf Hakimi",
+    "photo": "https://cdn.sofifa.net/players/235/212/25_120.png",
+    "number": 2,
+    "position": "Defender",
+    "nationality": "Morocco",
+    "age": 25,
+    "height": "1.81 m",
+    "weight": "73 kg",
+    "team": "PSG",
+    "birthday": "November 4, 1998",
+    "image": "hakimi.jpg",
+    "appearances": 280,
+    "goals": 35,
+    "assists": 65,
+    "cards": "45 / 2",
+    "bio": "Achraf Hakimi is one of the world's best right-backs, combining blistering pace with technical skill and attacking instincts.",
+    "seasons": [
+      { "year": 2022, "team": "PSG", "goals": 6, "assists": 11, "yellow": 5, "red": 0 },
+      { "year": 2023, "team": "PSG", "goals": 5, "assists": 10, "yellow": 6, "red": 0 },
+      { "year": 2024, "team": "PSG", "goals": 7, "assists": 12, "yellow": 5, "red": 0 },
+      { "year": 2025, "team": "PSG", "goals": 8, "assists": 13, "yellow": 4, "red": 0 },
+      { "year": 2026, "team": "PSG", "goals": 4, "assists": 6, "yellow": 2, "red": 0 }
+    ],
+    "clubsPlayed": ["Real Madrid (2016–2020)", "Dortmund (2020–2021)", "Inter Milan (2021–2021)", "PSG (2021–present)"],
+    "trophies": [
+      { "title": "Ligue 1 Champion", "year": "2023" },
+      { "title": "Champions League", "year": "2025" },
+      { "title": "Africa Cup of Nations", "year": "2022" }
+    ],
+    "awards": [
+      { "title": "African Player of the Year", "year": "2022" },
+      { "title": "Best Right-Back Ligue 1", "year": "2024" },
+      { "title": "Morocco Player of the Year", "year": "2023" }
+    ]
+  },
+  {
+    "id": 46,
+    "name": "Ousmane Dembélé",
+    "photo": "https://cdn.sofifa.net/players/231/443/25_120.png",
+    "number": 10,
+    "position": "Winger",
+    "nationality": "France",
+    "age": 27,
+    "height": "1.78 m",
+    "weight": "67 kg",
+    "team": "PSG",
+    "birthday": "May 15, 1997",
+    "image": "dembele.jpg",
+    "appearances": 280,
+    "goals": 80,
+    "assists": 100,
+    "cards": "40 / 1",
+    "bio": "Ousmane Dembélé is a pacey and direct winger known for his dribbling, assists, and ability to beat defenders at pace.",
+    "seasons": [
+      { "year": 2022, "team": "Barcelona", "goals": 13, "assists": 10, "yellow": 3, "red": 0 },
+      { "year": 2023, "team": "PSG", "goals": 12, "assists": 14, "yellow": 4, "red": 0 },
+      { "year": 2024, "team": "PSG", "goals": 14, "assists": 15, "yellow": 3, "red": 0 },
+      { "year": 2025, "team": "PSG", "goals": 16, "assists": 17, "yellow": 3, "red": 0 },
+      { "year": 2026, "team": "PSG", "goals": 8, "assists": 8, "yellow": 2, "red": 0 }
+    ],
+    "clubsPlayed": ["Rennes (2015–2016)", "Dortmund (2016–2017)", "Barcelona (2017–2023)", "PSG (2023–present)"],
+    "trophies": [
+      { "title": "Ligue 1 Champion", "year": "2024" },
+      { "title": "Champions League", "year": "2025" },
+      { "title": "Copa del Rey", "year": "2022" }
+    ],
+    "awards": [
+      { "title": "Ligue 1 Best Winger", "year": "2024" },
+      { "title": "Champions League Best Winger", "year": "2025" },
+      { "title": "France Player of the Month", "year": "2023" }
+    ]
+  },
+  {
+    "id": 47,
+    "name": "Gavi",
+    "photo": "https://cdn.sofifa.net/players/264/240/25_120.png",
+    "number": 6,
+    "position": "Midfielder",
+    "nationality": "Spain",
+    "age": 20,
+    "height": "1.73 m",
+    "weight": "60 kg",
+    "team": "Barcelona",
+    "birthday": "August 5, 2004",
+    "image": "gavi.jpg",
+    "appearances": 150,
+    "goals": 15,
+    "assists": 30,
+    "cards": "55 / 1",
+    "bio": "Gavi is an intense and technically gifted central midfielder who plays with remarkable maturity for his age.",
+    "seasons": [
+      { "year": 2022, "team": "Barcelona", "goals": 3, "assists": 7, "yellow": 10, "red": 0 },
+      { "year": 2023, "team": "Barcelona", "goals": 4, "assists": 6, "yellow": 11, "red": 0 },
+      { "year": 2024, "team": "Barcelona", "goals": 2, "assists": 4, "yellow": 8, "red": 0 },
+      { "year": 2025, "team": "Barcelona", "goals": 4, "assists": 8, "yellow": 9, "red": 0 },
+      { "year": 2026, "team": "Barcelona", "goals": 2, "assists": 4, "yellow": 5, "red": 0 }
+    ],
+    "clubsPlayed": ["Barcelona (2021–present)"],
+    "trophies": [
+      { "title": "Euro Winner", "year": "2024" },
+      { "title": "La Liga Champion", "year": "2023" },
+      { "title": "Nations League", "year": "2023" }
+    ],
+    "awards": [
+      { "title": "Golden Boy", "year": "2022" },
+      { "title": "Kopa Trophy", "year": "2022" },
+      { "title": "Euro Best Young Player", "year": "2024" }
+    ]
+  },
+  {
+    "id": 48,
+    "name": "Ronald Araújo",
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzqBNzxsPLSsG5yFO2Bzi39A0o9vqwqnuODA&s",
+    "number": 4,
+    "position": "Defender",
+    "nationality": "Uruguay",
+    "age": 25,
+    "height": "1.88 m",
+    "weight": "88 kg",
+    "team": "Barcelona",
+    "birthday": "March 7, 1999",
+    "image": "araujo.jpg",
+    "appearances": 180,
+    "goals": 15,
+    "assists": 5,
+    "cards": "55 / 3",
+    "bio": "Ronald Araújo is a commanding and powerful centre-back known for his aerial dominance, strength, and defensive leadership.",
+    "seasons": [
+      { "year": 2022, "team": "Barcelona", "goals": 3, "assists": 1, "yellow": 8, "red": 1 },
+      { "year": 2023, "team": "Barcelona", "goals": 4, "assists": 1, "yellow": 7, "red": 0 },
+      { "year": 2024, "team": "Barcelona", "goals": 3, "assists": 1, "yellow": 6, "red": 0 },
+      { "year": 2025, "team": "Barcelona", "goals": 4, "assists": 2, "yellow": 5, "red": 0 },
+      { "year": 2026, "team": "Barcelona", "goals": 2, "assists": 1, "yellow": 3, "red": 0 }
+    ],
+    "clubsPlayed": ["Boston River (2016–2018)", "Barcelona B (2018–2020)", "Barcelona (2020–present)"],
+    "trophies": [
+      { "title": "La Liga Champion", "year": "2023" },
+      { "title": "Copa del Rey", "year": "2023" },
+      { "title": "La Liga Champion", "year": "2025" }
+    ],
+    "awards": [
+      { "title": "La Liga Best Young Defender", "year": "2022" },
+      { "title": "Barcelona Player of the Season", "year": "2023" },
+      { "title": "Uruguay Player of the Year", "year": "2024" }
+    ]
+  },
+  {
+    "id": 49,
+    "name": "Frenkie de Jong",
+    "photo": "https://cdn.sofifa.net/players/228/702/25_120.png",
+    "number": 21,
+    "position": "Midfielder",
+    "nationality": "Netherlands",
+    "age": 27,
+    "height": "1.80 m",
+    "weight": "74 kg",
+    "team": "Barcelona",
+    "birthday": "May 12, 1997",
+    "image": "dejong.jpg",
+    "appearances": 280,
+    "goals": 20,
+    "assists": 40,
+    "cards": "40 / 1",
+    "bio": "Frenkie de Jong is a technically superb midfielder known for his ability to carry the ball, press, and dictate tempo.",
+    "seasons": [
+      { "year": 2022, "team": "Barcelona", "goals": 5, "assists": 6, "yellow": 5, "red": 0 },
+      { "year": 2023, "team": "Barcelona", "goals": 4, "assists": 7, "yellow": 6, "red": 0 },
+      { "year": 2024, "team": "Barcelona", "goals": 5, "assists": 8, "yellow": 5, "red": 0 },
+      { "year": 2025, "team": "Barcelona", "goals": 6, "assists": 9, "yellow": 4, "red": 0 },
+      { "year": 2026, "team": "Barcelona", "goals": 3, "assists": 4, "yellow": 2, "red": 0 }
+    ],
+    "clubsPlayed": ["Ajax (2015–2019)", "Barcelona (2019–present)"],
+    "trophies": [
+      { "title": "La Liga Champion", "year": "2023" },
+      { "title": "Eredivisie", "year": "2019" },
+      { "title": "La Liga Champion", "year": "2025" }
+    ],
+    "awards": [
+      { "title": "UEFA Champions League Young Player of the Year", "year": "2019" },
+      { "title": "La Liga Best Midfielder", "year": "2024" },
+      { "title": "Netherlands Player of the Year", "year": "2023" }
+    ]
+  },
+  {
+    "id": 50,
+    "name": "İlkay Gündoğan",
+    "photo": "https://cdn.sofifa.net/players/186/942/25_120.png",
+    "number": 22,
+    "position": "Midfielder",
+    "nationality": "Germany",
+    "age": 34,
+    "height": "1.80 m",
+    "weight": "80 kg",
+    "team": "Barcelona",
+    "birthday": "October 24, 1990",
+    "image": "gundogan.jpg",
+    "appearances": 480,
+    "goals": 80,
+    "assists": 100,
+    "cards": "70 / 2",
+    "bio": "İlkay Gündoğan is an intelligent and experienced midfielder known for his positional awareness, passing, and leadership.",
+    "seasons": [
+      { "year": 2022, "team": "Manchester City", "goals": 11, "assists": 8, "yellow": 4, "red": 0 },
+      { "year": 2023, "team": "Barcelona", "goals": 9, "assists": 7, "yellow": 5, "red": 0 },
+      { "year": 2024, "team": "Barcelona", "goals": 7, "assists": 8, "yellow": 4, "red": 0 },
+      { "year": 2025, "team": "Barcelona", "goals": 6, "assists": 7, "yellow": 3, "red": 0 },
+      { "year": 2026, "team": "Barcelona", "goals": 3, "assists": 4, "yellow": 2, "red": 0 }
+    ],
+    "clubsPlayed": ["Nuremberg (2010–2011)", "Dortmund (2011–2016)", "Manchester City (2016–2023)", "Barcelona (2023–present)"],
+    "trophies": [
+      { "title": "Champions League", "year": "2023" },
+      { "title": "Premier League", "year": "2023" },
+      { "title": "La Liga Champion", "year": "2025" }
+    ],
+    "awards": [
+      { "title": "FA Cup Final Man of the Match", "year": "2023" },
+      { "title": "Manchester City Player of the Season", "year": "2023" },
+      { "title": "Germany Player of the Year", "year": "2022" }
+    ]
+  },
+  {
+    "id": 51,
+    "name": "Julian Alvarez",
+    "photo": "https://cdn.sofifa.net/players/246/191/25_120.png",
+    "number": 19,
+    "position": "Forward",
+    "nationality": "Argentina",
+    "age": 24,
+    "height": "1.70 m",
+    "weight": "70 kg",
+    "team": "Atletico Madrid",
+    "birthday": "January 31, 2000",
+    "image": "julianaltavarez.jpg",
+    "appearances": 180,
+    "goals": 75,
+    "assists": 40,
+    "cards": "20 / 0",
+    "bio": "Julian Alvarez is a dynamic and versatile forward known for his movement, pressing, and ability to score crucial goals.",
+    "seasons": [
+      { "year": 2022, "team": "Manchester City", "goals": 17, "assists": 9, "yellow": 2, "red": 0 },
+      { "year": 2023, "team": "Manchester City", "goals": 11, "assists": 7, "yellow": 3, "red": 0 },
+      { "year": 2024, "team": "Atletico Madrid", "goals": 16, "assists": 8, "yellow": 3, "red": 0 },
+      { "year": 2025, "team": "Atletico Madrid", "goals": 18, "assists": 10, "yellow": 3, "red": 0 },
+      { "year": 2026, "team": "Atletico Madrid", "goals": 9, "assists": 5, "yellow": 2, "red": 0 }
+    ],
+    "clubsPlayed": ["River Plate (2018–2022)", "Manchester City (2022–2024)", "Atletico Madrid (2024–present)"],
+    "trophies": [
+      { "title": "World Cup Winner", "year": "2022" },
+      { "title": "Champions League", "year": "2023" },
+      { "title": "Copa America", "year": "2024" }
+    ],
+    "awards": [
+      { "title": "World Cup Best Young Player", "year": "2022" },
+      { "title": "Champions League Top Scorer", "year": "2023" },
+      { "title": "Copa America Best Player", "year": "2024" }
+    ]
+  },
+  {
+    "id": 52,
+    "name": "Lautaro Martínez",
+    "photo": "https://cdn.sofifa.net/players/231/478/25_120.png",
+    "number": 10,
+    "position": "Striker",
+    "nationality": "Argentina",
+    "age": 26,
+    "height": "1.74 m",
+    "weight": "72 kg",
+    "team": "Inter Milan",
+    "birthday": "August 22, 1997",
+    "image": "lautaro.jpg",
+    "appearances": 280,
+    "goals": 160,
+    "assists": 60,
+    "cards": "55 / 2",
+    "bio": "Lautaro Martínez is a tenacious and clinical striker known for his movement, strength, and goals in decisive moments.",
+    "seasons": [
+      { "year": 2022, "team": "Inter Milan", "goals": 21, "assists": 7, "yellow": 7, "red": 0 },
+      { "year": 2023, "team": "Inter Milan", "goals": 24, "assists": 9, "yellow": 8, "red": 0 },
+      { "year": 2024, "team": "Inter Milan", "goals": 22, "assists": 8, "yellow": 7, "red": 0 },
+      { "year": 2025, "team": "Inter Milan", "goals": 25, "assists": 9, "yellow": 6, "red": 0 },
+      { "year": 2026, "team": "Inter Milan", "goals": 12, "assists": 4, "yellow": 3, "red": 0 }
+    ],
+    "clubsPlayed": ["Racing Club (2015–2018)", "Inter Milan (2018–present)"],
+    "trophies": [
+      { "title": "World Cup Winner", "year": "2022" },
+      { "title": "Serie A Champion", "year": "2024" },
+      { "title": "Copa America", "year": "2024" }
+    ],
+    "awards": [
+      { "title": "Serie A Top Scorer", "year": "2024" },
+      { "title": "Copa America Best Player", "year": "2021" },
+      { "title": "Argentina Player of the Year", "year": "2023" }
+    ]
+  },
+  {
+    "id": 53,
+    "name": "Nicolò Barella",
+    "photo": "https://cdn.sofifa.net/players/224/232/25_120.png",
+    "number": 23,
+    "position": "Midfielder",
+    "nationality": "Italy",
+    "age": 27,
+    "height": "1.72 m",
+    "weight": "68 kg",
+    "team": "Inter Milan",
+    "birthday": "February 7, 1997",
+    "image": "barella.jpg",
+    "appearances": 280,
+    "goals": 35,
+    "assists": 70,
+    "cards": "90 / 3",
+    "bio": "Nicolò Barella is an energetic and dynamic midfielder renowned for his box-to-box ability, passing, and leadership.",
+    "seasons": [
+      { "year": 2022, "team": "Inter Milan", "goals": 5, "assists": 13, "yellow": 12, "red": 0 },
+      { "year": 2023, "team": "Inter Milan", "goals": 7, "assists": 14, "yellow": 11, "red": 1 },
+      { "year": 2024, "team": "Inter Milan", "goals": 8, "assists": 15, "yellow": 10, "red": 0 },
+      { "year": 2025, "team": "Inter Milan", "goals": 9, "assists": 14, "yellow": 9, "red": 0 },
+      { "year": 2026, "team": "Inter Milan", "goals": 4, "assists": 7, "yellow": 5, "red": 0 }
+    ],
+    "clubsPlayed": ["Cagliari (2013–2019)", "Inter Milan (2019–present)"],
+    "trophies": [
+      { "title": "Serie A Champion", "year": "2021" },
+      { "title": "Euro Winner", "year": "2021" },
+      { "title": "Serie A Champion", "year": "2024" }
+    ],
+    "awards": [
+      { "title": "Serie A Best Midfielder", "year": "2021" },
+      { "title": "UEFA Team of the Year", "year": "2023" },
+      { "title": "Italy Player of the Year", "year": "2023" }
+    ]
+  },
+  {
+    "id": 54,
+    "name": "Hakan Çalhanoğlu",
+    "photo": "https://img.uefa.com/imgml/TP/players/1/2026/324x324/250022829.jpg",
+    "number": 20,
+    "position": "Midfielder",
+    "nationality": "Turkey",
+    "age": 30,
+    "height": "1.79 m",
+    "weight": "75 kg",
+    "team": "Inter Milan",
+    "birthday": "February 8, 1994",
+    "image": "calhanoglu.jpg",
+    "appearances": 380,
+    "goals": 80,
+    "assists": 100,
+    "cards": "70 / 2",
+    "bio": "Hakan Çalhanoğlu is a technically gifted midfielder known for his set-pieces, passing range, and ability to dictate play.",
+    "seasons": [
+      { "year": 2022, "team": "Inter Milan", "goals": 10, "assists": 13, "yellow": 8, "red": 0 },
+      { "year": 2023, "team": "Inter Milan", "goals": 12, "assists": 14, "yellow": 7, "red": 0 },
+      { "year": 2024, "team": "Inter Milan", "goals": 11, "assists": 12, "yellow": 8, "red": 0 },
+      { "year": 2025, "team": "Inter Milan", "goals": 13, "assists": 14, "yellow": 6, "red": 0 },
+      { "year": 2026, "team": "Inter Milan", "goals": 6, "assists": 7, "yellow": 3, "red": 0 }
+    ],
+    "clubsPlayed": ["Karlsruher (2011–2013)", "Hamburg (2013–2014)", "Bayer Leverkusen (2014–2019)", "AC Milan (2019–2021)", "Inter Milan (2021–present)"],
+    "trophies": [
+      { "title": "Serie A Champion", "year": "2024" },
+      { "title": "Coppa Italia", "year": "2023" },
+      { "title": "Serie A Champion", "year": "2021" }
+    ],
+    "awards": [
+      { "title": "Serie A Best Midfielder", "year": "2024" },
+      { "title": "Turkey Player of the Year", "year": "2023" },
+      { "title": "Inter Milan Player of the Season", "year": "2024" }
+    ]
+  },
+  {
+    "id": 55,
+    "name": "Dušan Vlahović",
+    "photo": "https://img.uefa.com/imgml/TP/players/1/2026/324x324/250099180.jpg",
+    "number": 9,
+    "position": "Striker",
+    "nationality": "Serbia",
+    "age": 24,
+    "height": "1.90 m",
+    "weight": "84 kg",
+    "team": "Juventus",
+    "birthday": "January 28, 2000",
+    "image": "vlahovic.jpg",
+    "appearances": 220,
+    "goals": 130,
+    "assists": 25,
+    "cards": "40 / 1",
+    "bio": "Dušan Vlahović is a powerful and clinical striker known for his finishing, movement, and physical presence.",
+    "seasons": [
+      { "year": 2022, "team": "Juventus", "goals": 18, "assists": 4, "yellow": 5, "red": 0 },
+      { "year": 2023, "team": "Juventus", "goals": 16, "assists": 3, "yellow": 6, "red": 0 },
+      { "year": 2024, "team": "Juventus", "goals": 19, "assists": 5, "yellow": 5, "red": 0 },
+      { "year": 2025, "team": "Juventus", "goals": 22, "assists": 6, "yellow": 4, "red": 0 },
+      { "year": 2026, "team": "Juventus", "goals": 11, "assists": 3, "yellow": 2, "red": 0 }
+    ],
+    "clubsPlayed": ["Partizan (2016–2018)", "Fiorentina (2018–2022)", "Juventus (2022–present)"],
+    "trophies": [
+      { "title": "Coppa Italia", "year": "2024" },
+      { "title": "Serie A Runner-Up", "year": "2023" },
+      { "title": "Supercoppa Italiana", "year": "2024" }
+    ],
+    "awards": [
+      { "title": "Serie A Top Scorer", "year": "2022" },
+      { "title": "Juventus Player of the Season", "year": "2025" },
+      { "title": "Serbia Player of the Year", "year": "2023" }
+    ]
+  },
+  {
+    "id": 56,
+    "name": "Adrien Rabiot",
+    "photo": "https://cdn.sofifa.net/players/210/008/25_120.png",
+    "number": 25,
+    "position": "Midfielder",
+    "nationality": "France",
+    "age": 29,
+    "height": "1.88 m",
+    "weight": "75 kg",
+    "team": "Juventus",
+    "birthday": "April 3, 1995",
+    "image": "rabiot.jpg",
+    "appearances": 380,
+    "goals": 40,
+    "assists": 50,
+    "cards": "100 / 4",
+    "bio": "Adrien Rabiot is a tall and technically proficient midfielder who excels in box-to-box play and aerial duels.",
+    "seasons": [
+      { "year": 2022, "team": "Juventus", "goals": 6, "assists": 7, "yellow": 10, "red": 0 },
+      { "year": 2023, "team": "Juventus", "goals": 7, "assists": 8, "yellow": 11, "red": 1 },
+      { "year": 2024, "team": "Juventus", "goals": 8, "assists": 7, "yellow": 10, "red": 0 },
+      { "year": 2025, "team": "Juventus", "goals": 6, "assists": 6, "yellow": 9, "red": 0 },
+      { "year": 2026, "team": "Juventus", "goals": 3, "assists": 3, "yellow": 5, "red": 0 }
+    ],
+    "clubsPlayed": ["PSG (2010–2019)", "Juventus (2019–present)"],
+    "trophies": [
+      { "title": "Coppa Italia", "year": "2024" },
+      { "title": "Ligue 1 Champion", "year": "2018" },
+      { "title": "World Cup Runner-Up", "year": "2022" }
+    ],
+    "awards": [
+      { "title": "Juventus Best Midfielder", "year": "2023" },
+      { "title": "France Best Midfielder", "year": "2022" },
+      { "title": "Serie A Team of the Year", "year": "2024" }
+    ]
+  },
+  {
+    "id": 57,
+    "name": "Mike Maignan",
+    "photo": "https://cdn.sofifa.net/players/215/698/25_120.png",
+    "number": 16,
+    "position": "Goalkeeper",
+    "nationality": "France",
+    "age": 29,
+    "height": "1.91 m",
+    "weight": "87 kg",
+    "team": "AC Milan",
+    "birthday": "July 3, 1995",
+    "image": "maignan.jpg",
+    "appearances": 250,
+    "goals": 0,
+    "assists": 1,
+    "cards": "10 / 0",
+    "bio": "Mike Maignan is a commanding and athletic goalkeeper known for his reflexes, distribution, and commanding presence.",
+    "seasons": [
+      { "year": 2022, "team": "AC Milan", "goals": 0, "assists": 0, "yellow": 1, "red": 0 },
+      { "year": 2023, "team": "AC Milan", "goals": 0, "assists": 0, "yellow": 2, "red": 0 },
+      { "year": 2024, "team": "AC Milan", "goals": 0, "assists": 1, "yellow": 1, "red": 0 },
+      { "year": 2025, "team": "AC Milan", "goals": 0, "assists": 0, "yellow": 2, "red": 0 },
+      { "year": 2026, "team": "AC Milan", "goals": 0, "assists": 0, "yellow": 1, "red": 0 }
+    ],
+    "clubsPlayed": ["PSG Academy", "Lille (2015–2021)", "AC Milan (2021–present)"],
+    "trophies": [
+      { "title": "Serie A Champion", "year": "2022" },
+      { "title": "Nations League", "year": "2021" },
+      { "title": "Euro Winner", "year": "2024" }
+    ],
+    "awards": [
+      { "title": "Ligue 1 Best Goalkeeper", "year": "2021" },
+      { "title": "Serie A Best Goalkeeper", "year": "2022" },
+      { "title": "Yashin Trophy", "year": "2023" }
+    ]
+  },
+  {
+    "id": 58,
+    "name": "Rodrygo",
+    "photo": "https://cdn.sofifa.net/players/243/715/25_120.png",
+    "number": 11,
+    "position": "Forward",
+    "nationality": "Brazil",
+    "age": 23,
+    "height": "1.74 m",
+    "weight": "64 kg",
+    "team": "Real Madrid",
+    "birthday": "January 9, 2001",
+    "image": "rodrygo.jpg",
+    "appearances": 200,
+    "goals": 65,
+    "assists": 50,
+    "cards": "15 / 0",
+    "bio": "Rodrygo is a technical and intelligent forward known for his composure in front of goal and ability to deliver in big moments.",
+    "seasons": [
+      { "year": 2022, "team": "Real Madrid", "goals": 12, "assists": 9, "yellow": 2, "red": 0 },
+      { "year": 2023, "team": "Real Madrid", "goals": 10, "assists": 8, "yellow": 2, "red": 0 },
+      { "year": 2024, "team": "Real Madrid", "goals": 11, "assists": 9, "yellow": 3, "red": 0 },
+      { "year": 2025, "team": "Real Madrid", "goals": 14, "assists": 10, "yellow": 2, "red": 0 },
+      { "year": 2026, "team": "Real Madrid", "goals": 7, "assists": 5, "yellow": 1, "red": 0 }
+    ],
+    "clubsPlayed": ["Santos (2017–2019)", "Real Madrid (2019–present)"],
+    "trophies": [
+      { "title": "Champions League", "year": "2022" },
+      { "title": "La Liga Champion", "year": "2022" },
+      { "title": "Champions League", "year": "2024" }
+    ],
+    "awards": [
+      { "title": "Champions League Best Young Player", "year": "2022" },
+      { "title": "Brazil Young Player of the Year", "year": "2022" },
+      { "title": "Real Madrid Player of the Month", "year": "2024" }
+    ]
+  },
+  {
+    "id": 59,
+    "name": "Antonio Rüdiger",
+    "photo": "https://cdn.sofifa.net/players/205/452/25_120.png",
+    "number": 22,
+    "position": "Defender",
+    "nationality": "Germany",
+    "age": 31,
+    "height": "1.90 m",
+    "weight": "85 kg",
+    "team": "Real Madrid",
+    "birthday": "March 3, 1993",
+    "image": "rudiger.jpg",
+    "appearances": 380,
+    "goals": 20,
+    "assists": 10,
+    "cards": "100 / 5",
+    "bio": "Antonio Rüdiger is an aggressive and commanding centre-back known for his physicality, aerial ability, and tenacious defending.",
+    "seasons": [
+      { "year": 2022, "team": "Real Madrid", "goals": 4, "assists": 2, "yellow": 9, "red": 0 },
+      { "year": 2023, "team": "Real Madrid", "goals": 3, "assists": 1, "yellow": 10, "red": 1 },
+      { "year": 2024, "team": "Real Madrid", "goals": 5, "assists": 2, "yellow": 8, "red": 0 },
+      { "year": 2025, "team": "Real Madrid", "goals": 4, "assists": 2, "yellow": 7, "red": 0 },
+      { "year": 2026, "team": "Real Madrid", "goals": 2, "assists": 1, "yellow": 4, "red": 0 }
+    ],
+    "clubsPlayed": ["Stuttgart (2011–2015)", "Roma (2015–2017)", "Chelsea (2017–2022)", "Real Madrid (2022–present)"],
+    "trophies": [
+      { "title": "Champions League", "year": "2022" },
+      { "title": "La Liga Champion", "year": "2024" },
+      { "title": "Champions League", "year": "2024" }
+    ],
+    "awards": [
+      { "title": "Real Madrid Best Defender", "year": "2023" },
+      { "title": "La Liga Best Centre-Back", "year": "2024" },
+      { "title": "Germany Player of the Year", "year": "2022" }
+    ]
+  },
+  {
+    "id": 60,
+    "name": "camavinga",
+    "photo": "https://cdn.sofifa.net/players/248/243/25_120.png",
+    "number": 12,
+    "position": "Midfielder",
+    "nationality": "France",
+    "age": 21,
+    "height": "1.81 m",
+    "weight": "68 kg",
+    "team": "Real Madrid",
+    "birthday": "November 10, 2002",
+    "image": "camavinga.jpg",
+    "appearances": 180,
+    "goals": 10,
+    "assists": 20,
+    "cards": "35 / 1",
+    "bio": "Eduardo Camavinga is an explosive and versatile midfielder with outstanding athleticism and a bright future ahead.",
+    "seasons": [
+      { "year": 2022, "team": "Real Madrid", "goals": 2, "assists": 4, "yellow": 5, "red": 0 },
+      { "year": 2023, "team": "Real Madrid", "goals": 3, "assists": 5, "yellow": 6, "red": 0 },
+      { "year": 2024, "team": "Real Madrid", "goals": 2, "assists": 4, "yellow": 5, "red": 0 },
+      { "year": 2025, "team": "Real Madrid", "goals": 3, "assists": 5, "yellow": 4, "red": 0 },
+      { "year": 2026, "team": "Real Madrid", "goals": 2, "assists": 3, "yellow": 3, "red": 0 }
+    ],
+    "clubsPlayed": ["Rennes (2019–2021)", "Real Madrid (2021–present)"],
+    "trophies": [
+      { "title": "Champions League", "year": "2022" },
+      { "title": "La Liga Champion", "year": "2022" },
+      { "title": "Champions League", "year": "2024" }
+    ],
+    "awards": [
+      { "title": "Golden Boy Nominee", "year": "2022" },
+      { "title": "France Best Young Player", "year": "2021" },
+      { "title": "Real Madrid Best Young Player", "year": "2023" }
+    ]
+  },
+  {
+    "id": 61,
+    "name": "Aurélien Tchouaméni",
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGCECr6K19Eo_kJyZpmK91kJUH6dPKPpaXnA&s",
+    "number": 18,
+    "position": "Midfielder",
+    "nationality": "France",
+    "age": 24,
+    "height": "1.88 m",
+    "weight": "79 kg",
+    "team": "Real Madrid",
+    "birthday": "January 27, 2000",
+    "image": "tchouameni.jpg",
+    "appearances": 180,
+    "goals": 12,
+    "assists": 15,
+    "cards": "45 / 1",
+    "bio": "Aurélien Tchouaméni is a composed and physically dominant defensive midfielder known for his ball-winning and progression.",
+    "seasons": [
+      { "year": 2022, "team": "Real Madrid", "goals": 3, "assists": 4, "yellow": 7, "red": 0 },
+      { "year": 2023, "team": "Real Madrid", "goals": 2, "assists": 3, "yellow": 8, "red": 0 },
+      { "year": 2024, "team": "Real Madrid", "goals": 3, "assists": 4, "yellow": 7, "red": 0 },
+      { "year": 2025, "team": "Real Madrid", "goals": 3, "assists": 3, "yellow": 6, "red": 0 },
+      { "year": 2026, "team": "Real Madrid", "goals": 1, "assists": 2, "yellow": 3, "red": 0 }
+    ],
+    "clubsPlayed": ["Bordeaux (2017–2020)", "Monaco (2020–2022)", "Real Madrid (2022–present)"],
+    "trophies": [
+      { "title": "Champions League", "year": "2024" },
+      { "title": "La Liga Champion", "year": "2024" },
+      { "title": "Euro Winner", "year": "2024" }
+    ],
+    "awards": [
+      { "title": "Ligue 1 Best Young Midfielder", "year": "2022" },
+      { "title": "France Best Midfielder", "year": "2024" },
+      { "title": "Real Madrid Best Defensive Midfielder", "year": "2024" }
+    ]
+  },
+  {
+    "id": 62,
+    "name": "Joško Gvardiol",
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9-77ni07D39ITSP8ULBk9BfZR5CxRKGjajA&s",
+    "number": 24,
+    "position": "Defender",
+    "nationality": "Croatia",
+    "age": 22,
+    "height": "1.85 m",
+    "weight": "80 kg",
+    "team": "Manchester City",
+    "birthday": "January 23, 2002",
+    "image": "gvardiol.jpg",
+    "appearances": 160,
+    "goals": 12,
+    "assists": 15,
+    "cards": "30 / 0",
+    "bio": "Joško Gvardiol is a technically gifted and physically imposing defender who is considered one of the best young centre-backs in world football.",
+    "seasons": [
+      { "year": 2022, "team": "RB Leipzig", "goals": 3, "assists": 4, "yellow": 5, "red": 0 },
+      { "year": 2023, "team": "Manchester City", "goals": 3, "assists": 4, "yellow": 4, "red": 0 },
+      { "year": 2024, "team": "Manchester City", "goals": 4, "assists": 5, "yellow": 4, "red": 0 },
+      { "year": 2025, "team": "Manchester City", "goals": 5, "assists": 4, "yellow": 3, "red": 0 },
+      { "year": 2026, "team": "Manchester City", "goals": 2, "assists": 3, "yellow": 2, "red": 0 }
+    ],
+    "clubsPlayed": ["Dinamo Zagreb (2019–2021)", "RB Leipzig (2021–2023)", "Manchester City (2023–present)"],
+    "trophies": [
+      { "title": "World Cup Bronze Medal", "year": "2022" },
+      { "title": "Premier League", "year": "2025" },
+      { "title": "Bundesliga Runner-Up", "year": "2022" }
+    ],
+    "awards": [
+      { "title": "Bundesliga Best Young Defender", "year": "2022" },
+      { "title": "Croatia Player of the Year", "year": "2023" },
+      { "title": "Premier League Best Young Defender", "year": "2025" }
+    ]
+  },
+  {
+    "id": 63,
+    "name": "Jack Grealish",
+    "photo": "https://cdn.sofifa.net/players/206/517/25_120.png",
+    "number": 10,
+    "position": "Winger",
+    "nationality": "England",
+    "age": 29,
+    "height": "1.80 m",
+    "weight": "76 kg",
+    "team": "Manchester City",
+    "birthday": "February 10, 1995",
+    "image": "grealish.jpg",
+    "appearances": 320,
+    "goals": 50,
+    "assists": 90,
+    "cards": "60 / 1",
+    "bio": "Jack Grealish is a creative winger known for his dribbling, ball control, and ability to draw fouls.",
+    "seasons": [
+      { "year": 2022, "team": "Manchester City", "goals": 4, "assists": 6, "yellow": 5, "red": 0 },
+      { "year": 2023, "team": "Manchester City", "goals": 5, "assists": 8, "yellow": 6, "red": 0 },
+      { "year": 2024, "team": "Manchester City", "goals": 6, "assists": 9, "yellow": 5, "red": 0 },
+      { "year": 2025, "team": "Manchester City", "goals": 7, "assists": 10, "yellow": 5, "red": 0 },
+      { "year": 2026, "team": "Manchester City", "goals": 3, "assists": 5, "yellow": 3, "red": 0 }
+    ],
+    "clubsPlayed": ["Aston Villa (2009–2021)", "Manchester City (2021–present)"],
+    "trophies": [
+      { "title": "Champions League", "year": "2023" },
+      { "title": "Premier League", "year": "2023" },
+      { "title": "FA Cup", "year": "2023" }
+    ],
+    "awards": [
+      { "title": "PFA Young Player of the Year", "year": "2020" },
+      { "title": "Manchester City Player of the Month", "year": "2023" },
+      { "title": "Premier League Player of the Month", "year": "2025" }
+    ]
+  },
+  {
+    "id": 64,
+    "name": "John Stones",
+    "photo": "https://cdn.sofifa.net/players/203/574/25_120.png",
+    "number": 5,
+    "position": "Defender",
+    "nationality": "England",
+    "age": 30,
+    "height": "1.88 m",
+    "weight": "70 kg",
+    "team": "Manchester City",
+    "birthday": "May 28, 1994",
+    "image": "stones.jpg",
+    "appearances": 320,
+    "goals": 15,
+    "assists": 10,
+    "cards": "50 / 1",
+    "bio": "John Stones is a composed and technically gifted centre-back who is also capable of operating as a hybrid midfielder.",
+    "seasons": [
+      { "year": 2022, "team": "Manchester City", "goals": 3, "assists": 2, "yellow": 5, "red": 0 },
+      { "year": 2023, "team": "Manchester City", "goals": 4, "assists": 3, "yellow": 5, "red": 0 },
+      { "year": 2024, "team": "Manchester City", "goals": 2, "assists": 2, "yellow": 4, "red": 0 },
+      { "year": 2025, "team": "Manchester City", "goals": 3, "assists": 2, "yellow": 4, "red": 0 },
+      { "year": 2026, "team": "Manchester City", "goals": 1, "assists": 1, "yellow": 2, "red": 0 }
+    ],
+    "clubsPlayed": ["Barnsley (2010–2013)", "Everton (2013–2016)", "Manchester City (2016–present)"],
+    "trophies": [
+      { "title": "Premier League", "year": "2023" },
+      { "title": "Champions League", "year": "2023" },
+      { "title": "Premier League", "year": "2025" }
+    ],
+    "awards": [
+      { "title": "Premier League Best Defender", "year": "2022" },
+      { "title": "Manchester City Player of the Season", "year": "2022" },
+      { "title": "England Player of the Year", "year": "2023" }
+    ]
+  },
+  {
+    "id": 65,
+    "name": "Rúben Dias",
+    "photo": "https://cdn.sofifa.net/players/239/818/25_120.png",
+    "number": 3,
+    "position": "Defender",
+    "nationality": "Portugal",
+    "age": 27,
+    "height": "1.87 m",
+    "weight": "76 kg",
+    "team": "Manchester City",
+    "birthday": "May 14, 1997",
+    "image": "rubenDias.jpg",
+    "appearances": 240,
+    "goals": 8,
+    "assists": 5,
+    "cards": "45 / 1",
+    "bio": "Rúben Dias is a commanding and authoritative centre-back whose leadership and defensive excellence have made him one of the best in the world.",
+    "seasons": [
+      { "year": 2022, "team": "Manchester City", "goals": 1, "assists": 1, "yellow": 5, "red": 0 },
+      { "year": 2023, "team": "Manchester City", "goals": 2, "assists": 1, "yellow": 6, "red": 0 },
+      { "year": 2024, "team": "Manchester City", "goals": 2, "assists": 1, "yellow": 5, "red": 0 },
+      { "year": 2025, "team": "Manchester City", "goals": 2, "assists": 1, "yellow": 4, "red": 0 },
+      { "year": 2026, "team": "Manchester City", "goals": 1, "assists": 1, "yellow": 2, "red": 0 }
+    ],
+    "clubsPlayed": ["Benfica (2014–2020)", "Manchester City (2020–present)"],
+    "trophies": [
+      { "title": "Premier League", "year": "2022" },
+      { "title": "Champions League", "year": "2023" },
+      { "title": "Euro Winner", "year": "2016" }
+    ],
+    "awards": [
+      { "title": "PFA Players Player of the Year", "year": "2021" },
+      { "title": "Premier League Best Defender", "year": "2021" },
+      { "title": "UEFA Team of the Year", "year": "2021" }
+    ]
+  },
+  {
+    "id": 66,
+    "name": "Marcus Rashford",
+    "photo": "https://wallpapers.com/images/hd/marcus-rashford-portrait-tnxrk1juc3pk9igw.jpg",
+    "number": 10,
+    "position": "Forward",
+    "nationality": "England",
+    "age": 26,
+    "height": "1.80 m",
+    "weight": "70 kg",
+    "team": "Manchester United",
+    "birthday": "October 31, 1997",
+    "image": "rashford.jpg",
+    "appearances": 320,
+    "goals": 110,
+    "assists": 65,
+    "cards": "35 / 0",
+    "bio": "Marcus Rashford is a dynamic and pacy forward who combines pace, directness, and finishing to be a consistent goal threat.",
+    "seasons": [
+      { "year": 2022, "team": "Manchester United", "goals": 30, "assists": 10, "yellow": 4, "red": 0 },
+      { "year": 2023, "team": "Manchester United", "goals": 8, "assists": 5, "yellow": 5, "red": 0 },
+      { "year": 2024, "team": "Manchester United", "goals": 7, "assists": 4, "yellow": 4, "red": 0 },
+      { "year": 2025, "team": "Manchester United", "goals": 9, "assists": 6, "yellow": 3, "red": 0 },
+      { "year": 2026, "team": "Manchester United", "goals": 5, "assists": 3, "yellow": 2, "red": 0 }
+    ],
+    "clubsPlayed": ["Manchester United (2015–present)"],
+    "trophies": [
+      { "title": "FA Cup", "year": "2024" },
+      { "title": "League Cup", "year": "2023" },
+      { "title": "Europa League", "year": "2017" }
+    ],
+    "awards": [
+      { "title": "Manchester United Player of the Season", "year": "2023" },
+      { "title": "Premier League Player of the Month", "year": "2023" },
+      { "title": "England Young Player of the Year", "year": "2022" }
+    ]
+  },
+  {
+    "id": 67,
+    "name": "Alejandro Garnacho",
+    "photo": "https://cdn.sofifa.net/players/268/438/25_120.png",
+    "number": 11,
+    "position": "Winger",
+    "nationality": "Argentina",
+    "age": 20,
+    "height": "1.79 m",
+    "weight": "70 kg",
+    "team": "Manchester United",
+    "birthday": "July 1, 2004",
+    "image": "garnacho.jpg",
+    "appearances": 120,
+    "goals": 30,
+    "assists": 25,
+    "cards": "20 / 0",
+    "bio": "Alejandro Garnacho is an exciting and direct winger known for his flair, dribbling, and eye for spectacular goals.",
+    "seasons": [
+      { "year": 2022, "team": "Manchester United", "goals": 6, "assists": 4, "yellow": 3, "red": 0 },
+      { "year": 2023, "team": "Manchester United", "goals": 8, "assists": 6, "yellow": 4, "red": 0 },
+      { "year": 2024, "team": "Manchester United", "goals": 9, "assists": 7, "yellow": 3, "red": 0 },
+      { "year": 2025, "team": "Manchester United", "goals": 10, "assists": 8, "yellow": 4, "red": 0 },
+      { "year": 2026, "team": "Manchester United", "goals": 5, "assists": 4, "yellow": 2, "red": 0 }
+    ],
+    "clubsPlayed": ["Atletico Madrid Academy", "Manchester United (2020–present)"],
+    "trophies": [
+      { "title": "FA Cup", "year": "2024" },
+      { "title": "League Cup", "year": "2023" },
+      { "title": "Copa America", "year": "2024" }
+    ],
+    "awards": [
+      { "title": "Premier League Goal of the Season", "year": "2024" },
+      { "title": "Manchester United Young Player of the Season", "year": "2024" },
+      { "title": "Golden Boy Nominee", "year": "2024" }
+    ]
+  },
+  {
+    "id": 68,
+    "name": "Lisandro Martínez",
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtNzuOBLGm1058OrD_rphCRbLveZxV3t7N4w&s",
+    "number": 6,
+    "position": "Defender",
+    "nationality": "Argentina",
+    "age": 26,
+    "height": "1.75 m",
+    "weight": "76 kg",
+    "team": "Manchester United",
+    "birthday": "January 18, 1998",
+    "image": "lisandro.jpg",
+    "appearances": 180,
+    "goals": 8,
+    "assists": 5,
+    "cards": "55 / 2",
+    "bio": "Lisandro Martínez is an aggressive and commanding centre-back known for his tenacity, composure, and leadership.",
+    "seasons": [
+      { "year": 2022, "team": "Manchester United", "goals": 2, "assists": 1, "yellow": 9, "red": 1 },
+      { "year": 2023, "team": "Manchester United", "goals": 1, "assists": 1, "yellow": 8, "red": 0 },
+      { "year": 2024, "team": "Manchester United", "goals": 2, "assists": 1, "yellow": 7, "red": 0 },
+      { "year": 2025, "team": "Manchester United", "goals": 2, "assists": 1, "yellow": 7, "red": 0 },
+      { "year": 2026, "team": "Manchester United", "goals": 1, "assists": 1, "yellow": 4, "red": 0 }
+    ],
+    "clubsPlayed": ["Defensa y Justicia (2016–2019)", "Ajax (2019–2022)", "Manchester United (2022–present)"],
+    "trophies": [
+      { "title": "World Cup Winner", "year": "2022" },
+      { "title": "FA Cup", "year": "2024" },
+      { "title": "Copa America", "year": "2024" }
+    ],
+    "awards": [
+      { "title": "Manchester United Best Defender", "year": "2023" },
+      { "title": "Argentina Best Defender", "year": "2022" },
+      { "title": "Premier League Best Defender Nominee", "year": "2023" }
+    ]
+  },
+  {
+    "id": 69,
+    "name": "Enzo Fernández",
+    "photo": "https://www.fifarosters.com/assets/players/fifa24/faces/247090.png",
+    "number": 8,
+    "position": "Midfielder",
+    "nationality": "Argentina",
+    "age": 23,
+    "height": "1.78 m",
+    "weight": "73 kg",
+    "team": "Chelsea",
+    "birthday": "January 17, 2001",
+    "image": "enzofernandez.jpg",
+    "appearances": 160,
+    "goals": 20,
+    "assists": 30,
+    "cards": "50 / 2",
+    "bio": "Enzo Fernández is a dynamic and technically gifted midfielder whose composure and vision belie his young age.",
+    "seasons": [
+      { "year": 2022, "team": "Benfica", "goals": 6, "assists": 7, "yellow": 5, "red": 0 },
+      { "year": 2023, "team": "Chelsea", "goals": 4, "assists": 5, "yellow": 8, "red": 0 },
+      { "year": 2024, "team": "Chelsea", "goals": 5, "assists": 7, "yellow": 7, "red": 0 },
+      { "year": 2025, "team": "Chelsea", "goals": 6, "assists": 8, "yellow": 6, "red": 0 },
+      { "year": 2026, "team": "Chelsea", "goals": 3, "assists": 4, "yellow": 3, "red": 0 }
+    ],
+    "clubsPlayed": ["River Plate (2019–2022)", "Benfica (2022–2023)", "Chelsea (2023–present)"],
+    "trophies": [
+      { "title": "World Cup Winner", "year": "2022" },
+      { "title": "Copa America", "year": "2024" },
+      { "title": "Primeira Liga", "year": "2023" }
+    ],
+    "awards": [
+      { "title": "World Cup Best Young Player", "year": "2022" },
+      { "title": "Chelsea Player of the Season", "year": "2025" },
+      { "title": "Argentina Best Young Player", "year": "2022" }
+    ]
+  },
+  {
+    "id": 70,
+    "name": "Cole Palmer",
+    "photo": "https://cdn.sofifa.net/players/257/534/25_120.png",
+    "number": 20,
+    "position": "Attacking Midfielder",
+    "nationality": "England",
+    "age": 22,
+    "height": "1.89 m",
+    "weight": "72 kg",
+    "team": "Chelsea",
+    "birthday": "May 6, 2002",
+    "image": "colepalmer.jpg",
+    "appearances": 120,
+    "goals": 55,
+    "assists": 40,
+    "cards": "15 / 0",
+    "bio": "Cole Palmer is a composed and technically brilliant attacking midfielder known for his clever play, finishing, and creativity.",
+    "seasons": [
+      { "year": 2022, "team": "Manchester City", "goals": 2, "assists": 2, "yellow": 1, "red": 0 },
+      { "year": 2023, "team": "Chelsea", "goals": 22, "assists": 11, "yellow": 3, "red": 0 },
+      { "year": 2024, "team": "Chelsea", "goals": 18, "assists": 10, "yellow": 3, "red": 0 },
+      { "year": 2025, "team": "Chelsea", "goals": 20, "assists": 12, "yellow": 2, "red": 0 },
+      { "year": 2026, "team": "Chelsea", "goals": 10, "assists": 6, "yellow": 1, "red": 0 }
+    ],
+    "clubsPlayed": ["Manchester City (2020–2023)", "Chelsea (2023–present)"],
+    "trophies": [
+      { "title": "FA Cup", "year": "2023" },
+      { "title": "Euro Winner", "year": "2024" },
+      { "title": "Premier League", "year": "2025" }
+    ],
+    "awards": [
+      { "title": "Premier League Young Player of the Season", "year": "2024" },
+      { "title": "Chelsea Player of the Season", "year": "2024" },
+      { "title": "England Young Player of the Year", "year": "2024" }
+    ]
+  },
+  {
+    "id": 71,
+    "name": "Moisés Caicedo",
+    "photo": "https://cdn.sofifa.net/players/241/852/25_120.png",
+    "number": 25,
+    "position": "Midfielder",
+    "nationality": "Ecuador",
+    "age": 23,
+    "height": "1.80 m",
+    "weight": "75 kg",
+    "team": "Chelsea",
+    "birthday": "November 2, 2001",
+    "image": "caicedo.jpg",
+    "appearances": 160,
+    "goals": 10,
+    "assists": 15,
+    "cards": "65 / 2",
+    "bio": "Moisés Caicedo is an energetic and tenacious defensive midfielder known for his ball recovery and intensity.",
+    "seasons": [
+      { "year": 2022, "team": "Brighton", "goals": 1, "assists": 3, "yellow": 9, "red": 0 },
+      { "year": 2023, "team": "Chelsea", "goals": 2, "assists": 3, "yellow": 11, "red": 0 },
+      { "year": 2024, "team": "Chelsea", "goals": 3, "assists": 4, "yellow": 10, "red": 1 },
+      { "year": 2025, "team": "Chelsea", "goals": 3, "assists": 4, "yellow": 9, "red": 0 },
+      { "year": 2026, "team": "Chelsea", "goals": 1, "assists": 2, "yellow": 5, "red": 0 }
+    ],
+    "clubsPlayed": ["Independiente del Valle (2019–2021)", "Brighton (2021–2023)", "Chelsea (2023–present)"],
+    "trophies": [
+      { "title": "Premier League", "year": "2025" },
+      { "title": "Copa America Runner-Up", "year": "2021" },
+      { "title": "FA Cup", "year": "2025" }
+    ],
+    "awards": [
+      { "title": "Brighton Player of the Season", "year": "2023" },
+      { "title": "Ecuador Player of the Year", "year": "2023" },
+      { "title": "Premier League Best Defensive Midfielder", "year": "2025" }
+    ]
+  },
+  {
+    "id": 72,
+    "name": "Darwin Núñez",
+    "photo": "https://cdn.sofifa.net/players/some_placeholder.png",
+    "number": 9,
+    "position": "Striker",
+    "nationality": "Uruguay",
+    "age": 24,
+    "height": "1.87 m",
+    "weight": "81 kg",
+    "team": "Liverpool",
+    "birthday": "June 24, 2000",
+    "image": "nunez.jpg",
+    "appearances": 160,
+    "goals": 70,
+    "assists": 30,
+    "cards": "30 / 1",
+    "bio": "Darwin Núñez is a powerful and explosive striker known for his pace, aerial ability, and direct running.",
+    "seasons": [
+      { "year": 2022, "team": "Liverpool", "goals": 9, "assists": 6, "yellow": 5, "red": 1 },
+      { "year": 2023, "team": "Liverpool", "goals": 18, "assists": 8, "yellow": 4, "red": 0 },
+      { "year": 2024, "team": "Liverpool", "goals": 19, "assists": 7, "yellow": 5, "red": 0 },
+      { "year": 2025, "team": "Liverpool", "goals": 22, "assists": 9, "yellow": 4, "red": 0 },
+      { "year": 2026, "team": "Liverpool", "goals": 11, "assists": 4, "yellow": 2, "red": 0 }
+    ],
+    "clubsPlayed": ["Almeria (2019–2020)", "Benfica (2020–2022)", "Liverpool (2022–present)"],
+    "trophies": [
+      { "title": "Premier League", "year": "2025" },
+      { "title": "League Cup", "year": "2024" },
+      { "title": "Copa America", "year": "2024" }
+    ],
+    "awards": [
+      { "title": "Liverpool Player of the Month", "year": "2025" },
+      { "title": "Uruguay Player of the Year", "year": "2024" },
+      { "title": "Premier League Top Scorer", "year": "2025" }
+    ]
+  },
+  {
+    "id": 73,
+    "name": "Trent Alexander-Arnold",
+    "photo": "https://cdn.sofifa.net/players/231/281/25_120.png",
+    "number": 66,
+    "position": "Defender",
+    "nationality": "England",
+    "age": 26,
+    "height": "1.80 m",
+    "weight": "69 kg",
+    "team": "Liverpool",
+    "birthday": "October 7, 1998",
+    "image": "trentarnold.jpg",
+    "appearances": 320,
+    "goals": 30,
+    "assists": 95,
+    "cards": "35 / 0",
+    "bio": "Trent Alexander-Arnold is a revolutionary right-back who operates more like a creative midfielder with his exceptional passing range.",
+    "seasons": [
+      { "year": 2022, "team": "Liverpool", "goals": 3, "assists": 12, "yellow": 4, "red": 0 },
+      { "year": 2023, "team": "Liverpool", "goals": 4, "assists": 14, "yellow": 3, "red": 0 },
+      { "year": 2024, "team": "Liverpool", "goals": 5, "assists": 16, "yellow": 3, "red": 0 },
+      { "year": 2025, "team": "Liverpool", "goals": 6, "assists": 18, "yellow": 4, "red": 0 },
+      { "year": 2026, "team": "Liverpool", "goals": 3, "assists": 9, "yellow": 2, "red": 0 }
+    ],
+    "clubsPlayed": ["Liverpool (2016–present)"],
+    "trophies": [
+      { "title": "Champions League", "year": "2019" },
+      { "title": "Premier League", "year": "2020" },
+      { "title": "Premier League", "year": "2025" }
+    ],
+    "awards": [
+      { "title": "Premier League Best Right-Back", "year": "2022" },
+      { "title": "UEFA Team of the Year", "year": "2022" },
+      { "title": "Liverpool Player of the Season", "year": "2025" }
+    ]
+  },
+  {
+    "id": 74,
+    "name": "Alisson Becker",
+    "photo": "https://cdn.sofifa.net/players/212/831/25_120.png",
+    "number": 1,
+    "position": "Goalkeeper",
+    "nationality": "Brazil",
+    "age": 31,
+    "height": "1.91 m",
+    "weight": "91 kg",
+    "team": "Liverpool",
+    "birthday": "October 2, 1992",
+    "image": "alisson.jpg",
+    "appearances": 340,
+    "goals": 1,
+    "assists": 2,
+    "cards": "10 / 0",
+    "bio": "Alisson Becker is widely regarded as one of the best goalkeepers in the world, known for his shot-stopping, distribution, and commanding presence.",
+    "seasons": [
+      { "year": 2022, "team": "Liverpool", "goals": 0, "assists": 0, "yellow": 1, "red": 0 },
+      { "year": 2023, "team": "Liverpool", "goals": 0, "assists": 1, "yellow": 1, "red": 0 },
+      { "year": 2024, "team": "Liverpool", "goals": 0, "assists": 0, "yellow": 2, "red": 0 },
+      { "year": 2025, "team": "Liverpool", "goals": 0, "assists": 1, "yellow": 1, "red": 0 },
+      { "year": 2026, "team": "Liverpool", "goals": 0, "assists": 0, "yellow": 1, "red": 0 }
+    ],
+    "clubsPlayed": ["Internacional (2013–2016)", "Roma (2016–2018)", "Liverpool (2018–present)"],
+    "trophies": [
+      { "title": "Champions League", "year": "2019" },
+      { "title": "Premier League", "year": "2020" },
+      { "title": "Premier League", "year": "2025" }
+    ],
+    "awards": [
+      { "title": "Yashin Trophy", "year": "2019" },
+      { "title": "FIFA Best Goalkeeper", "year": "2019" },
+      { "title": "Premier League Best Goalkeeper", "year": "2025" }
+    ]
+  },
+  {
+    "id": 75,
+    "name": "Andrew Robertson",
+    "photo": "https://cdn.sofifa.net/players/216/267/25_120.png",
+    "number": 26,
+    "position": "Defender",
+    "nationality": "Scotland",
+    "age": 30,
+    "height": "1.78 m",
+    "weight": "64 kg",
+    "team": "Liverpool",
+    "birthday": "March 11, 1994",
+    "image": "robertson.jpg",
+    "appearances": 360,
+    "goals": 15,
+    "assists": 80,
+    "cards": "55 / 1",
+    "bio": "Andrew Robertson is a dynamic and energetic left-back known for his relentless pressing, crossing, and leadership.",
+    "seasons": [
+      { "year": 2022, "team": "Liverpool", "goals": 2, "assists": 10, "yellow": 6, "red": 0 },
+      { "year": 2023, "team": "Liverpool", "goals": 3, "assists": 9, "yellow": 7, "red": 0 },
+      { "year": 2024, "team": "Liverpool", "goals": 2, "assists": 11, "yellow": 6, "red": 0 },
+      { "year": 2025, "team": "Liverpool", "goals": 3, "assists": 12, "yellow": 5, "red": 0 },
+      { "year": 2026, "team": "Liverpool", "goals": 2, "assists": 6, "yellow": 3, "red": 0 }
+    ],
+    "clubsPlayed": ["Queen's Park (2012–2013)", "Dundee United (2013–2014)", "Hull City (2014–2017)", "Liverpool (2017–present)"],
+    "trophies": [
+      { "title": "Champions League", "year": "2019" },
+      { "title": "Premier League", "year": "2020" },
+      { "title": "Premier League", "year": "2025" }
+    ],
+    "awards": [
+      { "title": "Premier League Best Left-Back", "year": "2022" },
+      { "title": "Scotland Player of the Year", "year": "2023" },
+      { "title": "Liverpool Player of the Season", "year": "2023" }
+    ]
+  },
+  {
+    "id": 76,
+    "name": "Kai Havertz",
+    "photo": "https://cdn.sofifa.net/players/235/790/25_120.png",
+    "number": 29,
+    "position": "Forward",
+    "nationality": "Germany",
+    "age": 25,
+    "height": "1.89 m",
+    "weight": "83 kg",
+    "team": "Arsenal",
+    "birthday": "June 11, 1999",
+    "image": "havertz.jpg",
+    "appearances": 260,
+    "goals": 65,
+    "assists": 45,
+    "cards": "30 / 0",
+    "bio": "Kai Havertz is a versatile forward who can operate as a striker, attacking midfielder, or winger, known for his composure and technical ability.",
+    "seasons": [
+      { "year": 2022, "team": "Chelsea", "goals": 8, "assists": 5, "yellow": 4, "red": 0 },
+      { "year": 2023, "team": "Arsenal", "goals": 13, "assists": 9, "yellow": 3, "red": 0 },
+      { "year": 2024, "team": "Arsenal", "goals": 14, "assists": 10, "yellow": 3, "red": 0 },
+      { "year": 2025, "team": "Arsenal", "goals": 16, "assists": 11, "yellow": 4, "red": 0 },
+      { "year": 2026, "team": "Arsenal", "goals": 8, "assists": 5, "yellow": 2, "red": 0 }
+    ],
+    "clubsPlayed": ["Bayer Leverkusen (2016–2021)", "Chelsea (2021–2023)", "Arsenal (2023–present)"],
+    "trophies": [
+      { "title": "Champions League", "year": "2021" },
+      { "title": "Premier League", "year": "2025" },
+      { "title": "Euro Winner", "year": "2024" }
+    ],
+    "awards": [
+      { "title": "Arsenal Player of the Season", "year": "2025" },
+      { "title": "Germany Best Forward", "year": "2024" },
+      { "title": "Premier League Player of the Month", "year": "2025" }
+    ]
+  },
+  {
+    "id": 77,
+    "name": "William Saliba",
+    "photo": "https://img.uefa.com/imgml/TP/players/1/2026/324x324/250127439.jpg",
+    "number": 12,
+    "position": "Defender",
+    "nationality": "France",
+    "age": 23,
+    "height": "1.92 m",
+    "weight": "84 kg",
+    "team": "Arsenal",
+    "birthday": "March 24, 2001",
+    "image": "saliba.jpg",
+    "appearances": 180,
+    "goals": 8,
+    "assists": 5,
+    "cards": "20 / 0",
+    "bio": "William Saliba is a composed and physically dominant centre-back who has quickly established himself as one of the best defenders in England.",
+    "seasons": [
+      { "year": 2022, "team": "Arsenal", "goals": 2, "assists": 1, "yellow": 3, "red": 0 },
+      { "year": 2023, "team": "Arsenal", "goals": 2, "assists": 1, "yellow": 3, "red": 0 },
+      { "year": 2024, "team": "Arsenal", "goals": 2, "assists": 1, "yellow": 4, "red": 0 },
+      { "year": 2025, "team": "Arsenal", "goals": 3, "assists": 2, "yellow": 3, "red": 0 },
+      { "year": 2026, "team": "Arsenal", "goals": 1, "assists": 1, "yellow": 2, "red": 0 }
+    ],
+    "clubsPlayed": ["Saint-Etienne (2019–2022)", "Arsenal (2022–present)"],
+    "trophies": [
+      { "title": "Premier League", "year": "2025" },
+      { "title": "FA Cup", "year": "2025" },
+      { "title": "Euro Winner", "year": "2024" }
+    ],
+    "awards": [
+      { "title": "Premier League Best Young Defender", "year": "2023" },
+      { "title": "Arsenal Player of the Season", "year": "2023" },
+      { "title": "PFA Young Player of the Year Nominee", "year": "2024" }
+    ]
+  },
+  {
+    "id": 78,
+    "name": "Gabriel Martinelli",
+    "photo": "https://img.uefa.com/imgml/TP/players/1/2026/324x324/250134304.jpg",
+    "number": 11,
+    "position": "Winger",
+    "nationality": "Brazil",
+    "age": 23,
+    "height": "1.77 m",
+    "weight": "75 kg",
+    "team": "Arsenal",
+    "birthday": "June 18, 2001",
+    "image": "martinelli.jpg",
+    "appearances": 200,
+    "goals": 55,
+    "assists": 35,
+    "cards": "25 / 0",
+    "bio": "Gabriel Martinelli is an energetic and dynamic winger known for his pace, pressing, and ability to cut inside and score.",
+    "seasons": [
+      { "year": 2022, "team": "Arsenal", "goals": 15, "assists": 6, "yellow": 3, "red": 0 },
+      { "year": 2023, "team": "Arsenal", "goals": 12, "assists": 7, "yellow": 4, "red": 0 },
+      { "year": 2024, "team": "Arsenal", "goals": 13, "assists": 8, "yellow": 3, "red": 0 },
+      { "year": 2025, "team": "Arsenal", "goals": 14, "assists": 9, "yellow": 4, "red": 0 },
+      { "year": 2026, "team": "Arsenal", "goals": 7, "assists": 4, "yellow": 2, "red": 0 }
+    ],
+    "clubsPlayed": ["Ituano (2019)", "Arsenal (2019–present)"],
+    "trophies": [
+      { "title": "Premier League", "year": "2025" },
+      { "title": "FA Cup", "year": "2025" },
+      { "title": "Copa America", "year": "2024" }
+    ],
+    "awards": [
+      { "title": "Arsenal Young Player of the Season", "year": "2023" },
+      { "title": "Premier League Player of the Month", "year": "2024" },
+      { "title": "Brazil Young Player of the Year", "year": "2023" }
+    ]
+  },
+  {
+    "id": 79,
+    "name": "Cristian Romero",
+    "photo": "https://cdn.sofifa.net/players/232/488/25_120.png",
+    "number": 17,
+    "position": "Defender",
+    "nationality": "Argentina",
+    "age": 26,
+    "height": "1.85 m",
+    "weight": "78 kg",
+    "team": "Tottenham",
+    "birthday": "March 27, 1998",
+    "image": "romero.jpg",
+    "appearances": 200,
+    "goals": 12,
+    "assists": 8,
+    "cards": "80 / 4",
+    "bio": "Cristian Romero is an aggressive and commanding centre-back known for his tenacious defending, anticipation, and leadership.",
+    "seasons": [
+      { "year": 2022, "team": "Tottenham", "goals": 3, "assists": 2, "yellow": 12, "red": 1 },
+      { "year": 2023, "team": "Tottenham", "goals": 2, "assists": 2, "yellow": 11, "red": 0 },
+      { "year": 2024, "team": "Tottenham", "goals": 3, "assists": 2, "yellow": 10, "red": 0 },
+      { "year": 2025, "team": "Tottenham", "goals": 3, "assists": 2, "yellow": 9, "red": 0 },
+      { "year": 2026, "team": "Tottenham", "goals": 1, "assists": 1, "yellow": 5, "red": 0 }
+    ],
+    "clubsPlayed": ["Belgrano (2015–2017)", "Genoa (2017–2021)", "Atalanta (2021)", "Tottenham (2021–present)"],
+    "trophies": [
+      { "title": "World Cup Winner", "year": "2022" },
+      { "title": "Copa America", "year": "2024" },
+      { "title": "UEFA Conference League", "year": "2023" }
+    ],
+    "awards": [
+      { "title": "Serie A Best Defender", "year": "2021" },
+      { "title": "Argentina Best Defender", "year": "2023" },
+      { "title": "Tottenham Player of the Season", "year": "2024" }
+    ]
+  },
+  {
+    "id": 80,
+    "name": "James Maddison",
+    "photo": "https://cdn.sofifa.net/players/220/697/25_120.png",
+    "number": 10,
+    "position": "Midfielder",
+    "nationality": "England",
+    "age": 27,
+    "height": "1.78 m",
+    "weight": "73 kg",
+    "team": "Tottenham",
+    "birthday": "November 23, 1996",
+    "image": "maddison.jpg",
+    "appearances": 280,
+    "goals": 70,
+    "assists": 80,
+    "cards": "50 / 1",
+    "bio": "James Maddison is a creative and technically gifted attacking midfielder known for his set-pieces, vision, and ability to create and score goals.",
+    "seasons": [
+      { "year": 2022, "team": "Leicester City", "goals": 12, "assists": 9, "yellow": 6, "red": 0 },
+      { "year": 2023, "team": "Tottenham", "goals": 11, "assists": 10, "yellow": 7, "red": 0 },
+      { "year": 2024, "team": "Tottenham", "goals": 13, "assists": 12, "yellow": 6, "red": 0 },
+      { "year": 2025, "team": "Tottenham", "goals": 14, "assists": 13, "yellow": 5, "red": 0 },
+      { "year": 2026, "team": "Tottenham", "goals": 7, "assists": 6, "yellow": 3, "red": 0 }
+    ],
+    "clubsPlayed": ["Coventry City (2015–2016)", "Norwich City (2016–2018)", "Leicester City (2018–2023)", "Tottenham (2023–present)"],
+    "trophies": [
+      { "title": "FA Cup", "year": "2021" },
+      { "title": "UEFA Conference League", "year": "2023" },
+      { "title": "League Cup", "year": "2025" }
+    ],
+    "awards": [
+      { "title": "Premier League Player of the Month", "year": "2024" },
+      { "title": "Tottenham Player of the Season", "year": "2025" },
+      { "title": "England Breakthrough Player", "year": "2023" }
+    ]
+  },
+  {
+    "id": 81,
+    "name": "Mikel Oyarzabal",
+    "photo": "https://cdn.sofifa.net/players/some_placeholder.png",
+    "number": 10,
+    "position": "Forward",
+    "nationality": "Spain",
+    "age": 27,
+    "height": "1.78 m",
+    "weight": "72 kg",
+    "team": "Real Sociedad",
+    "birthday": "April 21, 1997",
+    "image": "oyarzabal.jpg",
+    "appearances": 280,
+    "goals": 100,
+    "assists": 70,
+    "cards": "40 / 0",
+    "bio": "Mikel Oyarzabal is a dynamic and versatile forward known for his finishing, link-up play, and ability to perform in crucial moments.",
+    "seasons": [
+      { "year": 2022, "team": "Real Sociedad", "goals": 6, "assists": 7, "yellow": 4, "red": 0 },
+      { "year": 2023, "team": "Real Sociedad", "goals": 11, "assists": 9, "yellow": 5, "red": 0 },
+      { "year": 2024, "team": "Real Sociedad", "goals": 13, "assists": 10, "yellow": 4, "red": 0 },
+      { "year": 2025, "team": "Real Sociedad", "goals": 15, "assists": 11, "yellow": 4, "red": 0 },
+      { "year": 2026, "team": "Real Sociedad", "goals": 7, "assists": 5, "yellow": 2, "red": 0 }
+    ],
+    "clubsPlayed": ["Real Sociedad (2014–present)"],
+    "trophies": [
+      { "title": "Copa del Rey", "year": "2020" },
+      { "title": "Euro Winner", "year": "2024" },
+      { "title": "Nations League", "year": "2023" }
+    ],
+    "awards": [
+      { "title": "Euro Best Goal", "year": "2024" },
+      { "title": "La Liga Best Spanish Player", "year": "2025" },
+      { "title": "Real Sociedad Player of the Season", "year": "2025" }
+    ]
+  },
+  {
+    "id": 82,
+    "name": "Takefusa Kubo",
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbg0K8BOAQLCxPB0bmLtW0I6tJLGu9uDz77g&s",
+    "number": 14,
+    "position": "Winger",
+    "nationality": "Japan",
+    "age": 22,
+    "height": "1.73 m",
+    "weight": "67 kg",
+    "team": "Real Sociedad",
+    "birthday": "June 4, 2001",
+    "image": "kubo.jpg",
+    "appearances": 160,
+    "goals": 35,
+    "assists": 40,
+    "cards": "20 / 0",
+    "bio": "Takefusa Kubo is a technically gifted and agile winger known for his dribbling, creativity, and ability to operate in tight spaces.",
+    "seasons": [
+      { "year": 2022, "team": "Real Sociedad", "goals": 7, "assists": 8, "yellow": 3, "red": 0 },
+      { "year": 2023, "team": "Real Sociedad", "goals": 8, "assists": 9, "yellow": 3, "red": 0 },
+      { "year": 2024, "team": "Real Sociedad", "goals": 9, "assists": 10, "yellow": 4, "red": 0 },
+      { "year": 2025, "team": "Real Sociedad", "goals": 10, "assists": 11, "yellow": 3, "red": 0 },
+      { "year": 2026, "team": "Real Sociedad", "goals": 5, "assists": 5, "yellow": 2, "red": 0 }
+    ],
+    "clubsPlayed": ["Barcelona Academy", "Real Madrid Academy", "Real Sociedad (2022–present)"],
+    "trophies": [
+      { "title": "J1 League", "year": "2019" },
+      { "title": "Copa del Rey Runner-Up", "year": "2023" },
+      { "title": "Asian Games Gold Medal", "year": "2022" }
+    ],
+    "awards": [
+      { "title": "La Liga Best Young Player", "year": "2024" },
+      { "title": "Japan Player of the Year", "year": "2024" },
+      { "title": "Real Sociedad Player of the Season", "year": "2024" }
+    ]
+  },
+  {
+    "id": 83,
+    "name": "Memphis Depay",
+    "photo": "https://cdn.sofifa.net/players/202/556/25_120.png",
+    "number": 9,
+    "position": "Forward",
+    "nationality": "Netherlands",
+    "age": 30,
+    "height": "1.76 m",
+    "weight": "78 kg",
+    "team": "Atletico Madrid",
+    "birthday": "February 13, 1994",
+    "image": "memphis.jpg",
+    "appearances": 420,
+    "goals": 180,
+    "assists": 120,
+    "cards": "65 / 3",
+    "bio": "Memphis Depay is a creative and versatile forward known for his flair, dribbling, and prolific goal-scoring.",
+    "seasons": [
+      { "year": 2022, "team": "Atletico Madrid", "goals": 12, "assists": 7, "yellow": 7, "red": 0 },
+      { "year": 2023, "team": "Atletico Madrid", "goals": 10, "assists": 6, "yellow": 8, "red": 0 },
+      { "year": 2024, "team": "Atletico Madrid", "goals": 11, "assists": 7, "yellow": 7, "red": 0 },
+      { "year": 2025, "team": "Atletico Madrid", "goals": 12, "assists": 8, "yellow": 6, "red": 0 },
+      { "year": 2026, "team": "Atletico Madrid", "goals": 6, "assists": 4, "yellow": 3, "red": 0 }
+    ],
+    "clubsPlayed": ["PSV (2011–2015)", "Manchester United (2015–2017)", "Lyon (2017–2021)", "Barcelona (2021–2022)", "Atletico Madrid (2022–present)"],
+    "trophies": [
+      { "title": "Ligue 1 Champion", "year": "2019" },
+      { "title": "Eredivisie", "year": "2014" },
+      { "title": "UEFA Nations League Runner-Up", "year": "2023" }
+    ],
+    "awards": [
+      { "title": "Ligue 1 Best Player", "year": "2020" },
+      { "title": "Netherlands Player of the Year", "year": "2022" },
+      { "title": "La Liga Best Forward Nominee", "year": "2024" }
+    ]
+  },
+  {
+    "id": 84,
+    "name": "Jan Oblak",
+    "photo": "https://cdn.sofifa.net/players/200/389/25_120.png",
+    "number": 13,
+    "position": "Goalkeeper",
+    "nationality": "Slovenia",
+    "age": 31,
+    "height": "1.88 m",
+    "weight": "87 kg",
+    "team": "Atletico Madrid",
+    "birthday": "January 7, 1993",
+    "image": "oblak.jpg",
+    "appearances": 480,
+    "goals": 0,
+    "assists": 0,
+    "cards": "20 / 1",
+    "bio": "Jan Oblak is one of the world's elite goalkeepers, renowned for his reflexes, positioning, and consistency in La Liga.",
+    "seasons": [
+      { "year": 2022, "team": "Atletico Madrid", "goals": 0, "assists": 0, "yellow": 2, "red": 0 },
+      { "year": 2023, "team": "Atletico Madrid", "goals": 0, "assists": 0, "yellow": 3, "red": 0 },
+      { "year": 2024, "team": "Atletico Madrid", "goals": 0, "assists": 0, "yellow": 2, "red": 0 },
+      { "year": 2025, "team": "Atletico Madrid", "goals": 0, "assists": 0, "yellow": 2, "red": 0 },
+      { "year": 2026, "team": "Atletico Madrid", "goals": 0, "assists": 0, "yellow": 1, "red": 0 }
+    ],
+    "clubsPlayed": ["Olimpija (2009–2010)", "Beira-Mar (2010–2012)", "Benfica (2012–2014)", "Atletico Madrid (2014–present)"],
+    "trophies": [
+      { "title": "La Liga Champion", "year": "2021" },
+      { "title": "Europa League", "year": "2018" },
+      { "title": "Copa del Rey", "year": "2022" }
+    ],
+    "awards": [
+      { "title": "Zamora Trophy", "year": "2022" },
+      { "title": "La Liga Best Goalkeeper", "year": "2024" },
+      { "title": "Yashin Trophy Nominee", "year": "2023" }
+    ]
+  },
+  {
+    "id": 85,
+    "name": "Ciro Immobile",
+    "photo": "https://cdn.sofifa.net/players/192/387/25_120.png",
+    "number": 17,
+    "position": "Striker",
+    "nationality": "Italy",
+    "age": 34,
+    "height": "1.85 m",
+    "weight": "80 kg",
+    "team": "Lazio",
+    "birthday": "February 20, 1990",
+    "image": "immobile.jpg",
+    "appearances": 480,
+    "goals": 280,
+    "assists": 80,
+    "cards": "70 / 2",
+    "bio": "Ciro Immobile is a prolific and intelligent striker who has broken numerous Serie A scoring records throughout his career.",
+    "seasons": [
+      { "year": 2022, "team": "Lazio", "goals": 15, "assists": 5, "yellow": 5, "red": 0 },
+      { "year": 2023, "team": "Lazio", "goals": 13, "assists": 4, "yellow": 6, "red": 0 },
+      { "year": 2024, "team": "Lazio", "goals": 11, "assists": 4, "yellow": 5, "red": 0 },
+      { "year": 2025, "team": "Lazio", "goals": 10, "assists": 3, "yellow": 4, "red": 0 },
+      { "year": 2026, "team": "Lazio", "goals": 5, "assists": 2, "yellow": 2, "red": 0 }
+    ],
+    "clubsPlayed": ["Juventus (2009–2013)", "Torino (2013–2014)", "Sevilla (2014)", "SS Lazio (2014–present)"],
+    "trophies": [
+      { "title": "Euro Winner", "year": "2021" },
+      { "title": "Coppa Italia", "year": "2019" },
+      { "title": "Serie A Runner-Up", "year": "2022" }
+    ],
+    "awards": [
+      { "title": "European Golden Shoe", "year": "2020" },
+      { "title": "Serie A Top Scorer", "year": "2023" },
+      { "title": "Italy Player of the Year", "year": "2020" }
+    ]
+  },
+  {
+    "id": 86,
+    "name": "Sergej Milinković-Savić",
+    "photo": "https://cdn.sofifa.net/players/223/848/25_120.png",
+    "number": 21,
+    "position": "Midfielder",
+    "nationality": "Serbia",
+    "age": 29,
+    "height": "1.91 m",
+    "weight": "83 kg",
+    "team": "Al Hilal",
+    "birthday": "February 27, 1995",
+    "image": "milinkovic.jpg",
+    "appearances": 380,
+    "goals": 80,
+    "assists": 100,
+    "cards": "90 / 3",
+    "bio": "Sergej Milinković-Savić is a physically imposing and technically skilled midfielder known for his aerial ability, passing, and goals.",
+    "seasons": [
+      { "year": 2022, "team": "Lazio", "goals": 11, "assists": 12, "yellow": 9, "red": 0 },
+      { "year": 2023, "team": "Al Hilal", "goals": 10, "assists": 11, "yellow": 7, "red": 0 },
+      { "year": 2024, "team": "Al Hilal", "goals": 12, "assists": 13, "yellow": 8, "red": 0 },
+      { "year": 2025, "team": "Al Hilal", "goals": 11, "assists": 12, "yellow": 7, "red": 0 },
+      { "year": 2026, "team": "Al Hilal", "goals": 5, "assists": 6, "yellow": 3, "red": 0 }
+    ],
+    "clubsPlayed": ["Vojvodina (2012–2014)", "Genk (2014–2015)", "Lazio (2015–2023)", "Al Hilal (2023–present)"],
+    "trophies": [
+      { "title": "Coppa Italia", "year": "2019" },
+      { "title": "Saudi Pro League", "year": "2024" },
+      { "title": "Italian Super Cup", "year": "2019" }
+    ],
+    "awards": [
+      { "title": "Serie A Best Midfielder", "year": "2022" },
+      { "title": "Serbia Player of the Year", "year": "2023" },
+      { "title": "Saudi Pro League Best Midfielder", "year": "2024" }
+    ]
+  },
+  {
+    "id": 87,
+    "name": "Yassine Bounou",
+    "photo": "https://cdn.sofifa.net/players/209/981/25_120.png",
+    "number": 1,
+    "position": "Goalkeeper",
+    "nationality": "Morocco",
+    "age": 32,
+    "height": "1.92 m",
+    "weight": "84 kg",
+    "team": "Al Hilal",
+    "birthday": "April 5, 1991",
+    "image": "bounou.jpg",
+    "appearances": 280,
+    "goals": 0,
+    "assists": 0,
+    "cards": "15 / 0",
+    "bio": "Yassine Bounou is an agile and commanding goalkeeper who starred during Morocco's historic World Cup 2022 run.",
+    "seasons": [
+      { "year": 2022, "team": "Sevilla", "goals": 0, "assists": 0, "yellow": 2, "red": 0 },
+      { "year": 2023, "team": "Al Hilal", "goals": 0, "assists": 0, "yellow": 2, "red": 0 },
+      { "year": 2024, "team": "Al Hilal", "goals": 0, "assists": 0, "yellow": 2, "red": 0 },
+      { "year": 2025, "team": "Al Hilal", "goals": 0, "assists": 0, "yellow": 1, "red": 0 },
+      { "year": 2026, "team": "Al Hilal", "goals": 0, "assists": 0, "yellow": 1, "red": 0 }
+    ],
+    "clubsPlayed": ["Wydad (2010–2014)", "Atletico Madrid (2014–2016)", "Girona (2016–2019)", "Sevilla (2019–2023)", "Al Hilal (2023–present)"],
+    "trophies": [
+      { "title": "Europa League", "year": "2023" },
+      { "title": "World Cup 4th Place", "year": "2022" },
+      { "title": "Saudi Pro League", "year": "2024" }
+    ],
+    "awards": [
+      { "title": "World Cup Best Goalkeeper", "year": "2022" },
+      { "title": "African Player of the Year Nominee", "year": "2023" },
+      { "title": "Morocco Player of the Year", "year": "2022" }
+    ]
+  },
+  {
+    "id": 88,
+    "name": "Sadio Mané",
+    "photo": "https://cdn.sofifa.net/players/208/722/25_120.png",
+    "number": 10,
+    "position": "Forward",
+    "nationality": "Senegal",
+    "age": 32,
+    "height": "1.74 m",
+    "weight": "69 kg",
+    "team": "Al Nassr",
+    "birthday": "April 10, 1992",
+    "image": "mane.jpg",
+    "appearances": 550,
+    "goals": 270,
+    "assists": 120,
+    "cards": "60 / 2",
+    "bio": "Sadio Mané is an explosive and direct winger known for his pace, dribbling, and prolific goal-scoring at the highest level.",
+    "seasons": [
+      { "year": 2022, "team": "Bayern Munich", "goals": 12, "assists": 5, "yellow": 3, "red": 0 },
+      { "year": 2023, "team": "Al Nassr", "goals": 14, "assists": 6, "yellow": 4, "red": 0 },
+      { "year": 2024, "team": "Al Nassr", "goals": 16, "assists": 7, "yellow": 3, "red": 0 },
+      { "year": 2025, "team": "Al Nassr", "goals": 15, "assists": 6, "yellow": 3, "red": 0 },
+      { "year": 2026, "team": "Al Nassr", "goals": 7, "assists": 3, "yellow": 2, "red": 0 }
+    ],
+    "clubsPlayed": ["Metz (2011–2012)", "Red Bull Salzburg (2012–2014)", "Southampton (2014–2016)", "Liverpool (2016–2022)", "Bayern Munich (2022–2023)", "Al Nassr (2023–present)"],
+    "trophies": [
+      { "title": "Champions League", "year": "2019" },
+      { "title": "Africa Cup of Nations", "year": "2022" },
+      { "title": "Premier League", "year": "2020" }
+    ],
+    "awards": [
+      { "title": "African Player of the Year", "year": "2022" },
+      { "title": "Premier League Player of the Season", "year": "2019" },
+      { "title": "Africa Cup of Nations Best Player", "year": "2022" }
+    ]
+  },
+  {
+    "id": 89,
+    "name": "Kalidou Koulibaly",
+    "photo": "https://cdn.sofifa.net/players/201/024/25_120.png",
+    "number": 3,
+    "position": "Defender",
+    "nationality": "Senegal",
+    "age": 32,
+    "height": "1.87 m",
+    "weight": "89 kg",
+    "team": "Al Hilal",
+    "birthday": "June 20, 1991",
+    "image": "koulibaly.jpg",
+    "appearances": 450,
+    "goals": 20,
+    "assists": 10,
+    "cards": "100 / 5",
+    "bio": "Kalidou Koulibaly is a physically imposing centre-back known for his strength, pace, and commanding defensive presence.",
+    "seasons": [
+      { "year": 2022, "team": "Chelsea", "goals": 2, "assists": 1, "yellow": 8, "red": 0 },
+      { "year": 2023, "team": "Al Hilal", "goals": 3, "assists": 1, "yellow": 7, "red": 0 },
+      { "year": 2024, "team": "Al Hilal", "goals": 2, "assists": 1, "yellow": 7, "red": 0 },
+      { "year": 2025, "team": "Al Hilal", "goals": 2, "assists": 2, "yellow": 6, "red": 0 },
+      { "year": 2026, "team": "Al Hilal", "goals": 1, "assists": 1, "yellow": 3, "red": 0 }
+    ],
+    "clubsPlayed": ["Genk (2009–2012)", "Napoli (2012–2022)", "Chelsea (2022–2023)", "Al Hilal (2023–present)"],
+    "trophies": [
+      { "title": "Africa Cup of Nations", "year": "2022" },
+      { "title": "Serie A Runner-Up", "year": "2018" },
+      { "title": "Saudi Pro League", "year": "2024" }
+    ],
+    "awards": [
+      { "title": "Serie A Best Defender", "year": "2019" },
+      { "title": "African Player of the Year Nominee", "year": "2022" },
+      { "title": "Senegal Player of the Year", "year": "2023" }
+    ]
+  },
+  {
+    "id": 90,
+    "name": "Marcelo Brozović",
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTU73Z5LcrJcGzvX5akram2YdDFFuoT6OIRA&s",
+    "number": 77,
+    "position": "Midfielder",
+    "nationality": "Croatia",
+    "age": 31,
+    "height": "1.81 m",
+    "weight": "74 kg",
+    "team": "Al Nassr",
+    "birthday": "November 16, 1992",
+    "image": "brozovic.jpg",
+    "appearances": 420,
+    "goals": 40,
+    "assists": 80,
+    "cards": "130 / 5",
+    "bio": "Marcelo Brozović is a dynamic and influential midfielder known for his stamina, ball-winning, and creativity in the heart of midfield.",
+    "seasons": [
+      { "year": 2022, "team": "Inter Milan", "goals": 5, "assists": 8, "yellow": 12, "red": 0 },
+      { "year": 2023, "team": "Al Nassr", "goals": 4, "assists": 7, "yellow": 8, "red": 0 },
+      { "year": 2024, "team": "Al Nassr", "goals": 5, "assists": 9, "yellow": 7, "red": 0 },
+      { "year": 2025, "team": "Al Nassr", "goals": 6, "assists": 10, "yellow": 6, "red": 0 },
+      { "year": 2026, "team": "Al Nassr", "goals": 3, "assists": 5, "yellow": 3, "red": 0 }
+    ],
+    "clubsPlayed": ["Lokomotiva Zagreb (2011–2012)", "Dinamo Zagreb (2012–2015)", "Inter Milan (2015–2023)", "Al Nassr (2023–present)"],
+    "trophies": [
+      { "title": "Serie A Champion", "year": "2021" },
+      { "title": "World Cup Bronze Medal", "year": "2022" },
+      { "title": "Coppa Italia", "year": "2022" }
+    ],
+    "awards": [
+      { "title": "Serie A Best Midfielder", "year": "2018" },
+      { "title": "Croatia Player of the Year", "year": "2022" },
+      { "title": "World Cup Team of the Tournament", "year": "2022" }
+    ]
+  },
+  {
+    "id": 91,
+    "name": "Ederson",
+    "photo": "https://cdn.sofifa.net/players/210/257/25_120.png",
+    "number": 31,
+    "position": "Goalkeeper",
+    "nationality": "Brazil",
+    "age": 30,
+    "height": "1.88 m",
+    "weight": "86 kg",
+    "team": "Manchester City",
+    "birthday": "August 17, 1993",
+    "image": "ederson.jpg",
+    "appearances": 320,
+    "goals": 0,
+    "assists": 3,
+    "cards": "10 / 0",
+    "bio": "Ederson is a modern goalkeeper known for his exceptional distribution, sweeping ability, and consistent shot-stopping.",
+    "seasons": [
+      { "year": 2022, "team": "Manchester City", "goals": 0, "assists": 1, "yellow": 1, "red": 0 },
+      { "year": 2023, "team": "Manchester City", "goals": 0, "assists": 1, "yellow": 1, "red": 0 },
+      { "year": 2024, "team": "Manchester City", "goals": 0, "assists": 0, "yellow": 2, "red": 0 },
+      { "year": 2025, "team": "Manchester City", "goals": 0, "assists": 1, "yellow": 1, "red": 0 },
+      { "year": 2026, "team": "Manchester City", "goals": 0, "assists": 0, "yellow": 1, "red": 0 }
+    ],
+    "clubsPlayed": ["Ribeirão (2011–2012)", "Benfica (2012–2017)", "Manchester City (2017–present)"],
+    "trophies": [
+      { "title": "Premier League", "year": "2023" },
+      { "title": "Champions League", "year": "2023" },
+      { "title": "Premier League", "year": "2025" }
+    ],
+    "awards": [
+      { "title": "Premier League Best Goalkeeper", "year": "2023" },
+      { "title": "Yashin Trophy Nominee", "year": "2022" },
+      { "title": "Brazil Player of the Year", "year": "2023" }
+    ]
+  },
+  {
+    "id": 92,
+    "name": "David Alaba",
+    "photo": "https://cdn.sofifa.net/players/197/445/25_120.png",
+    "number": 4,
+    "position": "Defender",
+    "nationality": "Austria",
+    "age": 31,
+    "height": "1.80 m",
+    "weight": "78 kg",
+    "team": "Real Madrid",
+    "birthday": "June 24, 1992",
+    "image": "alaba.jpg",
+    "appearances": 480,
+    "goals": 35,
+    "assists": 55,
+    "cards": "70 / 2",
+    "bio": "David Alaba is a versatile and technically gifted defender who has excelled as a centre-back and left-back throughout his career.",
+    "seasons": [
+      { "year": 2022, "team": "Real Madrid", "goals": 3, "assists": 4, "yellow": 5, "red": 0 },
+      { "year": 2023, "team": "Real Madrid", "goals": 2, "assists": 3, "yellow": 5, "red": 0 },
+      { "year": 2024, "team": "Real Madrid", "goals": 0, "assists": 0, "yellow": 0, "red": 0 },
+      { "year": 2025, "team": "Real Madrid", "goals": 3, "assists": 4, "yellow": 4, "red": 0 },
+      { "year": 2026, "team": "Real Madrid", "goals": 2, "assists": 2, "yellow": 2, "red": 0 }
+    ],
+    "clubsPlayed": ["Bayern Munich (2008–2021)", "Real Madrid (2021–present)"],
+    "trophies": [
+      { "title": "Champions League", "year": "2022" },
+      { "title": "La Liga Champion", "year": "2022" },
+      { "title": "Champions League", "year": "2020" }
+    ],
+    "awards": [
+      { "title": "Bundesliga Best Left-Back", "year": "2020" },
+      { "title": "UEFA Team of the Year", "year": "2020" },
+      { "title": "Austria Player of the Year", "year": "2022" }
+    ]
+  },
+  {
+    "id": 93,
+    "name": "Pepe",
+    "photo": "https://cdn.sofifa.net/players/120/533/25_120.png",
+    "number": 3,
+    "position": "Defender",
+    "nationality": "Portugal",
+    "age": 41,
+    "height": "1.88 m",
+    "weight": "83 kg",
+    "team": "Retired",
+    "birthday": "February 26, 1983",
+    "image": "pepe.jpg",
+    "appearances": 750,
+    "goals": 35,
+    "assists": 15,
+    "cards": "200 / 12",
+    "bio": "Pepe is a legendary defender known for his aggressive tackling, leadership, and longevity at the highest level.",
+    "seasons": [
+      { "year": 2022, "team": "Porto", "goals": 2, "assists": 1, "yellow": 8, "red": 0 },
+      { "year": 2023, "team": "Porto", "goals": 3, "assists": 1, "yellow": 9, "red": 0 },
+      { "year": 2024, "team": "Porto", "goals": 2, "assists": 1, "yellow": 7, "red": 0 },
+      { "year": 2025, "team": "Porto", "goals": 1, "assists": 0, "yellow": 5, "red": 0 },
+      { "year": 2026, "team": "Retired", "goals": 0, "assists": 0, "yellow": 0, "red": 0 }
+    ],
+    "clubsPlayed": ["Maritimo (2001–2004)", "Porto (2004–2007)", "Real Madrid (2007–2017)", "Besiktas (2017–2019)", "Porto (2019–2025)"],
+    "trophies": [
+      { "title": "Champions League", "year": "2018" },
+      { "title": "Euro Winner", "year": "2016" },
+      { "title": "Primeira Liga", "year": "2022" }
+    ],
+    "awards": [
+      { "title": "Euro Best Team", "year": "2016" },
+      { "title": "UEFA Team of the Year", "year": "2017" },
+      { "title": "Portugal Best Defender", "year": "2022" }
+    ]
+  },
+  {
+    "id": 94,
+    "name": "Mesut Özil",
+    "photo": "https://img.a.transfermarkt.technology/portrait/big/35664-1401958641.png?lm=1",
+    "number": 10,
+    "position": "Attacking Midfielder",
+    "nationality": "Germany",
+    "age": 36,
+    "height": "1.80 m",
+    "weight": "76 kg",
+    "team": "Retired",
+    "birthday": "October 15, 1988",
+    "image": "ozil.jpg",
+    "appearances": 620,
+    "goals": 100,
+    "assists": 280,
+    "cards": "55 / 2",
+    "bio": "Mesut Özil is one of the most creative players of his generation, known for his exceptional vision, passing, and technical ability.",
+    "seasons": [
+      { "year": 2022, "team": "Fenerbahce", "goals": 3, "assists": 5, "yellow": 4, "red": 0 },
+      { "year": 2023, "team": "Istanbul Basaksehir", "goals": 2, "assists": 3, "yellow": 3, "red": 0 },
+      { "year": 2024, "team": "Retired", "goals": 0, "assists": 0, "yellow": 0, "red": 0 },
+      { "year": 2025, "team": "Retired", "goals": 0, "assists": 0, "yellow": 0, "red": 0 },
+      { "year": 2026, "team": "Retired", "goals": 0, "assists": 0, "yellow": 0, "red": 0 }
+    ],
+    "clubsPlayed": ["Schalke (2008–2010)", "Werder Bremen (2005–2008)", "Real Madrid (2010–2013)", "Arsenal (2013–2021)", "Fenerbahce (2021–2022)", "Istanbul Basaksehir (2023)"],
+    "trophies": [
+      { "title": "World Cup Winner", "year": "2014" },
+      { "title": "FA Cup", "year": "2020" },
+      { "title": "La Liga Champion", "year": "2012" }
+    ],
+    "awards": [
+      { "title": "World Cup Best Young Player", "year": "2010" },
+      { "title": "FIFA World XI", "year": "2013" },
+      { "title": "Germany Player of the Year", "year": "2013" }
+    ]
+  },
+  {
+    "id": 95,
+    "name": "Eden Hazard",
+    "photo": "https://cdn.sofifa.net/players/183/277/25_120.png",
+    "number": 10,
+    "position": "Winger",
+    "nationality": "Belgium",
+    "age": 33,
+    "height": "1.73 m",
+    "weight": "74 kg",
+    "team": "Retired",
+    "birthday": "January 7, 1991",
+    "image": "hazard.jpg",
+    "appearances": 580,
+    "goals": 180,
+    "assists": 200,
+    "cards": "75 / 1",
+    "bio": "Eden Hazard was one of Europe's most dazzling wingers, known for his balance, dribbling, and ability to create and score goals.",
+    "seasons": [
+      { "year": 2022, "team": "Real Madrid", "goals": 2, "assists": 2, "yellow": 3, "red": 0 },
+      { "year": 2023, "team": "Retired", "goals": 0, "assists": 0, "yellow": 0, "red": 0 },
+      { "year": 2024, "team": "Retired", "goals": 0, "assists": 0, "yellow": 0, "red": 0 },
+      { "year": 2025, "team": "Retired", "goals": 0, "assists": 0, "yellow": 0, "red": 0 },
+      { "year": 2026, "team": "Retired", "goals": 0, "assists": 0, "yellow": 0, "red": 0 }
+    ],
+    "clubsPlayed": ["Lille (2007–2012)", "Chelsea (2012–2019)", "Real Madrid (2019–2023)"],
+    "trophies": [
+      { "title": "Premier League", "year": "2015" },
+      { "title": "FA Cup", "year": "2018" },
+      { "title": "Europa League", "year": "2013" }
+    ],
+    "awards": [
+      { "title": "PFA Players Player of the Year", "year": "2015" },
+      { "title": "Chelsea Player of the Year", "year": "2019" },
+      { "title": "Ligue 1 Player of the Year", "year": "2011" }
+    ]
+  },
+  {
+    "id": 96,
+    "name": "Zlatan Ibrahimović",
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSux8ebXcBZHEu1Hrlj-0kr9kQPlxxBl9Mv3A&s",
+    "number": 11,
+    "position": "Striker",
+    "nationality": "Sweden",
+    "age": 44,
+    "height": "1.95 m",
+    "weight": "95 kg",
+    "team": "Retired",
+    "birthday": "October 3, 1981",
+    "image": "ibrahimovic.jpg",
+    "appearances": 850,
+    "goals": 570,
+    "assists": 170,
+    "cards": "150 / 10",
+    "bio": "Zlatan Ibrahimović is one of football's greatest legends, known for his acrobatic goals, strength, and charismatic personality.",
+    "seasons": [
+      { "year": 2022, "team": "AC Milan", "goals": 8, "assists": 3, "yellow": 4, "red": 0 },
+      { "year": 2023, "team": "AC Milan", "goals": 3, "assists": 1, "yellow": 2, "red": 0 },
+      { "year": 2024, "team": "Retired", "goals": 0, "assists": 0, "yellow": 0, "red": 0 },
+      { "year": 2025, "team": "Retired", "goals": 0, "assists": 0, "yellow": 0, "red": 0 },
+      { "year": 2026, "team": "Retired", "goals": 0, "assists": 0, "yellow": 0, "red": 0 }
+    ],
+    "clubsPlayed": ["Malmö (1999–2001)", "Ajax (2001–2004)", "Juventus (2004–2006)", "Inter Milan (2006–2009)", "Barcelona (2009–2011)", "AC Milan (2010–2012)", "PSG (2012–2016)", "Manchester United (2016–2018)", "LA Galaxy (2018–2019)", "AC Milan (2020–2023)"],
+    "trophies": [
+      { "title": "Serie A Champion", "year": "2022" },
+      { "title": "Ligue 1 Champion", "year": "2015" },
+      { "title": "Eredivisie", "year": "2004" }
+    ],
+    "awards": [
+      { "title": "Guldbollen", "year": "2022" },
+      { "title": "Sweden Player of the Year", "year": "2023" },
+      { "title": "Serie A Best Striker", "year": "2022" }
+    ]
+  },
+  {
+    "id": 97,
+    "name": "Wayne Rooney",
+    "photo": "https://longpuntupfield.wordpress.com/wp-content/uploads/2012/05/5108390.png",
+    "number": 10,
+    "position": "Forward",
+    "nationality": "England",
+    "age": 40,
+    "height": "1.76 m",
+    "weight": "83 kg",
+    "team": "Retired",
+    "birthday": "October 24, 1985",
+    "image": "rooney.jpg",
+    "appearances": 750,
+    "goals": 300,
+    "assists": 150,
+    "cards": "160 / 9",
+    "bio": "Wayne Rooney is England's all-time top scorer and one of the most complete forwards of his generation.",
+    "seasons": [
+      { "year": 2022, "team": "Retired", "goals": 0, "assists": 0, "yellow": 0, "red": 0 },
+      { "year": 2023, "team": "Retired", "goals": 0, "assists": 0, "yellow": 0, "red": 0 },
+      { "year": 2024, "team": "Retired", "goals": 0, "assists": 0, "yellow": 0, "red": 0 },
+      { "year": 2025, "team": "Retired", "goals": 0, "assists": 0, "yellow": 0, "red": 0 },
+      { "year": 2026, "team": "Retired", "goals": 0, "assists": 0, "yellow": 0, "red": 0 }
+    ],
+    "clubsPlayed": ["Everton (2002–2004)", "Manchester United (2004–2017)", "Everton (2017–2019)", "DC United (2018–2019)", "Derby County (2020–2022)"],
+    "trophies": [
+      { "title": "Premier League", "year": "2013" },
+      { "title": "Champions League", "year": "2008" },
+      { "title": "FA Cup", "year": "2016" }
+    ],
+    "awards": [
+      { "title": "PFA Young Player of the Year", "year": "2005" },
+      { "title": "England All-Time Top Scorer", "year": "2015" },
+      { "title": "Manchester United Player of the Year", "year": "2010" }
+    ]
+  },
+  {
+    "id": 98,
+    "name": "Andrea Pirlo",
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDvndaoshw1rBNJ11en0S2NEyO50Ien3qhdA&s",
+    "number": 21,
+    "position": "Midfielder",
+    "nationality": "Italy",
+    "age": 45,
+    "height": "1.77 m",
+    "weight": "68 kg",
+    "team": "Retired",
+    "birthday": "May 19, 1979",
+    "image": "pirlo.jpg",
+    "appearances": 750,
+    "goals": 60,
+    "assists": 130,
+    "cards": "80 / 3",
+    "bio": "Andrea Pirlo is widely considered one of the greatest midfielders in history, known for his vision, passing range, and free-kick mastery.",
+    "seasons": [
+      { "year": 2022, "team": "Retired", "goals": 0, "assists": 0, "yellow": 0, "red": 0 },
+      { "year": 2023, "team": "Retired", "goals": 0, "assists": 0, "yellow": 0, "red": 0 },
+      { "year": 2024, "team": "Retired", "goals": 0, "assists": 0, "yellow": 0, "red": 0 },
+      { "year": 2025, "team": "Retired", "goals": 0, "assists": 0, "yellow": 0, "red": 0 },
+      { "year": 2026, "team": "Retired", "goals": 0, "assists": 0, "yellow": 0, "red": 0 }
+    ],
+    "clubsPlayed": ["Brescia (1995–2001)", "Inter Milan (2001–2002)", "AC Milan (2002–2011)", "Juventus (2011–2015)", "New York City FC (2015–2017)"],
+    "trophies": [
+      { "title": "World Cup Winner", "year": "2006" },
+      { "title": "Champions League", "year": "2003" },
+      { "title": "Serie A Champion", "year": "2014" }
+    ],
+    "awards": [
+      { "title": "World Cup Best Midfielder", "year": "2006" },
+      { "title": "UEFA Best Midfielder", "year": "2012" },
+      { "title": "Serie A Best Player", "year": "2006" }
+    ]
+  },
+  {
+    "id": 99,
+    "name": "Xavi",
+    "photo": "https://bestplayersineurope.weebly.com/uploads/2/4/1/3/24136709/7679074_orig.jpg",
+    "number": 6,
+    "position": "Midfielder",
+    "nationality": "Spain",
+    "age": 44,
+    "height": "1.70 m",
+    "weight": "68 kg",
+    "team": "Retired",
+    "birthday": "January 25, 1980",
+    "image": "xavi.jpg",
+    "appearances": 900,
+    "goals": 100,
+    "assists": 220,
+    "cards": "130 / 2",
+    "bio": "Xavi Hernández is one of the greatest midfielders in history, known for his passing, vision, and ability to control games.",
+    "seasons": [
+      { "year": 2022, "team": "Retired", "goals": 0, "assists": 0, "yellow": 0, "red": 0 },
+      { "year": 2023, "team": "Retired", "goals": 0, "assists": 0, "yellow": 0, "red": 0 },
+      { "year": 2024, "team": "Retired", "goals": 0, "assists": 0, "yellow": 0, "red": 0 },
+      { "year": 2025, "team": "Retired", "goals": 0, "assists": 0, "yellow": 0, "red": 0 },
+      { "year": 2026, "team": "Retired", "goals": 0, "assists": 0, "yellow": 0, "red": 0 }
+    ],
+    "clubsPlayed": ["Barcelona (1998–2015)", "Al Sadd (2015–2019)"],
+    "trophies": [
+      { "title": "World Cup Winner", "year": "2010" },
+      { "title": "Champions League", "year": "2011" },
+      { "title": "Euro Winner", "year": "2012" }
+    ],
+    "awards": [
+      { "title": "Ballon d'Or Runner-Up", "year": "2009" },
+      { "title": "World Cup Best Player", "year": "2010" },
+      { "title": "La Liga Best Midfielder", "year": "2012" }
+    ]
+  },
+  {
+    "id": 100,
+    "name": "Andrés Iniesta",
+    "photo": "https://bestplayersineurope.weebly.com/uploads/2/4/1/3/24136709/6771396_orig.jpg",
+    "number": 8,
+    "position": "Midfielder",
+    "nationality": "Spain",
+    "age": 40,
+    "height": "1.71 m",
+    "weight": "68 kg",
+    "team": "Retired",
+    "birthday": "May 11, 1984",
+    "image": "iniesta.jpg",
+    "appearances": 850,
+    "goals": 90,
+    "assists": 180,
+    "cards": "95 / 1",
+    "bio": "Andrés Iniesta is one of the most beloved and technically gifted midfielders of all time, known for his elegance and winning mentality.",
+    "seasons": [
+      { "year": 2022, "team": "Vissel Kobe", "goals": 3, "assists": 4, "yellow": 2, "red": 0 },
+      { "year": 2023, "team": "Vissel Kobe", "goals": 2, "assists": 3, "yellow": 2, "red": 0 },
+      { "year": 2024, "team": "Emirates Club", "goals": 1, "assists": 2, "yellow": 1, "red": 0 },
+      { "year": 2025, "team": "Retired", "goals": 0, "assists": 0, "yellow": 0, "red": 0 },
+      { "year": 2026, "team": "Retired", "goals": 0, "assists": 0, "yellow": 0, "red": 0 }
+    ],
+    "clubsPlayed": ["Barcelona (2002–2018)", "Vissel Kobe (2018–2023)", "Emirates Club (2023–2024)"],
+    "trophies": [
+      { "title": "World Cup Winner", "year": "2010" },
+      { "title": "Champions League", "year": "2011" },
+      { "title": "Euro Winner", "year": "2012" }
+    ],
+    "awards": [
+      { "title": "World Cup Best Player", "year": "2010" },
+      { "title": "Euro Best Player", "year": "2012" },
+      { "title": "UEFA Best Midfielder", "year": "2012" }
+    ]
+  }
+]
+}
