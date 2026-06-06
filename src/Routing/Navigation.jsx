@@ -12,7 +12,7 @@ const Navigation = () => {
     <div className='nav'>
       <Navbar style={{width:"100vw"}} bg="black" data-bs-theme="dark">
         <Container>
-          <Navbar.Brand className='head'><img className="logo"src="footyplus logo.png" alt="" />FootyPlus</Navbar.Brand>
+          <Navbar.Brand className='head'><img className="logo"src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ9VpuO6K9rKaX4u-bpNcyiKS7t7VFfaa9_-BCXwKGiuJwG9qwQ" alt="" />FootyPlus</Navbar.Brand>
           <Nav className="me-auto">
           <Nav.Link  as = {Link} to ="/"  className="me-auto1"><h6>Home</h6></Nav.Link>
             <Nav.Link  as = {Link} to ="/teams"  className="me-auto1"><h6>Teams</h6></Nav.Link>

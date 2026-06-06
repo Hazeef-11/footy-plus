@@ -41,7 +41,7 @@ const Create = () => {
   }
   return (
     <div>
-      <img className="bg" src="/people-soccer-stadium.jpg" alt="" />
+      <img className="bg" src="https://casadepaconj.com/wp-content/uploads/2026/04/home-banner-scaled.webp" alt="" />
       <div className="updateform">
         <h3 style={{ marginLeft: "15px" }}>Create Player</h3>
         <div>

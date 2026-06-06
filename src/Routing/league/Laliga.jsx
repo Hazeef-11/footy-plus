@@ -16,7 +16,7 @@ const Laliga = () => {
      if (loading) {
        return (
          <div>
-           <img className="bg" src="people-soccer-stadium.jpg" alt="" />
+           <img className="bg" src="https://casadepaconj.com/wp-content/uploads/2026/04/home-banner-scaled.webp" alt="" />
            <div className="loading">
              <Atom color="#ffffff" size="large" text="" textColor="" />
            </div>
@@ -27,7 +27,7 @@ const Laliga = () => {
      if (error) {
        return (
          <div>
-           <img className="bg" src="people-soccer-stadium.jpg" alt="" />
+           <img className="bg" src="https://casadepaconj.com/wp-content/uploads/2026/04/home-banner-scaled.webp" alt="" />
            <h1
              style={{
                position: "absolute",
@@ -46,8 +46,8 @@ const Laliga = () => {
      
   return (
     <div>
-      <img className="bg" src="people-soccer-stadium.jpg" alt="" />
-      <img className="bg1" src="people-soccer-stadium.jpg" alt="" />
+      <img className="bg" src="https://casadepaconj.com/wp-content/uploads/2026/04/home-banner-scaled.webp" alt="" />
+      <img className="bg1" src="https://casadepaconj.com/wp-content/uploads/2026/04/home-banner-scaled.webp" alt="" />
       <div className="mainsearch"> 
         <input
           type="text"

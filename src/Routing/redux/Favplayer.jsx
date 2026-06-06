@@ -36,7 +36,7 @@ let dispatch=useDispatch()
 
         
          
-      <img className="bg" src="people-soccer-stadium.jpg" alt="" />
+      <img className="bg" src="https://casadepaconj.com/wp-content/uploads/2026/04/home-banner-scaled.webp" alt="" />
 
       {favplayer.length>0 ?
       (

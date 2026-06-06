@@ -14,7 +14,7 @@ const Teams = () => {
   if (loading) {
     return (
       <div>
-        <img className="bg" src="people-soccer-stadium.jpg" alt="" />
+        <img className="bg" src="https://casadepaconj.com/wp-content/uploads/2026/04/home-banner-scaled.webp" alt="" />
         <div className="loading">
           <Atom color="#ffffff" size="large" text="" textColor="" />
         </div>
@@ -25,7 +25,7 @@ const Teams = () => {
   if (error) {
     return (
       <div>
-        <img className="bg" src="people-soccer-stadium.jpg" alt="" />
+        <img className="bg" src="https://casadepaconj.com/wp-content/uploads/2026/04/home-banner-scaled.webp" alt="" />
         <h1
           style={{
             position: "absolute",
@@ -43,7 +43,7 @@ const Teams = () => {
 
   return (
     <div>
-      <img className="bg" src="people-soccer-stadium.jpg" alt="" />
+      <img className="bg" src="https://casadepaconj.com/wp-content/uploads/2026/04/home-banner-scaled.webp" alt="" />
 
       <h1 className="mainText">Discover Your Favouirte Football Teams</h1>
       <section className="product">
