@@ -925,10 +925,7 @@
       "location": "Manchester, England",
       "country": "England",
       "league": "Premier League",
-      "colors": [
-        "Sky Blue",
-        "Navy Blue"
-      ],
+      "colors": ["Sky Blue", "Navy Blue"],
       "premierLeague": 10,
       "leagueCup": 8,
       "faCup": 7,
@@ -949,11 +946,7 @@
       "location": "Manchester, England",
       "country": "England",
       "league": "Premier League",
-      "colors": [
-        "Red",
-        "White",
-        "Black"
-      ],
+      "colors": ["Red", "White", "Black"],
       "premierLeague": 20,
       "leagueCup": 6,
       "faCup": 12,
@@ -974,10 +967,7 @@
       "location": "Liverpool, England",
       "country": "England",
       "league": "Premier League",
-      "colors": [
-        "Red",
-        "White"
-      ],
+      "colors": ["Red", "White"],
       "premierLeague": 19,
       "leagueCup": 10,
       "faCup": 8,
@@ -998,10 +988,7 @@
       "location": "London, England",
       "country": "England",
       "league": "Premier League",
-      "colors": [
-        "Red",
-        "White"
-      ],
+      "colors": ["Red", "White"],
       "premierLeague": 13,
       "leagueCup": 2,
       "faCup": 14,
@@ -1022,10 +1009,7 @@
       "location": "London, England",
       "country": "England",
       "league": "Premier League",
-      "colors": [
-        "Blue",
-        "White"
-      ],
+      "colors": ["Blue", "White"],
       "premierLeague": 6,
       "leagueCup": 5,
       "faCup": 8,
@@ -1046,10 +1030,7 @@
       "location": "London, England",
       "country": "England",
       "league": "Premier League",
-      "colors": [
-        "White",
-        "Navy Blue"
-      ],
+      "colors": ["White", "Navy Blue"],
       "premierLeague": 2,
       "leagueCup": 4,
       "faCup": 8,
@@ -1070,10 +1051,7 @@
       "location": "Newcastle upon Tyne, England",
       "country": "England",
       "league": "Premier League",
-      "colors": [
-        "Black",
-        "White"
-      ],
+      "colors": ["Black", "White"],
       "premierLeague": 4,
       "leagueCup": 0,
       "faCup": 6,
@@ -1094,10 +1072,7 @@
       "location": "Birmingham, England",
       "country": "England",
       "league": "Premier League",
-      "colors": [
-        "Claret",
-        "Blue"
-      ],
+      "colors": ["Claret", "Blue"],
       "premierLeague": 7,
       "leagueCup": 5,
       "faCup": 7,
@@ -1118,10 +1093,7 @@
       "location": "London, England",
       "country": "England",
       "league": "Premier League",
-      "colors": [
-        "Claret",
-        "Blue"
-      ],
+      "colors": ["Claret", "Blue"],
       "premierLeague": 0,
       "leagueCup": 0,
       "faCup": 3,
@@ -1142,10 +1114,7 @@
       "location": "Brighton, England",
       "country": "England",
       "league": "Premier League",
-      "colors": [
-        "Blue",
-        "White"
-      ],
+      "colors": ["Blue", "White"],
       "premierLeague": 0,
       "leagueCup": 0,
       "faCup": 0,
@@ -1166,10 +1135,7 @@
       "location": "Wolverhampton, England",
       "country": "England",
       "league": "Premier League",
-      "colors": [
-        "Gold",
-        "Black"
-      ],
+      "colors": ["Gold", "Black"],
       "premierLeague": 3,
       "leagueCup": 2,
       "faCup": 4,
@@ -1190,10 +1156,7 @@
       "location": "London, England",
       "country": "England",
       "league": "Premier League",
-      "colors": [
-        "Red",
-        "Blue"
-      ],
+      "colors": ["Red", "Blue"],
       "premierLeague": 0,
       "leagueCup": 0,
       "faCup": 0,
@@ -1214,10 +1177,7 @@
       "location": "London, England",
       "country": "England",
       "league": "Premier League",
-      "colors": [
-        "White",
-        "Black"
-      ],
+      "colors": ["White", "Black"],
       "premierLeague": 0,
       "leagueCup": 0,
       "faCup": 0,
@@ -1238,10 +1198,7 @@
       "location": "Liverpool, England",
       "country": "England",
       "league": "Premier League",
-      "colors": [
-        "Blue",
-        "White"
-      ],
+      "colors": ["Blue", "White"],
       "premierLeague": 9,
       "leagueCup": 0,
       "faCup": 5,
@@ -1262,11 +1219,7 @@
       "location": "London, England",
       "country": "England",
       "league": "Premier League",
-      "colors": [
-        "Red",
-        "White",
-        "Black"
-      ],
+      "colors": ["Red", "White", "Black"],
       "premierLeague": 0,
       "leagueCup": 0,
       "faCup": 0,
@@ -1287,10 +1240,7 @@
       "location": "Bournemouth, England",
       "country": "England",
       "league": "Premier League",
-      "colors": [
-        "Red",
-        "Black"
-      ],
+      "colors": ["Red", "Black"],
       "premierLeague": 0,
       "leagueCup": 0,
       "faCup": 0,
@@ -1311,10 +1261,7 @@
       "location": "Nottingham, England",
       "country": "England",
       "league": "Premier League",
-      "colors": [
-        "Red",
-        "White"
-      ],
+      "colors": ["Red", "White"],
       "premierLeague": 0,
       "leagueCup": 4,
       "faCup": 2,
@@ -1335,10 +1282,7 @@
       "location": "Leicester, England",
       "country": "England",
       "league": "Premier League",
-      "colors": [
-        "Blue",
-        "White"
-      ],
+      "colors": ["Blue", "White"],
       "premierLeague": 1,
       "leagueCup": 3,
       "faCup": 1,
@@ -1359,10 +1303,7 @@
       "location": "Ipswich, England",
       "country": "England",
       "league": "Premier League",
-      "colors": [
-        "Blue",
-        "White"
-      ],
+      "colors": ["Blue", "White"],
       "premierLeague": 1,
       "leagueCup": 0,
       "faCup": 1,
@@ -1383,10 +1324,7 @@
       "location": "Southampton, England",
       "country": "England",
       "league": "Premier League",
-      "colors": [
-        "Red",
-        "White"
-      ],
+      "colors": ["Red", "White"],
       "premierLeague": 0,
       "leagueCup": 1,
       "faCup": 1,
@@ -1409,10 +1347,7 @@
       "location": "Madrid, Spain",
       "country": "Spain",
       "league": "La Liga",
-      "colors": [
-        "White",
-        "Gold"
-      ],
+      "colors": ["White", "Gold"],
       "laLiga": 35,
       "copadelrey": 20,
       "superCopa": 13,
@@ -1433,10 +1368,7 @@
       "location": "Barcelona, Spain",
       "country": "Spain",
       "league": "La Liga",
-      "colors": [
-        "Blue",
-        "Red"
-      ],
+      "colors": ["Blue", "Red"],
       "laLiga": 27,
       "copadelrey": 31,
       "superCopa": 15,
@@ -1457,10 +1389,7 @@
       "location": "Madrid, Spain",
       "country": "Spain",
       "league": "La Liga",
-      "colors": [
-        "Red",
-        "White"
-      ],
+      "colors": ["Red", "White"],
       "laLiga": 11,
       "copadelrey": 10,
       "superCopa": 2,
@@ -1481,10 +1410,7 @@
       "location": "Seville, Spain",
       "country": "Spain",
       "league": "La Liga",
-      "colors": [
-        "White",
-        "Red"
-      ],
+      "colors": ["White", "Red"],
       "laLiga": 1,
       "copadelrey": 5,
       "superCopa": 1,
@@ -1505,11 +1431,7 @@
       "location": "Valencia, Spain",
       "country": "Spain",
       "league": "La Liga",
-      "colors": [
-        "White",
-        "Black",
-        "Orange"
-      ],
+      "colors": ["White", "Black", "Orange"],
       "laLiga": 6,
       "copadelrey": 8,
       "superCopa": 1,
@@ -1530,10 +1452,7 @@
       "location": "Villarreal, Spain",
       "country": "Spain",
       "league": "La Liga",
-      "colors": [
-        "Yellow",
-        "Blue"
-      ],
+      "colors": ["Yellow", "Blue"],
       "laLiga": 0,
       "copadelrey": 1,
       "superCopa": 0,
@@ -1554,10 +1473,7 @@
       "location": "San Sebastián, Spain",
       "country": "Spain",
       "league": "La Liga",
-      "colors": [
-        "Blue",
-        "White"
-      ],
+      "colors": ["Blue", "White"],
       "laLiga": 2,
       "copadelrey": 3,
       "superCopa": 1,
@@ -1578,10 +1494,7 @@
       "location": "Bilbao, Spain",
       "country": "Spain",
       "league": "La Liga",
-      "colors": [
-        "Red",
-        "White"
-      ],
+      "colors": ["Red", "White"],
       "laLiga": 8,
       "copadelrey": 24,
       "superCopa": 1,
@@ -1602,10 +1515,7 @@
       "location": "Seville, Spain",
       "country": "Spain",
       "league": "La Liga",
-      "colors": [
-        "Green",
-        "White"
-      ],
+      "colors": ["Green", "White"],
       "laLiga": 1,
       "copadelrey": 3,
       "superCopa": 1,
@@ -1626,10 +1536,7 @@
       "location": "Girona, Spain",
       "country": "Spain",
       "league": "La Liga",
-      "colors": [
-        "Red",
-        "White"
-      ],
+      "colors": ["Red", "White"],
       "laLiga": 0,
       "copadelrey": 0,
       "superCopa": 1,
@@ -1650,10 +1557,7 @@
       "location": "Getafe, Spain",
       "country": "Spain",
       "league": "La Liga",
-      "colors": [
-        "Blue",
-        "White"
-      ],
+      "colors": ["Blue", "White"],
       "laLiga": 0,
       "copadelrey": 0,
       "superCopa": 0,
@@ -1674,10 +1578,7 @@
       "location": "Pamplona, Spain",
       "country": "Spain",
       "league": "La Liga",
-      "colors": [
-        "Red",
-        "Blue"
-      ],
+      "colors": ["Red", "Blue"],
       "laLiga": 0,
       "copadelrey": 0,
       "superCopa": 0,
@@ -1698,11 +1599,7 @@
       "location": "Palma, Spain",
       "country": "Spain",
       "league": "La Liga",
-      "colors": [
-        "Red",
-        "Black",
-        "Yellow"
-      ],
+      "colors": ["Red", "Black", "Yellow"],
       "laLiga": 0,
       "copadelrey": 1,
       "superCopa": 0,
@@ -1723,10 +1620,7 @@
       "location": "Vigo, Spain",
       "country": "Spain",
       "league": "La Liga",
-      "colors": [
-        "Sky Blue",
-        "White"
-      ],
+      "colors": ["Sky Blue", "White"],
       "laLiga": 0,
       "copadelrey": 0,
       "superCopa": 0,
@@ -1747,10 +1641,7 @@
       "location": "Las Palmas, Spain",
       "country": "Spain",
       "league": "La Liga",
-      "colors": [
-        "Yellow",
-        "Blue"
-      ],
+      "colors": ["Yellow", "Blue"],
       "laLiga": 0,
       "copadelrey": 0,
       "superCopa": 0,
@@ -1771,10 +1662,7 @@
       "location": "Madrid, Spain",
       "country": "Spain",
       "league": "La Liga",
-      "colors": [
-        "White",
-        "Red"
-      ],
+      "colors": ["White", "Red"],
       "laLiga": 0,
       "copadelrey": 0,
       "superCopa": 0,
@@ -1795,10 +1683,7 @@
       "location": "Vitoria-Gasteiz, Spain",
       "country": "Spain",
       "league": "La Liga",
-      "colors": [
-        "Blue",
-        "White"
-      ],
+      "colors": ["Blue", "White"],
       "laLiga": 0,
       "copadelrey": 0,
       "superCopa": 0,
@@ -1819,11 +1704,7 @@
       "location": "Palma, Spain",
       "country": "Spain",
       "league": "La Liga",
-      "colors": [
-        "Red",
-        "Black",
-        "Yellow"
-      ],
+      "colors": ["Red", "Black", "Yellow"],
       "laLiga": 0,
       "copadelrey": 1,
       "superCopa": 0,
@@ -1844,10 +1725,7 @@
       "location": "Vitoria-Gasteiz, Spain",
       "country": "Spain",
       "league": "La Liga",
-      "colors": [
-        "Blue",
-        "White"
-      ],
+      "colors": ["Blue", "White"],
       "laLiga": 0,
       "copadelrey": 0,
       "superCopa": 0,
@@ -1868,10 +1746,7 @@
       "location": "Barcelona, Spain",
       "country": "Spain",
       "league": "La Liga",
-      "colors": [
-        "Blue",
-        "White"
-      ],
+      "colors": ["Blue", "White"],
       "laLiga": 0,
       "copadelrey": 4,
       "superCopa": 0,
@@ -1892,10 +1767,7 @@
       "location": "Leganés, Spain",
       "country": "Spain",
       "league": "La Liga",
-      "colors": [
-        "Blue",
-        "White"
-      ],
+      "colors": ["Blue", "White"],
       "laLiga": 0,
       "copadelrey": 0,
       "superCopa": 0,
@@ -1916,10 +1788,7 @@
       "location": "Valladolid, Spain",
       "country": "Spain",
       "league": "La Liga",
-      "colors": [
-        "Purple",
-        "White"
-      ],
+      "colors": ["Purple", "White"],
       "laLiga": 0,
       "copadelrey": 0,
       "superCopa": 0,
@@ -1942,10 +1811,7 @@
       "location": "Naples, Italy",
       "country": "Italy",
       "league": "Serie A",
-      "colors": [
-        "Sky Blue",
-        "White"
-      ],
+      "colors": ["Sky Blue", "White"],
       "serieA": 3,
       "coppaItalia": 6,
       "supercoppaTitaliana": 2,
@@ -1966,10 +1832,7 @@
       "location": "Milan, Italy",
       "country": "Italy",
       "league": "Serie A",
-      "colors": [
-        "Black",
-        "Blue"
-      ],
+      "colors": ["Black", "Blue"],
       "serieA": 20,
       "coppaItalia": 8,
       "supercoppaTitaliana": 8,
@@ -1990,10 +1853,7 @@
       "location": "Milan, Italy",
       "country": "Italy",
       "league": "Serie A",
-      "colors": [
-        "Red",
-        "Black"
-      ],
+      "colors": ["Red", "Black"],
       "serieA": 19,
       "coppaItalia": 5,
       "supercoppaTitaliana": 7,
@@ -2014,10 +1874,7 @@
       "location": "Turin, Italy",
       "country": "Italy",
       "league": "Serie A",
-      "colors": [
-        "Black",
-        "White"
-      ],
+      "colors": ["Black", "White"],
       "serieA": 36,
       "coppaItalia": 15,
       "supercoppaTitaliana": 9,
@@ -2038,10 +1895,7 @@
       "location": "Bergamo, Italy",
       "country": "Italy",
       "league": "Serie A",
-      "colors": [
-        "Black",
-        "Blue"
-      ],
+      "colors": ["Black", "Blue"],
       "serieA": 0,
       "coppaItalia": 1,
       "supercoppaTitaliana": 0,
@@ -2062,10 +1916,7 @@
       "location": "Florence, Italy",
       "country": "Italy",
       "league": "Serie A",
-      "colors": [
-        "Purple",
-        "White"
-      ],
+      "colors": ["Purple", "White"],
       "serieA": 2,
       "coppaItalia": 6,
       "supercoppaTitaliana": 0,
@@ -2086,10 +1937,7 @@
       "location": "Rome, Italy",
       "country": "Italy",
       "league": "Serie A",
-      "colors": [
-        "Sky Blue",
-        "White"
-      ],
+      "colors": ["Sky Blue", "White"],
       "serieA": 2,
       "coppaItalia": 7,
       "supercoppaTitaliana": 5,
@@ -2110,10 +1958,7 @@
       "location": "Rome, Italy",
       "country": "Italy",
       "league": "Serie A",
-      "colors": [
-        "Red",
-        "Yellow"
-      ],
+      "colors": ["Red", "Yellow"],
       "serieA": 3,
       "coppaItalia": 9,
       "supercoppaTitaliana": 2,
@@ -2134,10 +1979,7 @@
       "location": "Bologna, Italy",
       "country": "Italy",
       "league": "Serie A",
-      "colors": [
-        "Red",
-        "Blue"
-      ],
+      "colors": ["Red", "Blue"],
       "serieA": 7,
       "coppaItalia": 2,
       "supercoppaTitaliana": 0,
@@ -2158,10 +2000,7 @@
       "location": "Turin, Italy",
       "country": "Italy",
       "league": "Serie A",
-      "colors": [
-        "Maroon",
-        "White"
-      ],
+      "colors": ["Maroon", "White"],
       "serieA": 7,
       "coppaItalia": 5,
       "supercoppaTitaliana": 1,
@@ -2182,10 +2021,7 @@
       "location": "Udine, Italy",
       "country": "Italy",
       "league": "Serie A",
-      "colors": [
-        "Black",
-        "White"
-      ],
+      "colors": ["Black", "White"],
       "serieA": 0,
       "coppaItalia": 0,
       "supercoppaTitaliana": 0,
@@ -2206,10 +2042,7 @@
       "location": "Genoa, Italy",
       "country": "Italy",
       "league": "Serie A",
-      "colors": [
-        "Red",
-        "Blue"
-      ],
+      "colors": ["Red", "Blue"],
       "serieA": 9,
       "coppaItalia": 1,
       "supercoppaTitaliana": 0,
@@ -2230,10 +2063,7 @@
       "location": "Cagliari, Italy",
       "country": "Italy",
       "league": "Serie A",
-      "colors": [
-        "Red",
-        "Blue"
-      ],
+      "colors": ["Red", "Blue"],
       "serieA": 1,
       "coppaItalia": 0,
       "supercoppaTitaliana": 0,
@@ -2254,10 +2084,7 @@
       "location": "Verona, Italy",
       "country": "Italy",
       "league": "Serie A",
-      "colors": [
-        "Yellow",
-        "Blue"
-      ],
+      "colors": ["Yellow", "Blue"],
       "serieA": 1,
       "coppaItalia": 0,
       "supercoppaTitaliana": 0,
@@ -2278,10 +2105,7 @@
       "location": "Empoli, Italy",
       "country": "Italy",
       "league": "Serie A",
-      "colors": [
-        "Sky Blue",
-        "White"
-      ],
+      "colors": ["Sky Blue", "White"],
       "serieA": 0,
       "coppaItalia": 0,
       "supercoppaTitaliana": 0,
@@ -2302,10 +2126,7 @@
       "location": "Lecce, Italy",
       "country": "Italy",
       "league": "Serie A",
-      "colors": [
-        "Red",
-        "Yellow"
-      ],
+      "colors": ["Red", "Yellow"],
       "serieA": 0,
       "coppaItalia": 0,
       "supercoppaTitaliana": 0,
@@ -2326,10 +2147,7 @@
       "location": "Parma, Italy",
       "country": "Italy",
       "league": "Serie A",
-      "colors": [
-        "Yellow",
-        "Blue"
-      ],
+      "colors": ["Yellow", "Blue"],
       "serieA": 0,
       "coppaItalia": 3,
       "supercoppaTitaliana": 0,
@@ -2350,10 +2168,7 @@
       "location": "Como, Italy",
       "country": "Italy",
       "league": "Serie A",
-      "colors": [
-        "Blue",
-        "White"
-      ],
+      "colors": ["Blue", "White"],
       "serieA": 0,
       "coppaItalia": 0,
       "supercoppaTitaliana": 0,
@@ -2374,10 +2189,7 @@
       "location": "Reggio Emilia, Italy",
       "country": "Italy",
       "league": "Serie A",
-      "colors": [
-        "Black",
-        "Green"
-      ],
+      "colors": ["Black", "Green"],
       "serieA": 0,
       "coppaItalia": 0,
       "supercoppaTitaliana": 0,
@@ -2398,10 +2210,7 @@
       "location": "Monza, Italy",
       "country": "Italy",
       "league": "Serie A",
-      "colors": [
-        "White",
-        "Red"
-      ],
+      "colors": ["White", "Red"],
       "serieA": 0,
       "coppaItalia": 0,
       "supercoppaTitaliana": 0,
@@ -2424,10 +2233,7 @@
       "location": "Munich, Germany",
       "country": "Germany",
       "league": "Bundesliga",
-      "colors": [
-        "Red",
-        "White"
-      ],
+      "colors": ["Red", "White"],
       "bundesliga": 33,
       "dfbPokal": 20,
       "dflSupercup": 9,
@@ -2448,10 +2254,7 @@
       "location": "Dortmund, Germany",
       "country": "Germany",
       "league": "Bundesliga",
-      "colors": [
-        "Yellow",
-        "Black"
-      ],
+      "colors": ["Yellow", "Black"],
       "bundesliga": 8,
       "dfbPokal": 5,
       "dflSupercup": 6,
@@ -2472,10 +2275,7 @@
       "location": "Leverkusen, Germany",
       "country": "Germany",
       "league": "Bundesliga",
-      "colors": [
-        "Red",
-        "Black"
-      ],
+      "colors": ["Red", "Black"],
       "bundesliga": 1,
       "dfbPokal": 1,
       "dflSupercup": 1,
@@ -2496,10 +2296,7 @@
       "location": "Leipzig, Germany",
       "country": "Germany",
       "league": "Bundesliga",
-      "colors": [
-        "Red",
-        "White"
-      ],
+      "colors": ["Red", "White"],
       "bundesliga": 0,
       "dfbPokal": 1,
       "dflSupercup": 1,
@@ -2520,11 +2317,7 @@
       "location": "Frankfurt, Germany",
       "country": "Germany",
       "league": "Bundesliga",
-      "colors": [
-        "Black",
-        "Red",
-        "White"
-      ],
+      "colors": ["Black", "Red", "White"],
       "bundesliga": 1,
       "dfbPokal": 5,
       "dflSupercup": 0,
@@ -2545,10 +2338,7 @@
       "location": "Stuttgart, Germany",
       "country": "Germany",
       "league": "Bundesliga",
-      "colors": [
-        "White",
-        "Red"
-      ],
+      "colors": ["White", "Red"],
       "bundesliga": 5,
       "dfbPokal": 3,
       "dflSupercup": 0,
@@ -2569,11 +2359,7 @@
       "location": "Freiburg im Breisgau, Germany",
       "country": "Germany",
       "league": "Bundesliga",
-      "colors": [
-        "Red",
-        "White",
-        "Black"
-      ],
+      "colors": ["Red", "White", "Black"],
       "bundesliga": 0,
       "dfbPokal": 0,
       "dflSupercup": 0,
@@ -2594,11 +2380,7 @@
       "location": "Mönchengladbach, Germany",
       "country": "Germany",
       "league": "Bundesliga",
-      "colors": [
-        "White",
-        "Green",
-        "Black"
-      ],
+      "colors": ["White", "Green", "Black"],
       "bundesliga": 5,
       "dfbPokal": 3,
       "dflSupercup": 3,
@@ -2619,10 +2401,7 @@
       "location": "Sinsheim, Germany",
       "country": "Germany",
       "league": "Bundesliga",
-      "colors": [
-        "Blue",
-        "White"
-      ],
+      "colors": ["Blue", "White"],
       "bundesliga": 0,
       "dfbPokal": 0,
       "dflSupercup": 0,
@@ -2643,10 +2422,7 @@
       "location": "Bremen, Germany",
       "country": "Germany",
       "league": "Bundesliga",
-      "colors": [
-        "Green",
-        "White"
-      ],
+      "colors": ["Green", "White"],
       "bundesliga": 4,
       "dfbPokal": 6,
       "dflSupercup": 1,
@@ -2667,10 +2443,7 @@
       "location": "Wolfsburg, Germany",
       "country": "Germany",
       "league": "Bundesliga",
-      "colors": [
-        "Green",
-        "White"
-      ],
+      "colors": ["Green", "White"],
       "bundesliga": 1,
       "dfbPokal": 1,
       "dflSupercup": 1,
@@ -2691,10 +2464,7 @@
       "location": "Berlin, Germany",
       "country": "Germany",
       "league": "Bundesliga",
-      "colors": [
-        "Red",
-        "White"
-      ],
+      "colors": ["Red", "White"],
       "bundesliga": 0,
       "dfbPokal": 0,
       "dflSupercup": 0,
@@ -2715,11 +2485,7 @@
       "location": "Augsburg, Germany",
       "country": "Germany",
       "league": "Bundesliga",
-      "colors": [
-        "Red",
-        "Green",
-        "White"
-      ],
+      "colors": ["Red", "Green", "White"],
       "bundesliga": 0,
       "dfbPokal": 0,
       "dflSupercup": 0,
@@ -2740,10 +2506,7 @@
       "location": "Heidenheim an der Brenz, Germany",
       "country": "Germany",
       "league": "Bundesliga",
-      "colors": [
-        "Red",
-        "Blue"
-      ],
+      "colors": ["Red", "Blue"],
       "bundesliga": 0,
       "dfbPokal": 0,
       "dflSupercup": 0,
@@ -2764,10 +2527,7 @@
       "location": "Hamburg, Germany",
       "country": "Germany",
       "league": "Bundesliga",
-      "colors": [
-        "Brown",
-        "White"
-      ],
+      "colors": ["Brown", "White"],
       "bundesliga": 0,
       "dfbPokal": 0,
       "dflSupercup": 0,
@@ -2788,11 +2548,7 @@
       "location": "Kiel, Germany",
       "country": "Germany",
       "league": "Bundesliga",
-      "colors": [
-        "Red",
-        "Blue",
-        "White"
-      ],
+      "colors": ["Red", "Blue", "White"],
       "bundesliga": 0,
       "dfbPokal": 0,
       "dflSupercup": 0,
@@ -2813,10 +2569,7 @@
       "location": "Bochum, Germany",
       "country": "Germany",
       "league": "Bundesliga",
-      "colors": [
-        "Blue",
-        "White"
-      ],
+      "colors": ["Blue", "White"],
       "bundesliga": 0,
       "dfbPokal": 0,
       "dflSupercup": 0,
@@ -2837,10 +2590,7 @@
       "location": "Mainz, Germany",
       "country": "Germany",
       "league": "Bundesliga",
-      "colors": [
-        "Red",
-        "White"
-      ],
+      "colors": ["Red", "White"],
       "bundesliga": 0,
       "dfbPokal": 0,
       "ucl": 0,
@@ -2862,11 +2612,7 @@
       "location": "Paris, France",
       "country": "France",
       "league": "Ligue 1",
-      "colors": [
-        "Dark Blue",
-        "Red",
-        "White"
-      ],
+      "colors": ["Dark Blue", "Red", "White"],
       "ligue1": 13,
       "coupeDeFrame": 15,
       "tropheeDesChampions": 11,
@@ -2887,10 +2633,7 @@
       "location": "Marseille, France",
       "country": "France",
       "league": "Ligue 1",
-      "colors": [
-        "White",
-        "Sky Blue"
-      ],
+      "colors": ["White", "Sky Blue"],
       "ligue1": 9,
       "coupeDeFrame": 10,
       "tropheeDesChampions": 3,
@@ -2911,11 +2654,7 @@
       "location": "Lyon, France",
       "country": "France",
       "league": "Ligue 1",
-      "colors": [
-        "White",
-        "Red",
-        "Blue"
-      ],
+      "colors": ["White", "Red", "Blue"],
       "ligue1": 7,
       "coupeDeFrame": 5,
       "tropheeDesChampions": 8,
@@ -2936,10 +2675,7 @@
       "location": "Monaco",
       "country": "Monaco",
       "league": "Ligue 1",
-      "colors": [
-        "Red",
-        "White"
-      ],
+      "colors": ["Red", "White"],
       "ligue1": 8,
       "coupeDeFrame": 5,
       "tropheeDesChampions": 1,
@@ -2960,10 +2696,7 @@
       "location": "Villeneuve-d'Ascq, France",
       "country": "France",
       "league": "Ligue 1",
-      "colors": [
-        "Red",
-        "Blue"
-      ],
+      "colors": ["Red", "Blue"],
       "ligue1": 4,
       "coupeDeFrame": 6,
       "tropheeDesChampions": 1,
@@ -2984,10 +2717,7 @@
       "location": "Lens, France",
       "country": "France",
       "league": "Ligue 1",
-      "colors": [
-        "Red",
-        "Yellow"
-      ],
+      "colors": ["Red", "Yellow"],
       "ligue1": 1,
       "coupeDeFrame": 0,
       "tropheeDesChampions": 0,
@@ -3008,10 +2738,7 @@
       "location": "Rennes, France",
       "country": "France",
       "league": "Ligue 1",
-      "colors": [
-        "Red",
-        "Black"
-      ],
+      "colors": ["Red", "Black"],
       "ligue1": 0,
       "coupeDeFrame": 2,
       "tropheeDesChampions": 0,
@@ -3032,10 +2759,7 @@
       "location": "Nice, France",
       "country": "France",
       "league": "Ligue 1",
-      "colors": [
-        "Red",
-        "Black"
-      ],
+      "colors": ["Red", "Black"],
       "ligue1": 4,
       "coupeDeFrame": 3,
       "tropheeDesChampions": 0,
@@ -3056,10 +2780,7 @@
       "location": "Strasbourg, France",
       "country": "France",
       "league": "Ligue 1",
-      "colors": [
-        "Blue",
-        "White"
-      ],
+      "colors": ["Blue", "White"],
       "ligue1": 1,
       "coupeDeFrame": 3,
       "tropheeDesChampions": 0,
@@ -3080,10 +2801,7 @@
       "location": "Toulouse, France",
       "country": "France",
       "league": "Ligue 1",
-      "colors": [
-        "Violet",
-        "White"
-      ],
+      "colors": ["Violet", "White"],
       "ligue1": 0,
       "coupeDeFrame": 0,
       "tropheeDesChampions": 0,
@@ -3104,10 +2822,7 @@
       "location": "Montpellier, France",
       "country": "France",
       "league": "Ligue 1",
-      "colors": [
-        "Blue",
-        "Orange"
-      ],
+      "colors": ["Blue", "Orange"],
       "ligue1": 1,
       "coupeDeFrame": 1,
       "tropheeDesChampions": 0,
@@ -3128,10 +2843,7 @@
       "location": "Le Havre, France",
       "country": "France",
       "league": "Ligue 1",
-      "colors": [
-        "Blue",
-        "White"
-      ],
+      "colors": ["Blue", "White"],
       "ligue1": 0,
       "coupeDeFrame": 1,
       "tropheeDesChampions": 0,
@@ -3152,10 +2864,7 @@
       "location": "Reims, France",
       "country": "France",
       "league": "Ligue 1",
-      "colors": [
-        "Red",
-        "White"
-      ],
+      "colors": ["Red", "White"],
       "ligue1": 6,
       "coupeDeFrame": 2,
       "tropheeDesChampions": 0,
@@ -3176,10 +2885,7 @@
       "location": "Nantes, France",
       "country": "France",
       "league": "Ligue 1",
-      "colors": [
-        "Yellow",
-        "Green"
-      ],
+      "colors": ["Yellow", "Green"],
       "ligue1": 8,
       "coupeDeFrame": 3,
       "tropheeDesChampions": 2,
@@ -3200,10 +2906,7 @@
       "location": "Angers, France",
       "country": "France",
       "league": "Ligue 1",
-      "colors": [
-        "Black",
-        "White"
-      ],
+      "colors": ["Black", "White"],
       "ligue1": 0,
       "coupeDeFrame": 0,
       "tropheeDesChampions": 0,
@@ -3223,10 +2926,7 @@
       "location": "Auxerre, France",
       "country": "France",
       "league": "Ligue 1",
-      "colors": [
-        "White",
-        "Blue"
-      ],
+      "colors": ["White", "Blue"],
       "ligue1": 1,
       "coupeDeFrame": 4,
       "tropheeDesChampions": 1,
@@ -3247,10 +2947,7 @@
       "location": "Brest, France",
       "country": "France",
       "league": "Ligue 1",
-      "colors": [
-        "Red",
-        "White"
-      ],
+      "colors": ["Red", "White"],
       "ligue1": 0,
       "coupeDeFrame": 0,
       "tropheeDesChampions": 0,
@@ -3271,10 +2968,7 @@
       "location": "Saint-Étienne, France",
       "country": "France",
       "league": "Ligue 1",
-      "colors": [
-        "Green",
-        "White"
-      ],
+      "colors": ["Green", "White"],
       "ligue1": 10,
       "coupeDeFrame": 6,
       "tropheeDesChampions": 1,
@@ -3296,15 +2990,15 @@
       "club": "Inter Miami",
       "photo": "https://i.pinimg.com/474x/70/b7/9a/70b79aad49da741bae24581edd365a42.jpg"
     },
-    
-  {
-    "id": 2,
-    "name": " Ronaldo",
-    "country": "Portugal",
-    "position": "Forward",
-    "club": "Al Nassr",
-    "photo": "https://i.pinimg.com/236x/21/8f/e5/218fe5d949f74a7308881b1be773d452.jpg"
-  },
+
+    {
+      "id": 2,
+      "name": " Ronaldo",
+      "country": "Portugal",
+      "position": "Forward",
+      "club": "Al Nassr",
+      "photo": "https://i.pinimg.com/236x/21/8f/e5/218fe5d949f74a7308881b1be773d452.jpg"
+    },
     {
       "id": "3",
       "name": "Neymar ",
@@ -4832,10 +4526,7 @@
           "red": 0
         }
       ],
-      "clubsPlayed": [
-        "Flamengo (2017–2018)",
-        "Real Madrid (2018–present)"
-      ],
+      "clubsPlayed": ["Flamengo (2017–2018)", "Real Madrid (2018–present)"],
       "trophies": [
         {
           "title": "Champions League",
@@ -5114,10 +4805,7 @@
           "red": 0
         }
       ],
-      "clubsPlayed": [
-        "Tottenham (2009–2023)",
-        "Bayern Munich (2023–present)"
-      ],
+      "clubsPlayed": ["Tottenham (2009–2023)", "Bayern Munich (2023–present)"],
       "trophies": [
         {
           "title": "Bundesliga",
@@ -5395,10 +5083,7 @@
           "red": 0
         }
       ],
-      "clubsPlayed": [
-        "Las Palmas (2019–2020)",
-        "Barcelona (2020–present)"
-      ],
+      "clubsPlayed": ["Las Palmas (2019–2020)", "Barcelona (2020–present)"],
       "trophies": [
         {
           "title": "Euro Winner",
@@ -5488,9 +5173,7 @@
           "red": 0
         }
       ],
-      "clubsPlayed": [
-        "Arsenal (2018–present)"
-      ],
+      "clubsPlayed": ["Arsenal (2018–present)"],
       "trophies": [
         {
           "title": "FA Cup",
@@ -5580,9 +5263,7 @@
           "red": 0
         }
       ],
-      "clubsPlayed": [
-        "Manchester City (2016–present)"
-      ],
+      "clubsPlayed": ["Manchester City (2016–present)"],
       "trophies": [
         {
           "title": "Premier League",
@@ -7282,10 +6963,7 @@
           "red": 0
         }
       ],
-      "clubsPlayed": [
-        "Stuttgart (2013–2015)",
-        "Bayern Munich (2015–present)"
-      ],
+      "clubsPlayed": ["Stuttgart (2013–2015)", "Bayern Munich (2015–present)"],
       "trophies": [
         {
           "title": "Bundesliga",
@@ -7375,9 +7053,7 @@
           "red": 0
         }
       ],
-      "clubsPlayed": [
-        "Bayern Munich (2008–present)"
-      ],
+      "clubsPlayed": ["Bayern Munich (2008–present)"],
       "trophies": [
         {
           "title": "Bundesliga",
@@ -7467,10 +7143,7 @@
           "red": 0
         }
       ],
-      "clubsPlayed": [
-        "Schalke 04 (2005–2011)",
-        "Bayern Munich (2011–present)"
-      ],
+      "clubsPlayed": ["Schalke 04 (2005–2011)", "Bayern Munich (2011–present)"],
       "trophies": [
         {
           "title": "Bundesliga",
@@ -7560,10 +7233,7 @@
           "red": 0
         }
       ],
-      "clubsPlayed": [
-        "West Ham (2017–2023)",
-        "Arsenal (2023–present)"
-      ],
+      "clubsPlayed": ["West Ham (2017–2023)", "Arsenal (2023–present)"],
       "trophies": [
         {
           "title": "Europa Conference League",
@@ -8219,10 +7889,7 @@
           "red": 0
         }
       ],
-      "clubsPlayed": [
-        "Penarol (2015–2016)",
-        "Real Madrid (2016–present)"
-      ],
+      "clubsPlayed": ["Penarol (2015–2016)", "Real Madrid (2016–present)"],
       "trophies": [
         {
           "title": "Champions League",
@@ -8502,9 +8169,7 @@
           "red": 0
         }
       ],
-      "clubsPlayed": [
-        "Barcelona (2021–present)"
-      ],
+      "clubsPlayed": ["Barcelona (2021–present)"],
       "trophies": [
         {
           "title": "Euro Winner",
@@ -8688,10 +8353,7 @@
           "red": 0
         }
       ],
-      "clubsPlayed": [
-        "Ajax (2015–2019)",
-        "Barcelona (2019–present)"
-      ],
+      "clubsPlayed": ["Ajax (2015–2019)", "Barcelona (2019–present)"],
       "trophies": [
         {
           "title": "La Liga Champion",
@@ -8970,10 +8632,7 @@
           "red": 0
         }
       ],
-      "clubsPlayed": [
-        "Racing Club (2015–2018)",
-        "Inter Milan (2018–present)"
-      ],
+      "clubsPlayed": ["Racing Club (2015–2018)", "Inter Milan (2018–present)"],
       "trophies": [
         {
           "title": "World Cup Winner",
@@ -9063,10 +8722,7 @@
           "red": 0
         }
       ],
-      "clubsPlayed": [
-        "Cagliari (2013–2019)",
-        "Inter Milan (2019–present)"
-      ],
+      "clubsPlayed": ["Cagliari (2013–2019)", "Inter Milan (2019–present)"],
       "trophies": [
         {
           "title": "Serie A Champion",
@@ -9346,10 +9002,7 @@
           "red": 0
         }
       ],
-      "clubsPlayed": [
-        "PSG (2010–2019)",
-        "Juventus (2019–present)"
-      ],
+      "clubsPlayed": ["PSG (2010–2019)", "Juventus (2019–present)"],
       "trophies": [
         {
           "title": "Coppa Italia",
@@ -9533,10 +9186,7 @@
           "red": 0
         }
       ],
-      "clubsPlayed": [
-        "Santos (2017–2019)",
-        "Real Madrid (2019–present)"
-      ],
+      "clubsPlayed": ["Santos (2017–2019)", "Real Madrid (2019–present)"],
       "trophies": [
         {
           "title": "Champions League",
@@ -9721,10 +9371,7 @@
           "red": 0
         }
       ],
-      "clubsPlayed": [
-        "Rennes (2019–2021)",
-        "Real Madrid (2021–present)"
-      ],
+      "clubsPlayed": ["Rennes (2019–2021)", "Real Madrid (2021–present)"],
       "trophies": [
         {
           "title": "Champions League",
@@ -10189,10 +9836,7 @@
           "red": 0
         }
       ],
-      "clubsPlayed": [
-        "Benfica (2014–2020)",
-        "Manchester City (2020–present)"
-      ],
+      "clubsPlayed": ["Benfica (2014–2020)", "Manchester City (2020–present)"],
       "trophies": [
         {
           "title": "Premier League",
@@ -10282,9 +9926,7 @@
           "red": 0
         }
       ],
-      "clubsPlayed": [
-        "Manchester United (2015–present)"
-      ],
+      "clubsPlayed": ["Manchester United (2015–present)"],
       "trophies": [
         {
           "title": "FA Cup",
@@ -10655,10 +10297,7 @@
           "red": 0
         }
       ],
-      "clubsPlayed": [
-        "Manchester City (2020–2023)",
-        "Chelsea (2023–present)"
-      ],
+      "clubsPlayed": ["Manchester City (2020–2023)", "Chelsea (2023–present)"],
       "trophies": [
         {
           "title": "FA Cup",
@@ -10936,9 +10575,7 @@
           "red": 0
         }
       ],
-      "clubsPlayed": [
-        "Liverpool (2016–present)"
-      ],
+      "clubsPlayed": ["Liverpool (2016–present)"],
       "trophies": [
         {
           "title": "Champions League",
@@ -11311,10 +10948,7 @@
           "red": 0
         }
       ],
-      "clubsPlayed": [
-        "Saint-Etienne (2019–2022)",
-        "Arsenal (2022–present)"
-      ],
+      "clubsPlayed": ["Saint-Etienne (2019–2022)", "Arsenal (2022–present)"],
       "trophies": [
         {
           "title": "Premier League",
@@ -11404,10 +11038,7 @@
           "red": 0
         }
       ],
-      "clubsPlayed": [
-        "Ituano (2019)",
-        "Arsenal (2019–present)"
-      ],
+      "clubsPlayed": ["Ituano (2019)", "Arsenal (2019–present)"],
       "trophies": [
         {
           "title": "Premier League",
@@ -11687,9 +11318,7 @@
           "red": 0
         }
       ],
-      "clubsPlayed": [
-        "Real Sociedad (2014–present)"
-      ],
+      "clubsPlayed": ["Real Sociedad (2014–present)"],
       "trophies": [
         {
           "title": "Copa del Rey",
@@ -13404,10 +13033,7 @@
           "red": 0
         }
       ],
-      "clubsPlayed": [
-        "Barcelona (1998–2015)",
-        "Al Sadd (2015–2019)"
-      ],
+      "clubsPlayed": ["Barcelona (1998–2015)", "Al Sadd (2015–2019)"],
       "trophies": [
         {
           "title": "World Cup Winner",

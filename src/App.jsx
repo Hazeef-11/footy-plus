@@ -1,7 +1,12 @@
 import React from "react";
 import "bootstrap/dist/css/bootstrap.min.css";
 import Navigation from "./Routing/Navigation";
-import { BrowserRouter as Router, Routes, Route, ServerRouter } from "react-router-dom";
+import {
+  BrowserRouter as Router,
+  Routes,
+  Route,
+  ServerRouter,
+} from "react-router-dom";
 import Home from "./Routing/Home";
 import Teams from "./Routing/Teams";
 import Players from "./Routing/Players";
@@ -22,13 +27,9 @@ import Update from "./Routing/CRUD/Update";
 import Favplayer from "./Routing/redux/Favplayer";
 import Create from "./Routing/CRUD/Create";
 
-if(!localStorage.getItem("cart")){
-
-  localStorage.setItem("cart",JSON.stringify([]))
+if (!localStorage.getItem("cart")) {
+  localStorage.setItem("cart", JSON.stringify([]));
 }
-
-
-
 
 function App() {
   return (
@@ -48,15 +49,14 @@ function App() {
           <Route path="/plteams/:id" element={<Plteams />} />
           <Route path="/laligateams/:id" element={<LaligaTeams />} />
           <Route path="/seriateams/:id" element={<SerieaTeam />} />
-          <Route path="/bundesligateams/:id" element={<BundesligaTeam/>} />
-          <Route path="/ligue1teams/:id" element={<Ligue1Team/>} />
-          <Route path="/playerDetails/:id" element={<PlayerDetails/>} />
-          <Route path="/update/:id" element={<Update/>} />
-          <Route path="/create" element={<Create/>} />
-          <Route path="/favoriteplayer" element={<Favplayer/>} />
-          
-          <Route path="*" element={<Notfound/>} />
-          
+          <Route path="/bundesligateams/:id" element={<BundesligaTeam />} />
+          <Route path="/ligue1teams/:id" element={<Ligue1Team />} />
+          <Route path="/playerDetails/:id" element={<PlayerDetails />} />
+          <Route path="/update/:id" element={<Update />} />
+          <Route path="/create" element={<Create />} />
+          <Route path="/favoriteplayer" element={<Favplayer />} />
+
+          <Route path="*" element={<Notfound />} />
         </Routes>
       </Router>
     </div>

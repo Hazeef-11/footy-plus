@@ -54,8 +54,6 @@ body {
   margin: 0;
 }
 
-
-
 #root {
   width: 100%;
   max-width: 100%;
@@ -112,15 +110,12 @@ code {
   background: var(--code-bg);
 }
 
-.navbar{
+.navbar {
   width: 100vw;
-  
 }
 
 .head {
   margin-left: -5%;
-
-
 }
 
 .me-auto {
@@ -144,43 +139,33 @@ code {
   color: rgba(0, 0, 0, 0.425);
 }
 
-
-
 .button {
   margin-left: 33%;
   padding-right: 1%;
+  padding-top: 4px;
   border: none;
   background-color: #0044ff;
   border-radius: 5px;
   display: flex;
- 
- 
 }
 
-.button:hover{
+.button:hover {
   transform: scale(1.05);
-
 }
 
-.button span{
-  
+.button span {
   font-size: 20px;
 }
 
-.button h5{
+.button h5 {
   margin-top: 2%;
   margin-left: 5%;
-  
 }
-
-
-
 
 .logo {
   height: 70%;
   width: 70%;
   margin-top: -7%;
-
 }
 
 .bg {
@@ -211,13 +196,13 @@ code {
   margin-top: 12%;
 }
 
-.main-text{
+.main-text {
   margin-top: 2%;
 }
 
 .fan-zone {
-  margin-top:7%;
-  padding:5% 2.5%;
+  margin-top: 7%;
+  padding: 5% 2.5%;
   background: rgba(0, 0, 0, 0.389);
 
   text-align: center;
@@ -299,13 +284,10 @@ code {
   box-shadow: 10px 10px 50px rgb(0, 0, 0);
   height: 250px;
   width: 250px;
- 
 }
 .cardOverlay:hover {
   transform: translateY(-5px);
 }
-
-
 
 .product {
   display: flex;
@@ -316,7 +298,6 @@ code {
   margin-top: -35%;
   z-index: 3;
 }
-
 
 .product1 {
   display: flex;
@@ -337,13 +318,13 @@ code {
   margin-top: -754%;
   z-index: 3;
 }
-.product3{
+.product3 {
   display: flex;
   flex-wrap: wrap;
   align-items: center;
   justify-content: center;
   gap: 50px;
- margin-top: -89%;
+  margin-top: -89%;
   z-index: 5;
 }
 
@@ -416,8 +397,6 @@ code {
   text-align: center;
 }
 
-
-
 .team-card {
   position: relative;
   background: rgba(0, 0, 0, 0.766);
@@ -437,8 +416,6 @@ code {
   justify-content: space-between;
 
   margin-left: 38%;
-
-  
 }
 
 .team-logo {
@@ -446,12 +423,7 @@ code {
   border-radius: 10%;
   box-shadow: 0 0 20px #007bff;
   padding: 10px;
-  
 }
-
-
-
-
 
 .nickname {
   color: #007bff;
@@ -467,7 +439,7 @@ code {
 }
 
 .club-details {
-   border-top: 2px solid #0044ff;
+  border-top: 2px solid #0044ff;
   margin-top: 10px;
   padding-left: 360px;
   padding-top: 20px;
@@ -552,12 +524,11 @@ a {
   position: absolute;
   z-index: 5;
 
-
-   margin-top: -40%;
+  margin-top: -40%;
   margin-left: 46%;
 }
 
-/* Card */
+
 .player-card {
   border-radius: 15px;
   padding: 30px;
@@ -572,7 +543,7 @@ a {
   color: white;
 }
 
-/* Photo */
+
 .player-photo {
   width: 160px;
   height: 160px;
@@ -581,7 +552,7 @@ a {
   margin-bottom: 15px;
 }
 
-/* Headings */
+
 .player-card h1 {
   margin: 10px 0 5px;
   font-size: 2rem;
@@ -598,7 +569,7 @@ a {
   color: #007bff;
 }
 
-/* Stats summary */
+
 .stats-summary {
   display: flex;
   justify-content: space-around;
@@ -658,7 +629,7 @@ a {
   gap: 20px;
 }
 
-/* Common box style */
+
 .extra-info > div {
   flex: 1;
   background: rgba(0, 0, 0, 0.389);
@@ -670,13 +641,12 @@ a {
     box-shadow 0.2s ease;
 }
 
-/* Hover effect */
+
 .extra-info > div:hover {
   transform: translateY(-5px);
   box-shadow: 0 0 25px rgba(0, 191, 255, 0.696);
 }
 
-/* Section headings */
 .extra-info h3 {
   margin-bottom: 10px;
   color: #007bff;
@@ -686,7 +656,6 @@ a {
   padding-bottom: 5px;
 }
 
-/* Lists inside boxes */
 .extra-info ul {
   list-style: none;
   padding: 0;
@@ -700,7 +669,6 @@ a {
   text-align: center;
 }
 
-/* Bio */
 .bio {
   margin-top: 25px;
   font-style: italic;
@@ -709,7 +677,7 @@ a {
 }
 
 .updateform {
- position: absolute;
+  position: absolute;
   display: flex;
   flex-direction: column;
   z-index: 5;
@@ -720,8 +688,8 @@ a {
   padding: 25px 50px;
   border-radius: 15px;
 }
-.updateform1{
- position: absolute;
+.updateform1 {
+  position: absolute;
   display: flex;
   flex-direction: column;
   z-index: 5;
@@ -732,70 +700,76 @@ a {
   padding: 25px 50px;
   border-radius: 15px;
 }
-.updateform input{
-  border-radius: 10px;
+.updateform input {
+  border-radius: 5px;
   border: none;
 }
 
-
-.updateform h3{
-  color:#0044ff
+.updateform1 input {
+  border-radius: 5px;
+  border: none;
 }
 
-.updateform input::placeholder{
+.updateform h3 {
+  color: #0044ff;
+}
+.updateform1 h3 {
+  color: #0044ff;
+}
+
+.updateform input::placeholder {
   padding: 5px;
-  
-  
+}
+
+.updateform input::placeholder {
+  padding: 5px;
 }
 
 .updatebutton {
-    height: 30px;
-    width: 100px;
- 
+  height: 30px;
+  width: 100px;
 
-   margin-top: 20px;
-   margin-left: 100px;
+  margin-top: 20px;
+  margin-left: 100px;
   border: none;
   background-color: #0044ff;
   border-radius: 5px;
 }
 
-.updatebutton:hover{
-    transform: scale(1.05);
-
+.updatebutton:hover {
+  transform: scale(1.05);
 }
 
 .one:hover,
 .two:hover,
-.three:hover{
+.three:hover {
   transform: scale(1.05);
 }
 
-.addbtn{
- border: none;
+.addbtn {
+  border: none;
   background-color: #0044ff;
   color: rgb(0, 0, 0);
   border-radius: 8px;
   font-size: 15px;
   margin-left: 20px;
-  box-shadow:1px 0px 10px #007bff;
-  border: 3px solid black,
-
+  box-shadow: 1px 0px 10px #007bff;
+  border: 3px solid black;
 }
 
-.addbtn:hover{
+.addbtn:hover {
   transform: scale(1.02);
 }
 
-.favplayerbutton{
-  background-color:#ff0000;
-   margin:20px 10px 10px 10px;
-  color:white;
-  font-size:15px;
-  border:none; 
-  border-radius:8px;
+.favplayerbutton {
+  background-color: #ff0000;
+  margin: 20px 10px 10px 10px;
+  color: white;
+  font-size: 15px;
+  border: none;
+  border-radius: 8px;
 }
 
-.favplayerbutton:hover{
-   transform: scale(1.05);
+.favplayerbutton:hover {
+  transform: scale(1.05);
 }

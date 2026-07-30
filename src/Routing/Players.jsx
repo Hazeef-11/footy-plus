@@ -33,16 +33,16 @@ const Players = () => {
   );
 
   let handleDelete = (id) => {
-    axios.delete(`https://footyplus-api-1.onrender.com/players/${id}`).then((res) => {
-      let del = data.filter((dlt) => dlt.id !== id);
-      setData(del);
-       Swal.fire({
-        icon: "error",
-        title: "Player is deleted successfully",
-        
-        
+    axios
+      .delete(`https://footyplus-api-1.onrender.com/players/${id}`)
+      .then((res) => {
+        let del = data.filter((dlt) => dlt.id !== id);
+        setData(del);
+        Swal.fire({
+          icon: "error",
+          title: "Player is deleted successfully",
+        });
       });
-    });
   };
 
   let handlefav = (database) => {
@@ -52,8 +52,6 @@ const Players = () => {
       Swal.fire({
         icon: "error",
         title: "Player is already in Favorites",
-        
-        
       });
     } else {
       dispatch(additem(database));
@@ -67,10 +65,14 @@ const Players = () => {
   if (loading) {
     return (
       <div>
-        <img className="bg" src="https://casadepaconj.com/wp-content/uploads/2026/04/home-banner-scaled.webp" alt="" />
+        <img
+          className="bg"
+          src="https://casadepaconj.com/wp-content/uploads/2026/04/home-banner-scaled.webp"
+          alt=""
+        />
         <div className="loading">
           <Atom color="#ffffff" size="large" text="" textColor="" />
-          <h3 style={{color:"white"}}>Loading.....</h3>
+          <h3 style={{ color: "white" }}>Loading.....</h3>
         </div>
       </div>
     );
@@ -79,7 +81,11 @@ const Players = () => {
   if (error) {
     return (
       <div>
-        <img className="bg" src="https://casadepaconj.com/wp-content/uploads/2026/04/home-banner-scaled.webp" alt="" />
+        <img
+          className="bg"
+          src="https://casadepaconj.com/wp-content/uploads/2026/04/home-banner-scaled.webp"
+          alt=""
+        />
         <h1
           style={{
             position: "absolute",
@@ -96,22 +102,86 @@ const Players = () => {
   }
   return (
     <div>
-      <img className="bg" src="https://casadepaconj.com/wp-content/uploads/2026/04/home-banner-scaled.webp" alt="" />
-      <img className="bg1" src="https://casadepaconj.com/wp-content/uploads/2026/04/home-banner-scaled.webp" alt="" />
-      <img className="bg1" src="https://casadepaconj.com/wp-content/uploads/2026/04/home-banner-scaled.webp" alt="" />
-      <img className="bg1" src="https://casadepaconj.com/wp-content/uploads/2026/04/home-banner-scaled.webp" alt="" />
-      <img className="bg1" src="https://casadepaconj.com/wp-content/uploads/2026/04/home-banner-scaled.webp" alt="" />
-      <img className="bg1" src="https://casadepaconj.com/wp-content/uploads/2026/04/home-banner-scaled.webp" alt="" />
-      <img className="bg1" src="https://casadepaconj.com/wp-content/uploads/2026/04/home-banner-scaled.webp" alt="" />
-      <img className="bg1" src="https://casadepaconj.com/wp-content/uploads/2026/04/home-banner-scaled.webp" alt="" />
-      <img className="bg1" src="https://casadepaconj.com/wp-content/uploads/2026/04/home-banner-scaled.webp" alt="" />
-      <img className="bg1" src="https://casadepaconj.com/wp-content/uploads/2026/04/home-banner-scaled.webp" alt="" />
-      <img className="bg1" src="https://casadepaconj.com/wp-content/uploads/2026/04/home-banner-scaled.webp" alt="" />
-      <img className="bg1" src="https://casadepaconj.com/wp-content/uploads/2026/04/home-banner-scaled.webp" alt="" />
-      <img className="bg1" src="https://casadepaconj.com/wp-content/uploads/2026/04/home-banner-scaled.webp" alt="" />
-      <img className="bg1" src="https://casadepaconj.com/wp-content/uploads/2026/04/home-banner-scaled.webp" alt="" />
-      <img className="bg1" src="https://casadepaconj.com/wp-content/uploads/2026/04/home-banner-scaled.webp" alt="" />
-      <img className="bg1" src="https://casadepaconj.com/wp-content/uploads/2026/04/home-banner-scaled.webp" alt="" />
+      <img
+        className="bg"
+        src="https://casadepaconj.com/wp-content/uploads/2026/04/home-banner-scaled.webp"
+        alt=""
+      />
+      <img
+        className="bg1"
+        src="https://casadepaconj.com/wp-content/uploads/2026/04/home-banner-scaled.webp"
+        alt=""
+      />
+      <img
+        className="bg1"
+        src="https://casadepaconj.com/wp-content/uploads/2026/04/home-banner-scaled.webp"
+        alt=""
+      />
+      <img
+        className="bg1"
+        src="https://casadepaconj.com/wp-content/uploads/2026/04/home-banner-scaled.webp"
+        alt=""
+      />
+      <img
+        className="bg1"
+        src="https://casadepaconj.com/wp-content/uploads/2026/04/home-banner-scaled.webp"
+        alt=""
+      />
+      <img
+        className="bg1"
+        src="https://casadepaconj.com/wp-content/uploads/2026/04/home-banner-scaled.webp"
+        alt=""
+      />
+      <img
+        className="bg1"
+        src="https://casadepaconj.com/wp-content/uploads/2026/04/home-banner-scaled.webp"
+        alt=""
+      />
+      <img
+        className="bg1"
+        src="https://casadepaconj.com/wp-content/uploads/2026/04/home-banner-scaled.webp"
+        alt=""
+      />
+      <img
+        className="bg1"
+        src="https://casadepaconj.com/wp-content/uploads/2026/04/home-banner-scaled.webp"
+        alt=""
+      />
+      <img
+        className="bg1"
+        src="https://casadepaconj.com/wp-content/uploads/2026/04/home-banner-scaled.webp"
+        alt=""
+      />
+      <img
+        className="bg1"
+        src="https://casadepaconj.com/wp-content/uploads/2026/04/home-banner-scaled.webp"
+        alt=""
+      />
+      <img
+        className="bg1"
+        src="https://casadepaconj.com/wp-content/uploads/2026/04/home-banner-scaled.webp"
+        alt=""
+      />
+      <img
+        className="bg1"
+        src="https://casadepaconj.com/wp-content/uploads/2026/04/home-banner-scaled.webp"
+        alt=""
+      />
+      <img
+        className="bg1"
+        src="https://casadepaconj.com/wp-content/uploads/2026/04/home-banner-scaled.webp"
+        alt=""
+      />
+      <img
+        className="bg1"
+        src="https://casadepaconj.com/wp-content/uploads/2026/04/home-banner-scaled.webp"
+        alt=""
+      />
+      <img
+        className="bg1"
+        src="https://casadepaconj.com/wp-content/uploads/2026/04/home-banner-scaled.webp"
+        alt=""
+      />
       <div className="mainsearch">
         <input
           type="text"
@@ -125,10 +195,15 @@ const Players = () => {
           }}
           onChange={(e) => setValue(e.target.value)}
         />
-        <FaSearch style={{ color: "black", marginLeft: "-30px",marginTop:"15px" }} />
-        <div><button className="addbtn"onClick={()=>navigate("/create")}><IoPersonAddSharp/> <br />Add new player</button></div>
-
-       
+        <FaSearch
+          style={{ color: "black", marginLeft: "-30px", marginTop: "15px" }}
+        />
+        <div>
+          <button className="addbtn" onClick={() => navigate("/create")}>
+            <IoPersonAddSharp /> <br />
+            Add new player
+          </button>
+        </div>
       </div>
       <h1 className="mainText1">Find the Players Who Inspire You</h1>
       <section className="product2">
@@ -195,7 +270,7 @@ const Players = () => {
                   Delete
                 </button>
                 <button
-                className="three"
+                  className="three"
                   style={{
                     position: "absolute",
                     backgroundColor: "#000000",
