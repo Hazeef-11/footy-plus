@@ -21,7 +21,7 @@ const Favplayer = () => {
 
     Swal.fire({
       icon: "error",
-      title: "Player has been deleted from favorites",
+      title: "Player has been deleted from favourites",
     });
   };
 
@@ -40,7 +40,7 @@ const Favplayer = () => {
 
       {favplayer.length > 0 ? (
         <>
-          <h1 className="mainText1">Your Favorite Players Collection </h1>
+          <h1 className="mainText1">Collection of Your Favourite Players </h1>
 
           <section className="product3">
             {favplayer.map((db) => (
@@ -63,9 +63,9 @@ const Favplayer = () => {
                   <Card.Title style={{ fontSize: "25px" }}>
                     {db.name}
                   </Card.Title>
-                  <Card.Text>Nationality : {db.country}</Card.Text>
+                  <Card.Text>Nationality: {db.country}</Card.Text>
                   <Card.Text style={{ marginTop: "-10px" }}>
-                    Position : {db.position}
+                    Position: {db.position}
                   </Card.Text>
                   <button className="leagueBtn">
                     <Link
@@ -93,7 +93,7 @@ const Favplayer = () => {
         </>
       ) : (
         <div>
-          <h1 className="mainText1">Build Your Favorite Players Collection</h1>
+          <h1 className="mainText1">Add Your Favourite Players</h1>
         </div>
       )}
     </div>

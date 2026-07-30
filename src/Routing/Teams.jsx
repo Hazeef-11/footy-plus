@@ -58,7 +58,7 @@ const Teams = () => {
         alt=""
       />
 
-      <h1 className="mainText">Discover Your Favouirte Football Teams</h1>
+      <h1 className="mainText">Discover Your Favourite Football Teams</h1>
       <section className="product">
         {data.map((db) => (
           <Card

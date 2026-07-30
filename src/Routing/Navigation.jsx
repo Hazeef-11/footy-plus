@@ -37,7 +37,7 @@ const Navigation = () => {
             <span>
               <MdFavoriteBorder />{" "}
             </span>
-            <h5>Favourite</h5>
+            <h5>Favourites</h5>
           </button>
         </Container>
       </Navbar>

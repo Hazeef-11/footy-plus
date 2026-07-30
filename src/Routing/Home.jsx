@@ -71,16 +71,13 @@ const Home = () => {
             }}
           />
           <h6>
-            Track matches, explore player stats, follow your favorite clubs, and
-            experience football like never before.
+            Track matches, explore player statistics, follow your favourite clubs, and experience football like never before. 
           </h6>
         </div>
         <section className="fan-zone">
           <h2>Join the FootyPlus Community</h2>
           <p>
-            Explore football with detailed team and player statistics, discover
-            your favorite clubs, and stay connected to every moment of the
-            beautiful game.{" "}
+            Explore football with detailed team and player statistics, discover your favourite clubs, and stay connected to every moment of the beautiful game.
           </p>
           <button className="join-btn" onClick={() => navigate("/teams")}>
             Get Started ➜

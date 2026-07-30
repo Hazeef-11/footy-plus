@@ -51,12 +51,12 @@ const Players = () => {
     if (checkList) {
       Swal.fire({
         icon: "error",
-        title: "Player is already in Favorites",
+        title: "Player is already in favourites",
       });
     } else {
       dispatch(additem(database));
       Swal.fire({
-        title: "Player has been added to favorites",
+        title: "Player has been added to favourites",
         icon: "success",
         draggable: true,
       });
@@ -185,7 +185,7 @@ const Players = () => {
       <div className="mainsearch">
         <input
           type="text"
-          placeholder="Search Teams......."
+          placeholder="Search Players..."
           style={{
             padding: "10px 200px 10px 20px",
             borderRadius: "10px",
@@ -201,7 +201,7 @@ const Players = () => {
         <div>
           <button className="addbtn" onClick={() => navigate("/create")}>
             <IoPersonAddSharp /> <br />
-            Add new player
+            Add New Player
           </button>
         </div>
       </div>
@@ -225,9 +225,9 @@ const Players = () => {
             />
             <Card.Body className="mild">
               <Card.Title style={{ fontSize: "25px" }}>{db.name}</Card.Title>
-              <Card.Text>Nationality : {db.country}</Card.Text>
+              <Card.Text>Nationality: {db.country}</Card.Text>
               <Card.Text style={{ marginTop: "-10px" }}>
-                Position : {db.position}
+                Position: {db.position}
               </Card.Text>
               <button className="leagueBtn">
                 <Link
@@ -274,8 +274,8 @@ const Players = () => {
                   style={{
                     position: "absolute",
                     backgroundColor: "#000000",
-                    marginTop: "-373px",
-                    marginLeft: "-10px",
+                    marginTop: "-372px",
+                    marginLeft: "-18px",
                     color: "white",
                     fontSize: "10px",
                     border: "none",
@@ -286,7 +286,7 @@ const Players = () => {
                 >
                   <MdFavorite />
                   <br />
-                  favorite
+                  Favourite
                 </button>
               </div>
             </Card.Body>

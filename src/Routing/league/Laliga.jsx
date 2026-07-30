@@ -74,7 +74,7 @@ const Laliga = () => {
       <div className="mainsearch">
         <input
           type="text"
-          placeholder="Search Teams......."
+          placeholder="Search Teams..."
           style={{
             padding: "10px 200px 10px 20px",
             borderRadius: "10px",
@@ -88,7 +88,7 @@ const Laliga = () => {
           style={{ color: "black", marginLeft: "-30px", marginTop: "15px" }}
         />
       </div>
-      <h1 className="mainText1">Discover Your Favouirt Football Teams</h1>
+      <h1 className="mainText1">Discover Your Favourite Football Teams</h1>
       <section className="product1">
         {find.map((db) => (
           <Card
@@ -99,7 +99,7 @@ const Laliga = () => {
             <Card.Img className="leaguelogo1" variant="top" src={db.logo} />
             <Card.Body className="mild">
               <Card.Title style={{ fontSize: "25px" }}>{db.name}</Card.Title>
-              <Card.Text>Since : {db.founded}</Card.Text>
+              <Card.Text>Founded: {db.founded}</Card.Text>
               <button className="leagueBtn">
                 <Link
                   to={`/laligateams/${db.id}`}

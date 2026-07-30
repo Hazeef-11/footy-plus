@@ -81,7 +81,7 @@ const Create = () => {
         </div>
         <div>
           <label style={{ marginLeft: "-15px" }} htmlFor="">
-            Photo Url :
+            Photo URL :
           </label>
           <input
             name="photo"

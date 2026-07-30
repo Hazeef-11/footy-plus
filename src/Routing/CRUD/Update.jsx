@@ -48,7 +48,7 @@ const Update = () => {
         alt=""
       />
       <div className="updateform1">
-        <h3 style={{ marginLeft: "15px" }}>Update player</h3>
+        <h3 style={{ marginLeft: "15px" }}>Update Player</h3>
         <div>
           <label style={{ marginLeft: "15px" }}> Name :</label>
           <input
