@@ -13,7 +13,8 @@ const LaligaTeams = () => {
   return (
   <div>
     <img className="bg" src="https://casadepaconj.com/wp-content/uploads/2026/04/home-banner-scaled.webp" alt="" />
-    <img className="bg" src="https://casadepaconj.com/wp-content/uploads/2026/04/home-banner-scaled.webp" alt="" />
+    <img className="bg" style={{height:"130vh",width:"100vw"}} src="https://casadepaconj.com/wp-content/uploads/2026/04/home-banner-scaled.webp" alt="" />
+
 
 
   

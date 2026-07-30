@@ -43,7 +43,7 @@ const Create = () => {
     <div>
       <img className="bg" src="https://casadepaconj.com/wp-content/uploads/2026/04/home-banner-scaled.webp" alt="" />
       <div className="updateform">
-        <h3 style={{ marginLeft: "15px" }}>Create Player</h3>
+        <h3 style={{ marginLeft: "15px" }}>Create New Player</h3>
         <div>
           <label style={{ marginLeft: "15px" }}> Name :</label>
           <input

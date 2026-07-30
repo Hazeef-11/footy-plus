@@ -20,6 +20,7 @@ const Home = () => {
           <img className="bg" src="https://casadepaconj.com/wp-content/uploads/2026/04/home-banner-scaled.webp" alt="" />
           <div className="loading">
             <Atom color="#ffffff" size="large" text="" textColor="" />
+          <h3 style={{color:"white"}}>Loading.....</h3>
           </div>
         </div>
       );
@@ -33,7 +34,7 @@ const Home = () => {
             style={{
               position: "absolute",
               zIndex: 5,
-              marginTop: -700,
+              marginTop: -575,
               marginLeft: 550,
               color: "white",
             }}
@@ -50,9 +51,11 @@ const Home = () => {
       <img className="bg" src="https://casadepaconj.com/wp-content/uploads/2026/04/home-banner-scaled.webp" alt="" />
        
       <div className="hometext">
+
+        <div className="main-text">
         
         <TypeAnimation
-          sequence={["Welcome to FootyPlus ", 2000]}
+          sequence={["Welcome to FootyPlus  ", 2000]}
           wrapper="span"
           speed={50}
           repeat={3}
@@ -66,15 +69,11 @@ const Home = () => {
           Track matches, explore player stats, follow your favorite clubs, and
           experience football like never before.
         </h6>
-
+</div>
     <section className="fan-zone">
   <h2>Join the FootyPlus Community</h2>
   <p>
-    Be part of the passion — connect with 
-    <span className="fan-link"> you </span>, 
-    <span className="fan-link"> explore </span> highlights, and 
-    <span className="fan-link"> navigate </span> every goal together!
-  </p>
+Explore football with detailed team and player statistics, discover your favorite clubs, and stay connected to every moment of the beautiful game.  </p>
   <button className="join-btn" onClick={()=>navigate("/teams")}>Get Started ➜</button>
 </section>
 

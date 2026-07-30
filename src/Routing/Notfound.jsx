@@ -7,6 +7,7 @@ const Notfound = () => {
         <img className="bg" src="https://casadepaconj.com/wp-content/uploads/2026/04/home-banner-scaled.webp" alt="" />
         <div className="loading">
           <Atom color="#ffffff" size="medium" text="" textColor="" />
+          <h3 style={{color:"white"}}>Loading.....</h3>
         </div>
       </div>
     );

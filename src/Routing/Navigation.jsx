@@ -10,7 +10,7 @@ const Navigation = () => {
   let navigate=useNavigate()
   return (
     <div className='nav'>
-      <Navbar style={{width:"100vw"}} bg="black" data-bs-theme="dark">
+      <Navbar className='navbar' bg="black" data-bs-theme="dark">
         <Container>
           <Navbar.Brand className='head'><img className="logo"src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ9VpuO6K9rKaX4u-bpNcyiKS7t7VFfaa9_-BCXwKGiuJwG9qwQ" alt="" />FootyPlus</Navbar.Brand>
           <Nav className="me-auto">
@@ -19,8 +19,8 @@ const Navigation = () => {
             <Nav.Link  as = {Link} to ="/players"  className="me-auto1"><h6>Players</h6></Nav.Link>
             
             
-            <button className='button ' onClick={()=>navigate("/favoriteplayer")}><span><  MdFavoriteBorder/> </span><h5>Favorites</h5></button>
           </Nav>
+            <button className='button ' onClick={()=>navigate("/favoriteplayer")}><span><  MdFavoriteBorder/> </span><h5>Favourite</h5></button>
         </Container>
       </Navbar>
     </div>

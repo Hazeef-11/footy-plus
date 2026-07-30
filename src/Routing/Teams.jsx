@@ -17,6 +17,7 @@ const Teams = () => {
         <img className="bg" src="https://casadepaconj.com/wp-content/uploads/2026/04/home-banner-scaled.webp" alt="" />
         <div className="loading">
           <Atom color="#ffffff" size="large" text="" textColor="" />
+          <h3 style={{color:"white"}}>Loading.....</h3>
         </div>
       </div>
     );
@@ -65,7 +66,7 @@ const Teams = () => {
                   else if (db.name === "Serie A") navigate("/seriea");
                   else if (db.name === "Bundesliga") navigate("/bundlesliga");
                   else if (db.name === "Ligue 1") navigate("/ligue1");
-                  else navigate("/teams"); // fallback
+                  else navigate("/teams");
                 }}
               >
                 Explore League ➜

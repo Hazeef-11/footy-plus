@@ -70,6 +70,7 @@ const Players = () => {
         <img className="bg" src="https://casadepaconj.com/wp-content/uploads/2026/04/home-banner-scaled.webp" alt="" />
         <div className="loading">
           <Atom color="#ffffff" size="large" text="" textColor="" />
+          <h3 style={{color:"white"}}>Loading.....</h3>
         </div>
       </div>
     );
@@ -96,6 +97,11 @@ const Players = () => {
   return (
     <div>
       <img className="bg" src="https://casadepaconj.com/wp-content/uploads/2026/04/home-banner-scaled.webp" alt="" />
+      <img className="bg1" src="https://casadepaconj.com/wp-content/uploads/2026/04/home-banner-scaled.webp" alt="" />
+      <img className="bg1" src="https://casadepaconj.com/wp-content/uploads/2026/04/home-banner-scaled.webp" alt="" />
+      <img className="bg1" src="https://casadepaconj.com/wp-content/uploads/2026/04/home-banner-scaled.webp" alt="" />
+      <img className="bg1" src="https://casadepaconj.com/wp-content/uploads/2026/04/home-banner-scaled.webp" alt="" />
+      <img className="bg1" src="https://casadepaconj.com/wp-content/uploads/2026/04/home-banner-scaled.webp" alt="" />
       <img className="bg1" src="https://casadepaconj.com/wp-content/uploads/2026/04/home-banner-scaled.webp" alt="" />
       <img className="bg1" src="https://casadepaconj.com/wp-content/uploads/2026/04/home-banner-scaled.webp" alt="" />
       <img className="bg1" src="https://casadepaconj.com/wp-content/uploads/2026/04/home-banner-scaled.webp" alt="" />

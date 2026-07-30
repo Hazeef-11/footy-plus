@@ -55,7 +55,7 @@ const Update = () => {
   return (
     <div>
       <img className="bg" src="https://casadepaconj.com/wp-content/uploads/2026/04/home-banner-scaled.webp" alt="" />
-      <div className="updateform">
+      <div className="updateform1">
         <h3 style={{marginLeft:"15px"}}>Update player</h3>
         <div><label style={{marginLeft:"15px"}}> Name :</label><input name="name" style={{ margin: " 20px 5px" }}  placeholder="Name" value={updatedata.name}  type="text" onChange={handleUpdate}/></div>
         <div>
